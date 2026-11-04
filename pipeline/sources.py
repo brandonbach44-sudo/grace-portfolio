@@ -11,6 +11,17 @@ SKIP_MIME = {'application/vnd.google-apps.shortcut', 'application/vnd.google-app
              'application/vnd.google-apps.map', 'application/vnd.google-apps.jam'}
 
 
+MIME_EXT = {'application/pdf': '.pdf', 'image/png': '.png', 'image/jpeg': '.jpg', 'image/webp': '.webp', 'image/gif': '.gif',
+            'image/heic': '.heic', 'image/avif': '.avif',
+            'application/vnd.openxmlformats-officedocument.wordprocessingml.document': '.docx',
+            'application/vnd.openxmlformats-officedocument.presentationml.presentation': '.pptx',
+            'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet': '.xlsx',
+            'application/msword': '.doc', 'application/vnd.ms-powerpoint': '.ppt', 'application/vnd.ms-excel': '.xls'}
+
+def clean_name(name):
+    """Same as Google's zip download: characters that can't be in a file name become '_'."""
+    return re.sub(r'[/\\:*?"<>|]', '_', name)
+
 def skipped(name, excludes):
     n = name.strip().lower()
     return n in excludes or n.endswith('(private)')
@@ -64,12 +75,13 @@ class DriveSource:
         def walk(fid, prefix):
             seen = {}
             for f in sorted(self._children(fid), key=lambda f: (f['name'], f['id'])):
-                mt, name = f['mimeType'], f['name']
+                mt, name = f['mimeType'], clean_name(f['name'])
                 if skipped(name, excludes) or skipped(os.path.splitext(name)[0], excludes): continue
                 if mt == 'application/vnd.google-apps.folder':
                     walk(f['id'], prefix + name + '/'); continue
                 if mt in SKIP_MIME or (mt.startswith('application/vnd.google-apps.') and mt not in EXPORT): continue
                 if mt in EXPORT and not name.lower().endswith(EXPORT[mt][1]): name += EXPORT[mt][1]
+                elif not os.path.splitext(name.strip())[1] and mt in MIME_EXT: name = name + MIME_EXT[mt]
                 if name in seen:   # same name twice in one folder: number it like Drive's zip download does
                     seen[name] += 1; b, x = os.path.splitext(name); name = f'{b} ({seen[name]}){x}'
                 else: seen[name] = 0
