@@ -66,6 +66,15 @@
   "thumb": "thumbs/block-2-math/week-11/activities/nov-literacy-groups.jpg",
   "type": "pdf"
  },
+ "Block 2 Math/Week 11/Slides/B2 Week 11 Slides.docx": {
+  "bytes": 10928,
+  "file": "files/block-2-math/week-11/slides/b2-week-11-slides.pdf",
+  "hash": "txt:7932879299c5a5fe1696d89ae8f78135",
+  "orig_ext": ".docx",
+  "pages": 1,
+  "thumb": "thumbs/block-2-math/week-11/slides/b2-week-11-slides.jpg",
+  "type": "pdf"
+ },
  "Block 2 Math/Week 12/Activities/November Literacy Groups/Bingo/1.png": {
   "bytes": 536367,
   "cleaned": false,
@@ -552,6 +561,51 @@
   "orig_ext": ".pdf",
   "pages": 2,
   "thumb": "thumbs/block-3-math/week-11/notes/absvalueequationsnoteskey.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Notes/Rate of Change Notes KEY.pdf": {
+  "bytes": 32633,
+  "file": "files/block-3-math/week-11/notes/rate-of-change-notes-key.pdf",
+  "hash": "b1ca235c727e02d5cf74a42f97c541ae",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-11/notes/rate-of-change-notes-key.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Notes/Rate of Change_Slope Notes.pdf": {
+  "bytes": 771581,
+  "file": "files/block-3-math/week-11/notes/rate-of-change-slope-notes.pdf",
+  "hash": "967a471eaf2ca38928feffab27a9a604",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-11/notes/rate-of-change-slope-notes.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Notes/Slope Formula Notes.pdf": {
+  "bytes": 690576,
+  "file": "files/block-3-math/week-11/notes/slope-formula-notes.pdf",
+  "hash": "b5db97c885b91d967d62b1d1e6f9b344",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-11/notes/slope-formula-notes.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Notes/Slope Man.jpeg": {
+  "bytes": 8652,
+  "file": "files/block-3-math/week-11/notes/slope-man.jpg",
+  "hash": "105a6d730480fac8ec267c62bbf48c6f",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-11/notes/slope-man.jpg",
+  "type": "image"
+ },
+ "Block 3 Math/Week 11/Notes/SlopeFormulaNotesKEY.pdf": {
+  "bytes": 40591,
+  "file": "files/block-3-math/week-11/notes/slopeformulanoteskey.pdf",
+  "hash": "00e16a3783f8c6833b4f2c3312d71c1e",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-11/notes/slopeformulanoteskey.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 13/Activities/Math Jenga.docx": {
