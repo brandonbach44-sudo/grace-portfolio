@@ -1,11 +1,15 @@
 {
  "Block 2 Math/General/News2You Warm-Up Link.docx": {
   "hash": "txt:8b2bc28780c062ddc301a854cae4d7bf",
-  "key": "d6b15c276cc0772a6a9b2d4676b9f51d"
+  "key": "mod:2026-10-23T18:02:50.477Z"
  },
- "Block 2 Math/General/WarmUps.pdf": {
+ "Block 2 Math/General/WarmUps": {
   "hash": "c337e86221656f98186667d1256cb5f8",
   "key": "c337e86221656f98186667d1256cb5f8"
+ },
+ "Block 2 Math/Sign of the Week.pptx": {
+  "hash": "7df2ac6b8830314655caaa76cd18bebc",
+  "key": "mod:2026-09-06T20:47:58.966Z"
  },
  "Block 2 Math/Week 1/Life Skills Math - Week 1 - Tuesday.pdf": {
   "hash": "70d205176e55c084ae61a7cca17dfbf2",
@@ -23,17 +27,33 @@
   "hash": "5889905b3f66269541c7e8559820431b",
   "key": "5889905b3f66269541c7e8559820431b"
  },
+ "Block 2 Math/Week 10/Lesson Plans/B2:11-2LessonPlan.docx": {
+  "hash": "txt:fbb09e6ef2426783cbf808a115f2a503",
+  "key": "c9d86a61148ce96227ae802c2516ee82"
+ },
+ "Block 2 Math/Week 10/Lesson Plans/B2:11-5LessonPlan.docx": {
+  "hash": "txt:7454cf3af87fa9862ade3cf2f1d8ca7f",
+  "key": "a7e95b5500c54028ca969c344377ac2f"
+ },
+ "Block 2 Math/Week 10/Lesson Plans/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
+ },
  "Block 2 Math/Week 10/Slides/B2 Week 10 Slides.docx": {
   "hash": "txt:d5ba36c534a1570d489e9f5cb9e83f7b",
-  "key": "59633394dc95d5eee3faa00d68b5c7fe"
+  "key": "mod:2026-10-27T10:49:51.861Z"
  },
  "Block 2 Math/Week 11/Activities /Copy of November Math and Literacy Event.docx": {
   "hash": "txt:ba81d10c54059e6d3bcd303f7848d615",
-  "key": "1c519359b27a6dc7183d9abeade136b6"
+  "key": "mod:2026-10-19T14:05:59.933Z"
  },
  "Block 2 Math/Week 11/Activities /Nov Literacy Groups.docx": {
   "hash": "txt:67e866c735744ec6037b77b623ee022d",
-  "key": "f69407d2d26bc8af176ed2f92145c07f"
+  "key": "mod:2026-10-19T14:04:53.015Z"
+ },
+ "Block 2 Math/Week 11/Lesson Plans/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
  },
  "Block 2 Math/Week 12/Activities/November Literacy Groups/Bingo/1.png": {
   "hash": "41636693152e0492ce3c00a02cfb367f",
@@ -66,6 +86,10 @@
  "Block 2 Math/Week 12/Activities/November Literacy Groups/Bingo/8.png": {
   "hash": "2c1c8587a3b890d49dcac999f10fdef9",
   "key": "2c1c8587a3b890d49dcac999f10fdef9"
+ },
+ "Block 2 Math/Week 12/Activities/November Literacy Groups/Compound Word Cards/Compound Words Worksheet ": {
+  "hash": "7c2c1a4fd90275989ac255502e18c7c9",
+  "key": "7c2c1a4fd90275989ac255502e18c7c9"
  },
  "Block 2 Math/Week 12/Activities/November Literacy Groups/Compound Word Cards/CompoundWordCards.png": {
   "hash": "9be6091f48ca76f5da5ebcb876099dcb",
@@ -115,9 +139,25 @@
   "hash": "3fa4ab004ec1e2273c90de596b2d9c14",
   "key": "3fa4ab004ec1e2273c90de596b2d9c14"
  },
+ "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/StuffTheTurkey.jpeg": {
+  "hash": "8db251956cbea7e7f5257691f0b82706",
+  "key": "8db251956cbea7e7f5257691f0b82706"
+ },
+ "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/StuffTheTurkey1.jpeg": {
+  "hash": "da361845313c377ac451656e2fbc03cf",
+  "key": "da361845313c377ac451656e2fbc03cf"
+ },
  "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/Turkey Template.png": {
   "hash": "4c8a8323cf15c38f539af5e12e66727c",
   "key": "4c8a8323cf15c38f539af5e12e66727c"
+ },
+ "Block 2 Math/Week 12/Lesson Plans/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
+ },
+ "Block 2 Math/Week 14/Lesson Plans/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
  },
  "Block 2 Math/Week 15/Holiday Cards/Green Red Traditional Festive Chrismas Greeting Holiday Card.pdf": {
   "hash": "3f1ee7ecbcf4c4660ec0c89888806c89",
@@ -127,17 +167,57 @@
   "hash": "bafd8747845474bc909f27e4c444ecb8",
   "key": "bafd8747845474bc909f27e4c444ecb8"
  },
+ "Block 2 Math/Week 2/Lesson Plans/9-9LessonPlan.docx": {
+  "hash": "txt:661d8fd981669589d0f37e8a1112f7ae",
+  "key": "8930c9f50a2279b776dd4e705ac4d495"
+ },
  "Block 2 Math/Week 2/Slides/B2 Week 2 Canva Slides.docx": {
   "hash": "txt:6dbc989ce10dbcbf7f1c2bb246faf2b3",
-  "key": "f5085ab2988fd9aee70785ba119eae38"
+  "key": "mod:2026-09-17T21:33:52.336Z"
  },
  "Block 2 Math/Week 3/Activities/Dot to Dot.docx": {
   "hash": "txt:d41d8cd98f00b204e9800998ecf8427e",
-  "key": "e407c4befada3989ed8943130a20c56e"
+  "key": "mod:2026-09-12T19:40:39.272Z"
+ },
+ "Block 2 Math/Week 3/Lesson Plans/B2:9-14LessonPlan.docx": {
+  "hash": "txt:c308575e3a2dea6059e76d1e0cd1f8e5",
+  "key": "ce7f898cda2afdb5f11c3546cde1bca2"
+ },
+ "Block 2 Math/Week 3/Lesson Plans/B2:9-15LessonPlan.docx": {
+  "hash": "txt:c8832c577c9a09b67a6ad3e7b19953c4",
+  "key": "8d2e9dbba5fcf653d7c326876e5a1c36"
+ },
+ "Block 2 Math/Week 3/Lesson Plans/B2:9-16LessonPlan.docx": {
+  "hash": "txt:dbdb08be1b8983c47a0fd19005c2d3d2",
+  "key": "7e4470aba0a592ed9f1638d9f6e72c66"
+ },
+ "Block 2 Math/Week 3/Lesson Plans/B2:9-17LessonPlan.docx": {
+  "hash": "txt:4cb8c8d677d3f49564bdfdcc312342ca",
+  "key": "9755159216959ab0ffd0b1ab850a1192"
+ },
+ "Block 2 Math/Week 3/Lesson Plans/B2:9-18LessonPlan.docx": {
+  "hash": "txt:4c52020dddbfaea6fb8a75182afaa26a",
+  "key": "8445a428ade83a40a3ebe257ad139a26"
+ },
+ "Block 2 Math/Week 4/Lesson Plans/B2:9-22LessonPlan.docx": {
+  "hash": "txt:495f2116cea7d368b5a6c9106c465fad",
+  "key": "4b2be03ba6396baa50314137a978daa9"
+ },
+ "Block 2 Math/Week 4/Lesson Plans/B2:9-23LessonPlan.docx": {
+  "hash": "txt:ed8ff509093eacc20c7bd457a37cd825",
+  "key": "573b3c7f9bfe36633e7ee5c77560ff93"
+ },
+ "Block 2 Math/Week 4/Lesson Plans/B2:9-24LessonPlan.docx": {
+  "hash": "txt:fec9ef087f86a05fba36644087b27662",
+  "key": "a12e8897ab7b75fb1785233b8f33dda1"
+ },
+ "Block 2 Math/Week 4/Lesson Plans/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
  },
  "Block 2 Math/Week 4/Slides/Canva Slides B2 Week 4.docx": {
   "hash": "txt:e210a2f9ed9734edd09e43ecdbe482a0",
-  "key": "67bf71cd7d5c8815a39a11847bd6b19c"
+  "key": "mod:2026-09-15T13:04:25.088Z"
  },
  "Block 2 Math/Week 5/Activities/29.pdf": {
   "hash": "019fc6d8f04d097f8893b8f4c104aeab",
@@ -145,51 +225,179 @@
  },
  "Block 2 Math/Week 5/Lesson Plans/10-1 BankabilityDayLessonPlan.docx": {
   "hash": "txt:4536472a4550d18a2c17854ee972fbf7",
-  "key": "91247bf9d832cc9872e9ffb3989cc940"
+  "key": "mod:2026-09-27T14:42:28.293Z"
+ },
+ "Block 2 Math/Week 5/Lesson Plans/B2:9-28LessonPlan.docx": {
+  "hash": "txt:116bb46e3c08d4121e32984f772ed586",
+  "key": "2cf378f6441518d86ccc61a92b7c8f02"
+ },
+ "Block 2 Math/Week 5/Lesson Plans/B2:9-29LessonPlan.docx": {
+  "hash": "txt:7bcad793a65f1896a9c8952628ef6364",
+  "key": "22a9b8a9d6f937c87c814d31c9ff15d8"
+ },
+ "Block 2 Math/Week 6/Lesson Plans/B2:10-5LessonPlan.docx": {
+  "hash": "txt:cba3f37e5f4120781aee878af7b4efd5",
+  "key": "5bba5abcb61d701ccd198884ee1e9fdd"
+ },
+ "Block 2 Math/Week 6/Lesson Plans/B2:10-6LessonPlan.docx": {
+  "hash": "txt:777420ab0e58ecfe7caae0653d79ab8e",
+  "key": "08b626dab5ae58e95346694f5887cb82"
+ },
+ "Block 2 Math/Week 6/Lesson Plans/B2:10-7LessonPlan.docx": {
+  "hash": "txt:961108f85381e180336823e65ed84571",
+  "key": "73d79556464ff613643991b4f3e404a2"
+ },
+ "Block 2 Math/Week 6/Lesson Plans/B2:10-8LessonPlan.docx": {
+  "hash": "txt:b5d0c7acdcc8ec4f052cc2dba314ce3f",
+  "key": "1dc61fe47e802ecd096b551305efc999"
+ },
+ "Block 2 Math/Week 6/Lesson Plans/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
  },
  "Block 2 Math/Week 6/Slides/B2 Week 6 Slides.docx": {
   "hash": "txt:e8a1f76dd6a8efb47f0d1953818b664f",
-  "key": "250f44dfb87934dfbe3f5279438f4120"
+  "key": "mod:2026-10-04T18:33:39.136Z"
  },
  "Block 2 Math/Week 7/Activities/10-13WarmUp.pdf": {
   "hash": "0f72c4cce7aaf228bc1da681611275ca",
   "key": "0f72c4cce7aaf228bc1da681611275ca"
  },
- "Block 2 Math/Week 7/Activities/Wed 10_14_ Math and Literacy Event.docx": {
+ "Block 2 Math/Week 7/Activities/Wed 10/14: Math and Literacy Event.docx": {
   "hash": "txt:6ff99b6e72fb0c27cf96371d16d23ed3",
-  "key": "5ba923b003c23e25364ef525dd003767"
+  "key": "mod:2026-10-15T03:01:36.348Z"
+ },
+ "Block 2 Math/Week 7/Lesson Plan/B2:10-13LessonPlan.docx": {
+  "hash": "txt:d2daa4c39050dd93218baf7d3da8fc2f",
+  "key": "246664b2365f7160946ca225c72ad2a9"
+ },
+ "Block 2 Math/Week 7/Lesson Plan/B2:10-15LessonPlan.docx": {
+  "hash": "txt:707bcee64e034ac077fdf9027c789069",
+  "key": "573720c6986ce7f79757583e1d2912bd"
+ },
+ "Block 2 Math/Week 7/Lesson Plan/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
  },
  "Block 2 Math/Week 7/Slides/B2 Week 7 Slides.docx": {
   "hash": "txt:e73242996a33d3279858d62ab565f393",
-  "key": "c76fe318940db2a78380a678dfefa0d5"
+  "key": "mod:2026-10-06T13:11:43.226Z"
  },
  "Block 2 Math/Week 8/Activities/Mindfulness week 8.docx": {
   "hash": "txt:eee586bf7ea1be66f3aeecc958033099",
-  "key": "a9e4476348569e3b1be25bf4cc08fd3e"
+  "key": "mod:2026-10-22T13:28:41.120Z"
+ },
+ "Block 2 Math/Week 8/Lesson Plans/Async Lesson Plans.docx": {
+  "hash": "txt:1e1c285e5be95f212626c5c3ae8bdd22",
+  "key": "745fb3f2633883b903a1315cbdc58b82"
+ },
+ "Block 2 Math/Week 8/Lesson Plans/B2:10-19LessonPlan.docx": {
+  "hash": "txt:6711ee573d12ddb86bf54eb2aee29960",
+  "key": "76d78bf742008bb4ceb94970772a41a2"
+ },
+ "Block 2 Math/Week 8/Lesson Plans/B2:10-20LessonPlan.docx": {
+  "hash": "txt:97ed6748dc9979360346ae766c479d5e",
+  "key": "612b3f36b579713068821de1b8ecc0d2"
+ },
+ "Block 2 Math/Week 8/Lesson Plans/B2:10-21LessonPlan.docx": {
+  "hash": "txt:de15e85738774939b17c12d48538d1d1",
+  "key": "2701b3fd4240c6c353d2127c3f0eb9c5"
+ },
+ "Block 2 Math/Week 8/Lesson Plans/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
  },
  "Block 2 Math/Week 8/Slides/B2 Week 8 Slides.docx": {
   "hash": "txt:2e2cee75376f8aefb6fa08e9fa52cf80",
-  "key": "c507444536c05e2b2385234b999dd36f"
+  "key": "mod:2026-10-25T13:12:27.908Z"
  },
  "Block 2 Math/Week 9/Activities/measuring cup WU.JPG": {
   "hash": "1ae67f64739ac25d4df15fff080bba93",
   "key": "1ae67f64739ac25d4df15fff080bba93"
  },
+ "Block 2 Math/Week 9/Lesson Plans/B2:10-26LessonPlan.docx": {
+  "hash": "txt:d653405423fe81ac63c20cd49698078e",
+  "key": "8a1d44ae67565fefed1745ec3e42f6cb"
+ },
+ "Block 2 Math/Week 9/Lesson Plans/B2:10-27LessonPlan.docx": {
+  "hash": "txt:1b033183c90391f6569b77ddd1a29970",
+  "key": "a10b8cd025bf500b35bc8c4ecaf1a979"
+ },
+ "Block 2 Math/Week 9/Lesson Plans/B2:10-28LessonPlan.docx": {
+  "hash": "txt:72aa0053bccad87427e977397b0b3a14",
+  "key": "c38b281b521252e0d449ac4c8db96c88"
+ },
+ "Block 2 Math/Week 9/Lesson Plans/B2:10-29LessonPlan.docx": {
+  "hash": "txt:9b9cdaeb7e53838b7ebcc5660971c2e5",
+  "key": "b2052303ee7e6c550375a8fa22a3a63e"
+ },
+ "Block 2 Math/Week 9/Lesson Plans/BankabilityDayLessonPlan.pdf": {
+  "hash": "bafd8747845474bc909f27e4c444ecb8",
+  "key": "bafd8747845474bc909f27e4c444ecb8"
+ },
  "Block 2 Math/Week 9/Slides/Week 9 Slides.docx": {
   "hash": "txt:fa2525d9e972d86db74c93836cd814be",
-  "key": "ffad85c5a25bcc06548e4b168482f7ec"
+  "key": "mod:2026-10-22T13:46:08.362Z"
+ },
+ "Block 3 Math/Week 10/Activities/ProportionPracticeKey.pdf": {
+  "hash": "1e2a5f86107e17b9a324c4eb9f701166",
+  "key": "1e2a5f86107e17b9a324c4eb9f701166"
+ },
+ "Block 3 Math/Week 10/Activities/ProportionsPractice.pdf": {
+  "hash": "5e2c8952be5a4c3a218e416b2a1410a7",
+  "key": "5e2c8952be5a4c3a218e416b2a1410a7"
+ },
+ "Block 3 Math/Week 10/Activities/Quiz Distributive Property, Variables on Both Sides, and Multistep Equations.docx": {
+  "hash": "txt:9c0e682775bbdb3bc5cc40ceb2079558",
+  "key": "daf863f78b65e301cc5bf762e1c090d8"
  },
  "Block 3 Math/Week 10/Activities/Quiz Review Distributive Property, Variables on Both Sides, and Multistep Equations.docx": {
-  "hash": "txt:d457290b0c2df8c42bb4fc2291d5f77e",
-  "key": "d6fb72ada9305755dd4c75c0fb9b82e7"
+  "hash": "txt:8a40bef2d82e5691f18dcca252bc8436",
+  "key": "59c78f7512283c8a54e421ac027fb056"
  },
- "Block 3 Math/Week 10/Lesson Plans/B3_11-2_4LessonPlan.docx": {
+ "Block 3 Math/Week 10/Activities/VBS Warm-Up.docx": {
+  "hash": "txt:62d6943f43a22213d203a6c6007dd43d",
+  "key": "mod:2026-10-29T12:09:59.678Z"
+ },
+ "Block 3 Math/Week 10/Lesson Plans/B3:11-2/4LessonPlan.docx": {
   "hash": "txt:d2101fe85a0567ea119f66c8fd1a12b8",
   "key": "a12fe21c5d9424e0d9f4ea84aa95c4d1"
  },
+ "Block 3 Math/Week 10/Lesson Plans/B3:11-5/6LessonPlan.docx": {
+  "hash": "txt:f632b7740b4b4049bc3d1cc75cee9876",
+  "key": "3f4a4c37f79f3960957fc5487de25172"
+ },
+ "Block 3 Math/Week 10/Notes/ProportionNotes.pdf": {
+  "hash": "9956585311962fa91231250203578a84",
+  "key": "9956585311962fa91231250203578a84"
+ },
+ "Block 3 Math/Week 10/Notes/ProportionsNotesKEY.pdf": {
+  "hash": "ec21c7285fe2f2ea91bd8ae35a4c210d",
+  "key": "ec21c7285fe2f2ea91bd8ae35a4c210d"
+ },
+ "Block 3 Math/Week 10/Slides/B3 Week 10 Slides.docx": {
+  "hash": "txt:d3882df93967e9d4f47c5f0b24636259",
+  "key": "mod:2026-10-29T12:15:13.042Z"
+ },
+ "Block 3 Math/Week 11/Activities /AbsValueEqPracticeKEY.pdf": {
+  "hash": "6a93815a32c36cce34bfaf516c85a928",
+  "key": "6a93815a32c36cce34bfaf516c85a928"
+ },
+ "Block 3 Math/Week 11/Activities /AbsValueEquationPractice.pdf": {
+  "hash": "1c17aa3b7583ee96bc002df3c0c99b9a",
+  "key": "1c17aa3b7583ee96bc002df3c0c99b9a"
+ },
+ "Block 3 Math/Week 11/Notes/AbValueEquationsNotes.pdf": {
+  "hash": "97b36e2049a2598e3469cbcb481d8508",
+  "key": "97b36e2049a2598e3469cbcb481d8508"
+ },
+ "Block 3 Math/Week 11/Notes/AbsValueEquationsNotesKEY.pdf": {
+  "hash": "ba24bfcf31788ebc7c36fc431a994d01",
+  "key": "ba24bfcf31788ebc7c36fc431a994d01"
+ },
  "Block 3 Math/Week 13/Activities/Math Jenga.docx": {
   "hash": "txt:1ede851f2886763ff64742e43b0d10e1",
-  "key": "b0eb68f0db23225f5f7b8dd30e8150bf"
+  "key": "mod:2026-09-17T11:45:26.783Z"
  },
  "Block 3 Math/Week 2/Alg 1A Module 1 Outline 2024.docx": {
   "hash": "txt:f30e1bc3b32d0e6d867eefda131eb847",
@@ -219,13 +427,13 @@
   "hash": "77608e85bf1db6036b0394dfd304d3de",
   "key": "77608e85bf1db6036b0394dfd304d3de"
  },
- "Block 3 Math/Week 3/Activities/AbValueMazeKEY.pdf": {
+ "Block 3 Math/Week 3/Activities/AbValueMazeKEY": {
   "hash": "f8210e9e892248eeaadcdb8a30b455cb",
   "key": "f8210e9e892248eeaadcdb8a30b455cb"
  },
  "Block 3 Math/Week 3/Activities/MathPractice_Worksheet.docx": {
   "hash": "txt:92ab8b743fae441fb11d9ab9fe02e5b5",
-  "key": "a5737d19ddc08ad2b30cd471c5f42fc3"
+  "key": "mod:2026-09-17T11:02:44.859Z"
  },
  "Block 3 Math/Week 3/Activities/Order of Operations Color By Number Worksheet.pdf": {
   "hash": "acc567f086efc2d329b03f0868a3160a",
@@ -237,15 +445,15 @@
  },
  "Block 3 Math/Week 3/Activities/Order of Operations Warm-Up Key.docx": {
   "hash": "txt:fe8af5d12392124f450d6f859847821c",
-  "key": "740732775ced26c2955d1c29e5c91c69"
+  "key": "mod:2026-09-13T20:35:45.917Z"
  },
  "Block 3 Math/Week 3/Activities/Order of Operations Warm-Up.docx": {
   "hash": "txt:78f0e82a9ac7571c24bfd781953e20ec",
-  "key": "08a5246b5eed7bc786e3654904cde322"
+  "key": "mod:2026-09-13T20:36:41.103Z"
  },
  "Block 3 Math/Week 3/Activities/Practice Answer Key.docx": {
   "hash": "txt:f724a2bcd7a8dc3b77e1967ff2d9c68a",
-  "key": "5ec67213316401fc4a71393a599a3afa"
+  "key": "mod:2026-09-18T16:56:21.713Z"
  },
  "Block 3 Math/Week 3/Activities/evaluatingexpressionsWKsht.pdf": {
   "hash": "ec16fe39aa369bd8f8382ac8e8ba20b1",
@@ -253,11 +461,19 @@
  },
  "Block 3 Math/Week 3/Canva Slides/Canva Slides B3W3.docx": {
   "hash": "txt:c7c78120ca403cc36df002afd7485345",
-  "key": "19b5998a3c7df664bf6e64fa9692f3b4"
+  "key": "mod:2026-09-13T19:09:01.567Z"
  },
- "Block 3 Math/Week 3/Lesson Plans/B3_9-18_9-22LessonPlans.docx": {
+ "Block 3 Math/Week 3/Lesson Plans/B3:9-14/15LessonPlan.docx": {
+  "hash": "txt:146cc9be66f865deb987e8a1d653ffab",
+  "key": "142885f1be922e1bcf9a329cf8f55f5f"
+ },
+ "Block 3 Math/Week 3/Lesson Plans/B3:9-16/17LessonPlan.docx": {
+  "hash": "txt:304637fcb58627da30b0d7e50f510651",
+  "key": "38a3836d54ed17a98d4fc398501cfb1d"
+ },
+ "Block 3 Math/Week 3/Lesson Plans/B3:9-18/9-22LessonPlans.docx": {
   "hash": "txt:e0f3f9e000d8c33be33ff96deedbcea7",
-  "key": "cc03c670503f4578b747574a20153047"
+  "key": "mod:2026-09-16T19:12:40.454Z"
  },
  "Block 3 Math/Week 3/Notes/EvalExNotes.pdf": {
   "hash": "166ec139201e0c9f1e55b8992e3f33a4",
@@ -267,21 +483,29 @@
   "hash": "676c69dad72ed18c1367be158f33fb3d",
   "key": "676c69dad72ed18c1367be158f33fb3d"
  },
+ "Block 3 Math/Week 3/Notes/unit 1 KEY.pdf": {
+  "hash": "176d5b1958cf277a9ae10ee28463ce49",
+  "key": "176d5b1958cf277a9ae10ee28463ce49"
+ },
  "Block 3 Math/Week 3/Notes/week3notes.pdf": {
   "hash": "c6c5ecd3c7f946fa8ef6cc1dd5650d34",
   "key": "c6c5ecd3c7f946fa8ef6cc1dd5650d34"
  },
- "Block 3 Math/Week 4/Activities/Copy of Simplifying Algebraic Expressions Escape Room _6 question_.xlsx": {
-  "hash": "de41177ef69e610a3f148dff100684c5",
-  "key": "de41177ef69e610a3f148dff100684c5"
+ "Block 3 Math/Week 4/Activities/Copy of Order of Operations Color By Number Worksheet.pdf": {
+  "hash": "acc567f086efc2d329b03f0868a3160a",
+  "key": "acc567f086efc2d329b03f0868a3160a"
  },
- "Block 3 Math/Week 4/Activities/EvalExWarmUp.png": {
+ "Block 3 Math/Week 4/Activities/Copy of Simplifying Algebraic Expressions Escape Room *6 question*.xlsx": {
+  "hash": "b49b5872451511d26f0addb191868bfa",
+  "key": "mod:2026-09-22T19:20:07.505Z"
+ },
+ "Block 3 Math/Week 4/Activities/EvalExWarmUp": {
   "hash": "d966a9a86b9c1b13b7ad1b5460124f57",
   "key": "d966a9a86b9c1b13b7ad1b5460124f57"
  },
  "Block 3 Math/Week 4/Activities/Jepordy Review.docx": {
   "hash": "txt:c517d960fb33e97c651dd83abebc72d8",
-  "key": "8c167d39553e00be8b5db4bcef0e1895"
+  "key": "mod:2026-09-18T17:24:23.697Z"
  },
  "Block 3 Math/Week 4/Activities/MathPractice_Worksheet.pdf": {
   "hash": "8d29504c189d9076cf3f13d4fe7445af",
@@ -295,13 +519,21 @@
   "hash": "9ce4185351c97d92c3f12ae0620ff412",
   "key": "9ce4185351c97d92c3f12ae0620ff412"
  },
+ "Block 3 Math/Week 4/Lesson Plans/B3:9-23/24LessonPlan.docx": {
+  "hash": "txt:8606a0758bbfb53765902842f19457dc",
+  "key": "387ae96b6eef3449e4d1fe92c5c42f36"
+ },
+ "Block 3 Math/Week 4/Lesson Plans/B3:9-25/28LessonPlan.docx": {
+  "hash": "txt:e2ee2c6b723775186be0d15e0c29e42f",
+  "key": "af0bbc516322ddfa1d5a272d3fc2d086"
+ },
  "Block 3 Math/Week 4/Slides/B3 Week 4 Slides.docx": {
   "hash": "txt:d3d00f672315aea6749f54313da5e15e",
-  "key": "92b9454d24cc7da310f3abd1f23821b8"
+  "key": "mod:2026-09-22T19:18:19.329Z"
  },
  "Block 3 Math/Week 5/Activities/1 Step Warm-Up.docx": {
   "hash": "txt:45ebb3b93549850c572f80f5397f5243",
-  "key": "a5aa09700af1599f85fccfed25c06c42"
+  "key": "mod:2026-09-27T13:26:48.351Z"
  },
  "Block 3 Math/Week 5/Activities/2StepPractice.pdf": {
   "hash": "7caa9ccf94ec74f6bc711beff3839095",
@@ -310,6 +542,18 @@
  "Block 3 Math/Week 5/Activities/2StepPracticeKey.pdf": {
   "hash": "bb41fe37a71341cd626ba21c5fa0ee5a",
   "key": "bb41fe37a71341cd626ba21c5fa0ee5a"
+ },
+ "Block 3 Math/Week 5/Lesson Plans/B3:10-1/2LessonPlan.docx": {
+  "hash": "txt:7c1ccc9b97dfe27941315146bad40d3c",
+  "key": "8bc721f9fab31778ba2b6af49130320e"
+ },
+ "Block 3 Math/Week 5/Lesson Plans/B3:9-25/28LessonPlan.docx": {
+  "hash": "txt:e2ee2c6b723775186be0d15e0c29e42f",
+  "key": "af0bbc516322ddfa1d5a272d3fc2d086"
+ },
+ "Block 3 Math/Week 5/Lesson Plans/B3:9-29/30LessonPlan.docx": {
+  "hash": "txt:cd8dc8337da2c07555652ada2991da0d",
+  "key": "0dc0ec589c045d86565658cb6761e62e"
  },
  "Block 3 Math/Week 5/Notes/2StepNoteKey.pdf": {
   "hash": "fc6e0bcc3629c348a55d11b422ea47ef",
@@ -325,35 +569,63 @@
  },
  "Block 3 Math/Week 5/Notes/coefficient notes.docx": {
   "hash": "txt:4e313764897c96d9c857dc694f0c6a57",
-  "key": "5a19a1c4744f76725add2e720624e785"
+  "key": "mod:2026-09-29T12:09:45.415Z"
  },
  "Block 3 Math/Week 5/Slides/B3 Week 5 Slides.docx": {
   "hash": "txt:3184b1e3ea22b7042400312b98afd071",
-  "key": "25a03d936338203c118488061cc8366e"
+  "key": "mod:2026-09-27T14:07:38.124Z"
  },
- "Block 3 Math/Week 6/Activities/1 Step_Reciprocal Warm Up.docx": {
+ "Block 3 Math/Week 6/Activities/1 Step/Reciprocal Warm Up.docx": {
   "hash": "txt:fefec27be9aaa1377befc9541469910f",
-  "key": "848dd04b9cf6956b518f1cddd772a3ad"
+  "key": "mod:2026-10-04T12:22:41.189Z"
  },
  "Block 3 Math/Week 6/Activities/2 Step Equation Warm-Up.docx": {
   "hash": "txt:3414fcd7e146180916964786af2ef0fe",
-  "key": "b43e289b2c5b0ac09085e8d20331339a"
+  "key": "mod:2026-10-11T12:26:52.470Z"
  },
  "Block 3 Math/Week 6/Activities/Algebraic Expressions Worksheet.pdf": {
   "hash": "da2583336221759a8ac3d5a969faba84",
   "key": "da2583336221759a8ac3d5a969faba84"
  },
+ "Block 3 Math/Week 6/Activities/Combining Like Terms Key.png": {
+  "hash": "3e7bc2a8b7dc7ee5b18cad1c04bee1b9",
+  "key": "3e7bc2a8b7dc7ee5b18cad1c04bee1b9"
+ },
+ "Block 3 Math/Week 6/Activities/Combining Like Terms.png": {
+  "hash": "cde6a721530788f4b011a70a28d5f2f4",
+  "key": "cde6a721530788f4b011a70a28d5f2f4"
+ },
  "Block 3 Math/Week 6/Activities/Week 6 2 Step Equation Warm-Up.docx": {
   "hash": "txt:2d97671e5d3f55927822b849488e41ee",
-  "key": "63a9c48da1d8878b0f92da58a616a013"
+  "key": "mod:2026-10-02T11:47:34.200Z"
+ },
+ "Block 3 Math/Week 6/Lesson Plan/B3:10-5/6LessonPlan.docx": {
+  "hash": "txt:b080ff482796c16524425a5a52ad2c49",
+  "key": "9985e6e6fa31db793604f27878e668d9"
+ },
+ "Block 3 Math/Week 6/Lesson Plan/B3:10-7/8LessonPlan.docx": {
+  "hash": "txt:91a375c70e52df1ab523d381c381bf64",
+  "key": "438c086fe56a05f676dcdf7242dcf649"
+ },
+ "Block 3 Math/Week 6/Lesson Plan/B3:10-9/13LessonPlan.docx": {
+  "hash": "txt:cc4d0c62e3eb8ebbee39efccc1460c52",
+  "key": "63fd4b88aac70450607976c419d00c42"
  },
  "Block 3 Math/Week 6/Notes/CombiningLikeTermsKey.pdf": {
   "hash": "4abb8c64db2b5c53b2e297818551a507",
   "key": "4abb8c64db2b5c53b2e297818551a507"
  },
+ "Block 3 Math/Week 6/Notes/CombiningLikeTermsNotes.pdf": {
+  "hash": "b4bfa37d7326e48eb5fa225a67104ad8",
+  "key": "b4bfa37d7326e48eb5fa225a67104ad8"
+ },
  "Block 3 Math/Week 6/Notes/DPNotesKey.pdf": {
   "hash": "ecbed6f23f07ca89af4fda502f1f6511",
   "key": "ecbed6f23f07ca89af4fda502f1f6511"
+ },
+ "Block 3 Math/Week 6/Notes/DistributeNotes.pdf": {
+  "hash": "2614766eb4eb330418b786d5f7571812",
+  "key": "2614766eb4eb330418b786d5f7571812"
  },
  "Block 3 Math/Week 6/Notes/distributivenotes.pdf": {
   "hash": "403f3550358cfac58521ac18961548c0",
@@ -361,7 +633,7 @@
  },
  "Block 3 Math/Week 6/Slides/B3 Week 6 Slides.docx": {
   "hash": "txt:0d9f99accb37159c9a7baf42d6a86d22",
-  "key": "8e60048cd2d529e121630f3c31ef7779"
+  "key": "mod:2026-10-04T12:42:36.823Z"
  },
  "Block 3 Math/Week 7/Actvities/2stepCLTQuiz.docx": {
   "hash": "txt:69237fea86c6df20545f52d834321942",
@@ -395,6 +667,18 @@
   "hash": "2fa1b01b9a84492c799a1f25457e4c0d",
   "key": "2fa1b01b9a84492c799a1f25457e4c0d"
  },
+ "Block 3 Math/Week 7/Lesson Plan/B3:10-13LessonPlan.docx": {
+  "hash": "txt:cc4d0c62e3eb8ebbee39efccc1460c52",
+  "key": "63fd4b88aac70450607976c419d00c42"
+ },
+ "Block 3 Math/Week 7/Lesson Plan/B3:10-14/15LessonPlan.docx": {
+  "hash": "txt:4ee48187cb28d7221d5a13dd77a942fe",
+  "key": "ca82eef030aee690843065c05bed7041"
+ },
+ "Block 3 Math/Week 7/Lesson Plan/B3:10-16/19.docx": {
+  "hash": "txt:bac2cec066298b8055c26a1ac52e6baf",
+  "key": "c1c1e0e8b42521a330e5eeb4ce67a083"
+ },
  "Block 3 Math/Week 7/Notes/CombiningLikeTermsNotes.pdf": {
   "hash": "b4bfa37d7326e48eb5fa225a67104ad8",
   "key": "b4bfa37d7326e48eb5fa225a67104ad8"
@@ -405,13 +689,21 @@
  },
  "Block 3 Math/Week 7/Slides/B3 Week 7 Slides.docx": {
   "hash": "txt:c6f52c092948da526d28f4770f1de38d",
-  "key": "cef39193444d768aef54d269e12db201"
+  "key": "mod:2026-10-11T12:26:28.663Z"
+ },
+ "Block 3 Math/Week 7/Video Observation/Dittman, Grace.mp4": {
+  "hash": "b7d3d415259c95af48495bde525bee39",
+  "key": "b7d3d415259c95af48495bde525bee39"
  },
  "Block 3 Math/Week 8/Activities/2stepCLTQuiz.docx": {
   "hash": "txt:69237fea86c6df20545f52d834321942",
   "key": "df64d78f9d9e0373876db3c35407e429"
  },
- "Block 3 Math/Week 8/Activities/Distributive Property(1).pdf": {
+ "Block 3 Math/Week 8/Activities/Distributive Property (1).pdf": {
+  "hash": "07cc019702ac1b5a101de1f6b5a8aa59",
+  "key": "07cc019702ac1b5a101de1f6b5a8aa59"
+ },
+ "Block 3 Math/Week 8/Activities/Distributive Property.pdf": {
   "hash": "07cc019702ac1b5a101de1f6b5a8aa59",
   "key": "07cc019702ac1b5a101de1f6b5a8aa59"
  },
@@ -421,7 +713,7 @@
  },
  "Block 3 Math/Week 8/Activities/Distributive Warm-Up.docx": {
   "hash": "txt:8fabe5e3eee20c6b178b3936933fe406",
-  "key": "3d5c0b69aba3d28c16e462cbf5f8dc9c"
+  "key": "mod:2026-10-15T22:11:31.051Z"
  },
  "Block 3 Math/Week 8/Activities/DistributiveProperty.pdf": {
   "hash": "d429308d574f455ad1d53d10cddc6437",
@@ -435,9 +727,37 @@
   "hash": "b2668d8344b46763e273dc1fc8a4dc9b",
   "key": "b2668d8344b46763e273dc1fc8a4dc9b"
  },
+ "Block 3 Math/Week 8/Lesson Plans/Async Lesson Plans.docx": {
+  "hash": "txt:1e1c285e5be95f212626c5c3ae8bdd22",
+  "key": "745fb3f2633883b903a1315cbdc58b82"
+ },
+ "Block 3 Math/Week 8/Lesson Plans/B3:10-16/19LessonPlan.docx": {
+  "hash": "txt:bac2cec066298b8055c26a1ac52e6baf",
+  "key": "c1c1e0e8b42521a330e5eeb4ce67a083"
+ },
+ "Block 3 Math/Week 8/Lesson Plans/B3:10-20/21LessonPlan.docx": {
+  "hash": "txt:620552ed6415e129f5205525b0a379d3",
+  "key": "ee62e99692a852d114044ad99ce3e311"
+ },
+ "Block 3 Math/Week 8/Lesson Plans/B3:10-23&26LessonPlan.docx": {
+  "hash": "txt:e660f5da0d84f71e1f9273567d5f555a",
+  "key": "0dbf1520108006809fe3c3ef0ea66047"
+ },
+ "Block 3 Math/Week 8/Notes/DistributeNotes.pdf": {
+  "hash": "2614766eb4eb330418b786d5f7571812",
+  "key": "2614766eb4eb330418b786d5f7571812"
+ },
+ "Block 3 Math/Week 8/Notes/VBSNotesKey.pdf": {
+  "hash": "8954b491589800d8c25be337c287d0a8",
+  "key": "8954b491589800d8c25be337c287d0a8"
+ },
+ "Block 3 Math/Week 8/Notes/Variables on Both Sides Notes.pdf": {
+  "hash": "8e0d4eec52ca24933a198b583e521171",
+  "key": "8e0d4eec52ca24933a198b583e521171"
+ },
  "Block 3 Math/Week 8/Slides/B3 Week 8 Slides.docx": {
   "hash": "txt:97bad5a306ad971e629235fcb131bbef",
-  "key": "ba67bf5f105628065cd0f07725a3b7d8"
+  "key": "mod:2026-10-17T11:22:43.957Z"
  },
  "Block 3 Math/Week 9/Activities/MULTISTEPcbnKEY.png": {
   "hash": "ed09a2448074dc659d6ab950170b212c",
@@ -475,6 +795,18 @@
   "hash": "3670bacea8dbb557ac136af7776c950f",
   "key": "3670bacea8dbb557ac136af7776c950f"
  },
+ "Block 3 Math/Week 9/Lesson Plans/B3:10-23&26LessonPlan.docx": {
+  "hash": "txt:e660f5da0d84f71e1f9273567d5f555a",
+  "key": "0dbf1520108006809fe3c3ef0ea66047"
+ },
+ "Block 3 Math/Week 9/Lesson Plans/B3:10-27&28LessonPlan.docx": {
+  "hash": "txt:942fcf4efead73418af8b62f671f290c",
+  "key": "c80233ed77446fb42c7aff7b8fe50592"
+ },
+ "Block 3 Math/Week 9/Lesson Plans/B3:10-29&30LessonPlan.docx": {
+  "hash": "txt:c9463dfa535025714356b484295e29e6",
+  "key": "1ec484f0d7fe9c787e9bbdc680901afc"
+ },
  "Block 3 Math/Week 9/Notes/MultiStepEqNotes.pdf": {
   "hash": "72908beccacb5cfe5743274754142ed7",
   "key": "72908beccacb5cfe5743274754142ed7"
@@ -493,7 +825,7 @@
  },
  "Block 3 Math/Week 9/Slides/B3 Week 9 Slides.docx": {
   "hash": "txt:1f325194ebad8b62a402a77a51c16130",
-  "key": "d248bc8ccb2de3a15254eda2f02c2c68"
+  "key": "mod:2026-10-22T13:47:15.848Z"
  },
  "Block 3 Math/unit 1 KEY.pdf": {
   "hash": "176d5b1958cf277a9ae10ee28463ce49",
@@ -503,6 +835,18 @@
   "hash": "3723be26018ff35069135b5ee89e5605",
   "key": "3723be26018ff35069135b5ee89e5605"
  },
+ "Block 3 Math/unit 2 answer key.pdf": {
+  "hash": "1d65afad36528dbb9ce0fd53878dd383",
+  "key": "1d65afad36528dbb9ce0fd53878dd383"
+ },
+ "Block 3 Math/unit 2 student packet.pdf": {
+  "hash": "355cab4b6b8cb779d0ad58621ae92688",
+  "key": "355cab4b6b8cb779d0ad58621ae92688"
+ },
+ "ESS/weeks 1+2+3/Activities/SLC Template.pdf": {
+  "hash": "bfbc5dab643f32cad1c1efe222d64187",
+  "key": "bfbc5dab643f32cad1c1efe222d64187"
+ },
  "ESS/weeks 1+2+3/Activities/Staying Organized_ Agenda.pdf": {
   "hash": "931cab45f09a7b73fab199113bd80e52",
   "key": "931cab45f09a7b73fab199113bd80e52"
@@ -511,17 +855,125 @@
   "hash": "8ed9e8754aeccf9e330460736c7d36e2",
   "key": "8ed9e8754aeccf9e330460736c7d36e2"
  },
+ "ESS/weeks 1+2+3/Lesson Plans/ESS9-14LessonPlan.docx": {
+  "hash": "txt:97616c35c8345b321788875ee964c4bc",
+  "key": "8d9c295f2bb4cf1b10a10f967eb7af20"
+ },
+ "ESS/weeks 1+2+3/Lesson Plans/ESS9-15LessonPlan.docx": {
+  "hash": "txt:568cef36b8ddb894cc8d5953a5fbb570",
+  "key": "a9cd13bfee3e04d2681bf6921c16d9f8"
+ },
+ "ESS/weeks 1+2+3/Lesson Plans/ESS9-16LessonPlan.docx": {
+  "hash": "txt:457a5f56a8fc57db5f347db19cdadba4",
+  "key": "26d915e0a0c96c93f5213d3a450bff8b"
+ },
+ "ESS/weeks 1+2+3/Lesson Plans/ESS9-17LessonPlan.docx": {
+  "hash": "txt:a26a1d9de53d530c463ba2c0b776e39d",
+  "key": "cad10f854f34690727d031b08d0d5495"
+ },
+ "ESS/weeks 1+2+3/Lesson Plans/ESS9-18LessonPlan.docx": {
+  "hash": "txt:7720eec4fcf3fa055216293dcefe992a",
+  "key": "8ab7fe310798a279bcc41cead9f72fd2"
+ },
+ "ESS/weeks 1+2+3/Lesson Plans/ESSAgendaLessonPlan.docx": {
+  "hash": "txt:32aa20da5642cba5a7e59fd4cffccc6d",
+  "key": "18fcc737da5a62d20aebf13b79a35ac5"
+ },
+ "ESS/weeks 1+2+3/Lesson Plans/ESSEmailLessonPlan.docx": {
+  "hash": "txt:8d688bced865696e3e3e53ebe85235ad",
+  "key": "61c3c63b81b1865f2e843f20283e1302"
+ },
  "ESS/weeks 1+2+3/Lesson Plans/email organization.pdf": {
   "hash": "1ed6f60c951b4a321fe1ad61b43fdc34",
   "key": "1ed6f60c951b4a321fe1ad61b43fdc34"
  },
- "ESS/weeks 1+2+3/SLC Template.pdf": {
-  "hash": "bfbc5dab643f32cad1c1efe222d64187",
-  "key": "bfbc5dab643f32cad1c1efe222d64187"
+ "ESS/weeks 1+2+3/Slides/Staying Organized: Agenda.pptx": {
+  "hash": "a3d661788deb5217001b01e198503d23",
+  "key": "mod:2026-09-08T18:42:03.339Z"
+ },
+ "ESS/weeks 1+2+3/Slides/Staying Organized: Email.pptx": {
+  "hash": "5c2e59c3661d999e07439ddb2ef4cab7",
+  "key": "mod:2026-09-10T18:24:26.553Z"
  },
  "ESS/weeks 1+2+3/Welcome Letter ESS.pdf": {
   "hash": "7d60cc768aa325afefa6ac235af5daa6",
   "key": "7d60cc768aa325afefa6ac235af5daa6"
+ },
+ "ESS/weeks 10+11/Activities/Chapter 3 Problem Solving.pdf": {
+  "hash": "8f068a565c92d218425ca862de6cfa70",
+  "key": "8f068a565c92d218425ca862de6cfa70"
+ },
+ "ESS/weeks 10+11/Lesson Plans/ESS11-10 Actions have Consequences .docx": {
+  "hash": "txt:ac76cdf58cf26c0584bd19697a5be0d8",
+  "key": "mod:2026-11-02T16:18:17.515Z"
+ },
+ "ESS/weeks 10+11/Lesson Plans/ESS11-2&11-9Solving a Problem.docx": {
+  "hash": "txt:3e95910eb3843e2962ab9e827aae38e1",
+  "key": "mod:2026-11-01T15:22:21.536Z"
+ },
+ "ESS/weeks 10+11/Lesson Plans/ESS11-4&11-11Actions Affect Others.docx": {
+  "hash": "txt:fccfbf2a91c3628dbe3506443ff9b057",
+  "key": "mod:2026-11-01T22:37:21.706Z"
+ },
+ "ESS/weeks 10+11/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
+  "hash": "txt:53b09701d010b537b5c463aab11bdd49",
+  "key": "27c09b9f70ffbb8feccc284ff6ecc11a"
+ },
+ "ESS/weeks 10+11/Lesson Plans/ESSThursdayLessonPlan.docx": {
+  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
+  "key": "c30e66ab6627be7c9b4645548b90e9c4"
+ },
+ "ESS/weeks 10+11/Slides/B4 Week 10/11 Slides:.docx": {
+  "hash": "txt:f7b431f70d3406a36929acdd9fec8a4e",
+  "key": "mod:2026-10-29T11:53:08.756Z"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring.webp": {
+  "hash": "2b58cf70f423531ccd56af60027e46b8",
+  "key": "2b58cf70f423531ccd56af60027e46b8"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring2.jpg": {
+  "hash": "101ce67e20456d92e499305b909741ab",
+  "key": "101ce67e20456d92e499305b909741ab"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring3.jpeg": {
+  "hash": "2d400be232d37dd422f0bef623a383ae",
+  "key": "2d400be232d37dd422f0bef623a383ae"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring4.jpeg": {
+  "hash": "005d08fd45bc10413c99c8a57d0b4a70",
+  "key": "005d08fd45bc10413c99c8a57d0b4a70"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring5.webp": {
+  "hash": "03422073b506ff9ddc3c590c0a45962a",
+  "key": "03422073b506ff9ddc3c590c0a45962a"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring6.webp": {
+  "hash": "2266bb2e1a4f7421c609df5a9066683e",
+  "key": "2266bb2e1a4f7421c609df5a9066683e"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring7.jpeg": {
+  "hash": "f07eaa0d5bc2b8a05e6922344108a86d",
+  "key": "f07eaa0d5bc2b8a05e6922344108a86d"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring7.jpg": {
+  "hash": "5ba3719a9013c53a468bd2fe2ef01a50",
+  "key": "5ba3719a9013c53a468bd2fe2ef01a50"
+ },
+ "ESS/weeks 12+13/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
+  "hash": "txt:53b09701d010b537b5c463aab11bdd49",
+  "key": "27c09b9f70ffbb8feccc284ff6ecc11a"
+ },
+ "ESS/weeks 12+13/Lesson Plans/ESSThursdayLessonPlan.docx": {
+  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
+  "key": "c30e66ab6627be7c9b4645548b90e9c4"
+ },
+ "ESS/weeks 14+15/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
+  "hash": "txt:53b09701d010b537b5c463aab11bdd49",
+  "key": "27c09b9f70ffbb8feccc284ff6ecc11a"
+ },
+ "ESS/weeks 14+15/Lesson Plans/ESSThursdayLessonPlan.docx": {
+  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
+  "key": "c30e66ab6627be7c9b4645548b90e9c4"
  },
  "ESS/weeks 4+5/Activities/Emotional Awareness.pdf": {
   "hash": "8a33b3e5d21f459e53933c124e230c88",
@@ -535,25 +987,41 @@
   "hash": "66d48ff942041084c461a80eb98f9aee",
   "key": "66d48ff942041084c461a80eb98f9aee"
  },
- "ESS/weeks 4+5/Lesson Plans/Breaking Down Tasks 9_28.docx": {
+ "ESS/weeks 4+5/Lesson Plans/Breaking Down Tasks 9/28.docx": {
   "hash": "txt:9ee8f394cadafdabd717d27a52ae69b9",
-  "key": "da6d3586017a0231a480ebdfe4c2c221"
+  "key": "mod:2026-09-27T11:26:14.934Z"
+ },
+ "ESS/weeks 4+5/Lesson Plans/ESS 9-23 & 9-30LessonPlan.docx": {
+  "hash": "txt:fb91e84c92792f6ae11e23f44acced34",
+  "key": "aa5072cf6d43e3a8f1f2fbf73d036afb"
+ },
+ "ESS/weeks 4+5/Lesson Plans/ESS 9/22 & 9/29Lesson Plan.docx": {
+  "hash": "txt:750142c5de5ecbd74945a520ec1a9d8c",
+  "key": "mod:2026-09-27T11:21:36.540Z"
+ },
+ "ESS/weeks 4+5/Lesson Plans/ESS9-28LessonPlan.docx": {
+  "hash": "txt:1d5d91dc52291e00833cdf20cbac7ae3",
+  "key": "c6f4a79e6c03e54b633c8509864ce8f1"
  },
  "ESS/weeks 4+5/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
   "hash": "txt:04504f483c00b0b0ba0714099e5e45a9",
-  "key": "3d9ad73d7a498bafc82fc594b8e1c319"
+  "key": "mod:2026-09-17T21:02:59.116Z"
  },
- "ESS/weeks 4+5/Lesson Plans/Emotional Awareness 9_22.docx": {
+ "ESS/weeks 4+5/Lesson Plans/ESSThursdayLessonPlan.docx": {
+  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
+  "key": "c30e66ab6627be7c9b4645548b90e9c4"
+ },
+ "ESS/weeks 4+5/Lesson Plans/Emotional Awareness 9/22.docx": {
   "hash": "txt:328f058535db47dccd7b144815201693",
-  "key": "24772ccdf506f00720eb7b689946fa07"
+  "key": "mod:2026-09-15T22:57:08.108Z"
  },
- "ESS/weeks 4+5/Lesson Plans/Working in Groups 9_23.docx": {
+ "ESS/weeks 4+5/Lesson Plans/Working in Groups 9/23.docx": {
   "hash": "txt:d8d57a117374759f2452c5d637d48496",
-  "key": "0babf0ba56553b5eb70936b35edd43b6"
+  "key": "mod:2026-09-17T22:53:21.617Z"
  },
- "ESS/weeks 4+5/Slides/Canva slides ESS week 4_5.docx": {
+ "ESS/weeks 4+5/Slides/Canva slides ESS week 4/5.docx": {
   "hash": "txt:e34b86a1ed840adcb3be297aa60846bc",
-  "key": "5cf3533313959427343f9913c60b23e6"
+  "key": "mod:2026-09-27T18:31:36.715Z"
  },
  "ESS/weeks 6+7/Activities/2 - Executive Functioning_ Task Initiation and Perseverance for Teens.pdf": {
   "hash": "0da20a1c6513bd41e1c4df3a5529c5c7",
@@ -565,19 +1033,35 @@
  },
  "ESS/weeks 6+7/Activities/jenga.docx": {
   "hash": "txt:21998d91a68e5e8e6a810c81502f6728",
-  "key": "9fb9ae941c18eeb3c938daa2faf8211a"
+  "key": "mod:2026-09-17T22:33:05.008Z"
  },
  "ESS/weeks 6+7/Activities/triggers-and-coping-skills-worksheets_67842.png": {
   "hash": "4fb862bcacd9c2c60363f73c13c1c205",
   "key": "4fb862bcacd9c2c60363f73c13c1c205"
  },
+ "ESS/weeks 6+7/Lesson Plans/ESS10-5LessonPlan.docx": {
+  "hash": "txt:77e76edbc61689f4c9c625cf09edc476",
+  "key": "34badf646a78b1b0f005d3b10898ac23"
+ },
+ "ESS/weeks 6+7/Lesson Plans/ESS10-6&13LessonPlan.docx": {
+  "hash": "txt:9b74b95c961fd4f708c0572602aa20f0",
+  "key": "326f2e1ed62b42da77515efeccb681c3"
+ },
  "ESS/weeks 6+7/Lesson Plans/ESS10-7&10-14LessonPlan.docx": {
   "hash": "txt:d71682ec1c280f6984ff201cbb20a664",
   "key": "d90a48e684531e5779c88d528840a1d1"
  },
+ "ESS/weeks 6+7/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
+  "hash": "txt:53b09701d010b537b5c463aab11bdd49",
+  "key": "27c09b9f70ffbb8feccc284ff6ecc11a"
+ },
+ "ESS/weeks 6+7/Lesson Plans/ESSThursdayLessonPlan.docx": {
+  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
+  "key": "c30e66ab6627be7c9b4645548b90e9c4"
+ },
  "ESS/weeks 6+7/Slides/ESS Week 6+7 Slides.docx": {
   "hash": "txt:4a2397d88f3b0dc7b91f1dfc7716fc43",
-  "key": "b26f3de086b5e217d8a24d1526209fe2"
+  "key": "mod:2026-10-05T18:04:54.035Z"
  },
  "ESS/weeks 8+9/Activities/Chapter 9 Participating in Groups.pdf": {
   "hash": "59d99e7d548fce57d9e0133d912995ad",
@@ -587,11 +1071,11 @@
   "hash": "c39e74a011dc1d056024d8db760c34f6",
   "key": "c39e74a011dc1d056024d8db760c34f6"
  },
- "ESS/weeks 8+9/Activities/DisappointmentsHelpUsGrow.pdf": {
+ "ESS/weeks 8+9/Activities/DisappointmentsHelpUsGrow": {
   "hash": "ccfebbc01821248592a165114cf1a5bd",
   "key": "ccfebbc01821248592a165114cf1a5bd"
  },
- "ESS/weeks 8+9/Activities/HealthySelfExpression.pdf": {
+ "ESS/weeks 8+9/Activities/HealthySelfExpression": {
   "hash": "b081df8a2edc893a38d07f7bc141f956",
   "key": "b081df8a2edc893a38d07f7bc141f956"
  },
@@ -601,211 +1085,271 @@
  },
  "ESS/weeks 8+9/Activities/Think it Say it Cards.docx": {
   "hash": "txt:5da46968ba687e948cb5579e56bd4ad2",
-  "key": "f8438ed73db6429ea7d45ba2bae5cbbb"
+  "key": "mod:2026-10-20T12:36:31.370Z"
  },
- "ESS/weeks 8+9/Lesson Plans/10_19-10_26 Prioritizing Tasks.docx": {
+ "ESS/weeks 8+9/Lesson Plans/10/19-10/26 Prioritizing Tasks.docx": {
   "hash": "txt:3b044db98f37d8dd6cc2c6f15b9cadb5",
-  "key": "41ffa5cacc1e7e6433a428c140385090"
+  "key": "mod:2026-10-18T12:04:39.282Z"
  },
- "ESS/weeks 8+9/Lesson Plans/10_20-10_27 Dealing with Disappointment.docx": {
+ "ESS/weeks 8+9/Lesson Plans/10/20-10/27 Dealing with Disappointment.docx": {
   "hash": "txt:7b187e656c50cbd908083d5e20b3b5de",
-  "key": "212648e72eec8be6c115f0acd388f9e8"
+  "key": "mod:2026-10-18T12:39:19.023Z"
  },
- "ESS/weeks 8+9/Lesson Plans/10_21-10_28 Being Perceived as Friendly.docx": {
+ "ESS/weeks 8+9/Lesson Plans/10/21-10/28 Being Perceived as Friendly.docx": {
   "hash": "txt:537582234feba0a9dc78841b334b717b",
-  "key": "39f7bc67e3be774e122735202e6807c8"
+  "key": "mod:2026-10-20T12:31:24.711Z"
+ },
+ "ESS/weeks 8+9/Lesson Plans/Async Lesson Plans.docx": {
+  "hash": "txt:1e1c285e5be95f212626c5c3ae8bdd22",
+  "key": "745fb3f2633883b903a1315cbdc58b82"
+ },
+ "ESS/weeks 8+9/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
+  "hash": "txt:53b09701d010b537b5c463aab11bdd49",
+  "key": "27c09b9f70ffbb8feccc284ff6ecc11a"
+ },
+ "ESS/weeks 8+9/Lesson Plans/ESSThursdayLessonPlan.docx": {
+  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
+  "key": "c30e66ab6627be7c9b4645548b90e9c4"
  },
  "ESS/weeks 8+9/Slides/ESS Week 8+9.docx": {
   "hash": "txt:72429b36351f354b4871dccf10cacdeb",
-  "key": "9e6681641413fa1508e17302ad0a5b17"
+  "key": "mod:2026-10-09T17:34:20.191Z"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-13LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-13LessonPlan.docx": {
   "hash": "txt:d2daa4c39050dd93218baf7d3da8fc2f",
   "key": "246664b2365f7160946ca225c72ad2a9"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-15LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-15LessonPlan.docx": {
   "hash": "txt:707bcee64e034ac077fdf9027c789069",
   "key": "573720c6986ce7f79757583e1d2912bd"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-19LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-19LessonPlan.docx": {
   "hash": "txt:6711ee573d12ddb86bf54eb2aee29960",
   "key": "76d78bf742008bb4ceb94970772a41a2"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-20LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-20LessonPlan.docx": {
   "hash": "txt:97ed6748dc9979360346ae766c479d5e",
   "key": "612b3f36b579713068821de1b8ecc0d2"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-21LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-21LessonPlan.docx": {
   "hash": "txt:de15e85738774939b17c12d48538d1d1",
   "key": "2701b3fd4240c6c353d2127c3f0eb9c5"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-26LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-22LessonPlan.docx": {
+  "hash": "txt:1e1c285e5be95f212626c5c3ae8bdd22",
+  "key": "745fb3f2633883b903a1315cbdc58b82"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2:10-26LessonPlan.docx": {
   "hash": "txt:d653405423fe81ac63c20cd49698078e",
   "key": "8a1d44ae67565fefed1745ec3e42f6cb"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-27LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-27LessonPlan.docx": {
   "hash": "txt:1b033183c90391f6569b77ddd1a29970",
   "key": "a10b8cd025bf500b35bc8c4ecaf1a979"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-28LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-28LessonPlan.docx": {
   "hash": "txt:72aa0053bccad87427e977397b0b3a14",
   "key": "c38b281b521252e0d449ac4c8db96c88"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-29LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-29LessonPlan.docx": {
   "hash": "txt:9b9cdaeb7e53838b7ebcc5660971c2e5",
   "key": "b2052303ee7e6c550375a8fa22a3a63e"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-5LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-5LessonPlan.docx": {
   "hash": "txt:cba3f37e5f4120781aee878af7b4efd5",
   "key": "5bba5abcb61d701ccd198884ee1e9fdd"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-6LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-6LessonPlan.docx": {
   "hash": "txt:777420ab0e58ecfe7caae0653d79ab8e",
   "key": "08b626dab5ae58e95346694f5887cb82"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-7LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-7LessonPlan.docx": {
   "hash": "txt:961108f85381e180336823e65ed84571",
   "key": "73d79556464ff613643991b4f3e404a2"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-8LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:10-8LessonPlan.docx": {
   "hash": "txt:b5d0c7acdcc8ec4f052cc2dba314ce3f",
   "key": "1dc61fe47e802ecd096b551305efc999"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-14LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:11-2LessonPlan.docx": {
+  "hash": "txt:fbb09e6ef2426783cbf808a115f2a503",
+  "key": "c9d86a61148ce96227ae802c2516ee82"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2:11-5LessonPlan.docx": {
+  "hash": "txt:7454cf3af87fa9862ade3cf2f1d8ca7f",
+  "key": "a7e95b5500c54028ca969c344377ac2f"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2:9-14LessonPlan.docx": {
   "hash": "txt:c308575e3a2dea6059e76d1e0cd1f8e5",
   "key": "ce7f898cda2afdb5f11c3546cde1bca2"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-15LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-15LessonPlan.docx": {
   "hash": "txt:c8832c577c9a09b67a6ad3e7b19953c4",
   "key": "8d2e9dbba5fcf653d7c326876e5a1c36"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-16LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-16LessonPlan.docx": {
   "hash": "txt:dbdb08be1b8983c47a0fd19005c2d3d2",
   "key": "7e4470aba0a592ed9f1638d9f6e72c66"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-17LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-17LessonPlan.docx": {
   "hash": "txt:4cb8c8d677d3f49564bdfdcc312342ca",
   "key": "9755159216959ab0ffd0b1ab850a1192"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-18LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-18LessonPlan.docx": {
   "hash": "txt:4c52020dddbfaea6fb8a75182afaa26a",
   "key": "8445a428ade83a40a3ebe257ad139a26"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-22LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-22LessonPlan.docx": {
   "hash": "txt:495f2116cea7d368b5a6c9106c465fad",
   "key": "4b2be03ba6396baa50314137a978daa9"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-23LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-23LessonPlan.docx": {
   "hash": "txt:ed8ff509093eacc20c7bd457a37cd825",
   "key": "573b3c7f9bfe36633e7ee5c77560ff93"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-24LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-24LessonPlan.docx": {
   "hash": "txt:fec9ef087f86a05fba36644087b27662",
   "key": "a12e8897ab7b75fb1785233b8f33dda1"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-28LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-28LessonPlan.docx": {
   "hash": "txt:116bb46e3c08d4121e32984f772ed586",
   "key": "2cf378f6441518d86ccc61a92b7c8f02"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-29LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-29LessonPlan.docx": {
   "hash": "txt:7bcad793a65f1896a9c8952628ef6364",
   "key": "22a9b8a9d6f937c87c814d31c9ff15d8"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-9LessonPlan.docx": {
+ "Lesson Plans/B2 Life Skills Math/B2:9-9LessonPlan.docx": {
   "hash": "txt:661d8fd981669589d0f37e8a1112f7ae",
   "key": "8930c9f50a2279b776dd4e705ac4d495"
  },
  "Lesson Plans/B2 Life Skills Math/BankabilityDayLessonPlan.docx": {
   "hash": "txt:4536472a4550d18a2c17854ee972fbf7",
-  "key": "f9cba403cdf4683e7d758c8bdcfed671"
+  "key": "mod:2026-09-13T18:06:39.182Z"
  },
  "Lesson Plans/B2 Life Skills Math/High School Life Skills Mathematics Lesson Plan.docx": {
   "hash": "txt:a446f600c6df4f863d782b545b3b04f3",
   "key": "f450ce99bb411da8240df4eb829a18c8"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-14_15LessonPlan.docx": {
+ "Lesson Plans/B3 Learning Support Math/Async Lesson Plans 10-22.docx": {
+  "hash": "txt:1e1c285e5be95f212626c5c3ae8bdd22",
+  "key": "745fb3f2633883b903a1315cbdc58b82"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:10-1/2LessonPlan.docx": {
+  "hash": "txt:425ea643e7354f438b6cdc097070bd35",
+  "key": "801f9ba1b60b719224f764f11a2cb624"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:10-14/15LessonPlan.docx": {
   "hash": "txt:4ee48187cb28d7221d5a13dd77a942fe",
   "key": "ca82eef030aee690843065c05bed7041"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-16_19LessonPlan.docx": {
-  "hash": "txt:bac2cec066298b8055c26a1ac52e6baf",
-  "key": "c1c1e0e8b42521a330e5eeb4ce67a083"
+ "Lesson Plans/B3 Learning Support Math/B3:10-16/19LessonPlan.docx": {
+  "hash": "txt:bb20f480b45a802cfee3b9451e6c5056",
+  "key": "498baf6456439bded8cbdd4bc9f11d66"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-1_2LessonPlan.docx": {
-  "hash": "txt:7c1ccc9b97dfe27941315146bad40d3c",
-  "key": "8bc721f9fab31778ba2b6af49130320e"
+ "Lesson Plans/B3 Learning Support Math/B3:10-20/21LessonPlan.docx": {
+  "hash": "txt:e205e551e51092fdc630b0c5382bc2fd",
+  "key": "b9d1604e85877dfb63b1031ee68da643"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-20_21LessonPlan.docx": {
-  "hash": "txt:620552ed6415e129f5205525b0a379d3",
-  "key": "ee62e99692a852d114044ad99ce3e311"
+ "Lesson Plans/B3 Learning Support Math/B3:10-23/26LessonPlan.docx": {
+  "hash": "txt:3d34cce31b03b32cf4445b9800f90507",
+  "key": "4f971d02ba29786556fd279a184ec428"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-23_26LessonPlan.docx": {
-  "hash": "txt:e660f5da0d84f71e1f9273567d5f555a",
-  "key": "0dbf1520108006809fe3c3ef0ea66047"
+ "Lesson Plans/B3 Learning Support Math/B3:10-27/28LessonPlan.docx": {
+  "hash": "txt:a50c34ef6b9e7021b4333fda42f4ed03",
+  "key": "2b90e91eb64d288dfb3a9dbe3b676205"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-27_28LessonPlan.docx": {
-  "hash": "txt:942fcf4efead73418af8b62f671f290c",
-  "key": "c80233ed77446fb42c7aff7b8fe50592"
+ "Lesson Plans/B3 Learning Support Math/B3:10-29/30LessonPlan.docx": {
+  "hash": "txt:a04351c4db8d3c4257d48f9065a5f2ae",
+  "key": "fc0b1ade4b61f6d0a84365f25fcb842b"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-29_30LessonPlan.docx": {
-  "hash": "txt:c9463dfa535025714356b484295e29e6",
-  "key": "1ec484f0d7fe9c787e9bbdc680901afc"
+ "Lesson Plans/B3 Learning Support Math/B3:10-5/6LessonPlan.docx": {
+  "hash": "txt:f8af4f640881c3354e4dcb3b967bd223",
+  "key": "5d367989ef441e193a75a84533f85183"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-5_6LessonPlan.docx": {
-  "hash": "txt:b080ff482796c16524425a5a52ad2c49",
-  "key": "9985e6e6fa31db793604f27878e668d9"
+ "Lesson Plans/B3 Learning Support Math/B3:10-7/8LessonPlan.docx": {
+  "hash": "txt:8b9dfcaeb9643f7f1101db4a35754c32",
+  "key": "f6b8ed244b3fe199c5e1ddcd5d59c2a1"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-7_8LessonPlan.docx": {
-  "hash": "txt:91a375c70e52df1ab523d381c381bf64",
-  "key": "438c086fe56a05f676dcdf7242dcf649"
- },
- "Lesson Plans/B3 Learning Support Math/B3_10-9_13LessonPlan.docx": {
+ "Lesson Plans/B3 Learning Support Math/B3:10-9/13LessonPlan.docx": {
   "hash": "txt:cc4d0c62e3eb8ebbee39efccc1460c52",
   "key": "63fd4b88aac70450607976c419d00c42"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-14_15LessonPlan.docx": {
-  "hash": "txt:146cc9be66f865deb987e8a1d653ffab",
-  "key": "142885f1be922e1bcf9a329cf8f55f5f"
+ "Lesson Plans/B3 Learning Support Math/B3:11-2/4LessonPlan.docx": {
+  "hash": "txt:d2101fe85a0567ea119f66c8fd1a12b8",
+  "key": "a12fe21c5d9424e0d9f4ea84aa95c4d1"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-16_17LessonPlan.docx": {
+ "Lesson Plans/B3 Learning Support Math/B3:11-5/6LessonPlan.docx": {
+  "hash": "txt:f632b7740b4b4049bc3d1cc75cee9876",
+  "key": "3f4a4c37f79f3960957fc5487de25172"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:9-14/15LessonPlan.docx": {
+  "hash": "txt:af4a49c7e965592f336f5332b14e84ec",
+  "key": "c1b1d86ff4ae2b286cf0d313657c4972"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:9-16/17LessonPlan.docx": {
   "hash": "txt:304637fcb58627da30b0d7e50f510651",
   "key": "38a3836d54ed17a98d4fc398501cfb1d"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-18_22LessonPlans.pdf": {
+ "Lesson Plans/B3 Learning Support Math/B3:9-18/22LessonPlans.pdf": {
   "hash": "23ee9aeab101373e2ee756b02160dcee",
   "key": "23ee9aeab101373e2ee756b02160dcee"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-23_24LessonPlan.docx": {
-  "hash": "txt:8606a0758bbfb53765902842f19457dc",
-  "key": "387ae96b6eef3449e4d1fe92c5c42f36"
+ "Lesson Plans/B3 Learning Support Math/B3:9-23/24LessonPlan.docx": {
+  "hash": "txt:b1008fc4c58342f8d6699cefeddcee99",
+  "key": "ff906ed4f9641584e2353a21dd7dea5e"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-25_28LessonPlan.docx": {
-  "hash": "txt:e2ee2c6b723775186be0d15e0c29e42f",
-  "key": "af0bbc516322ddfa1d5a272d3fc2d086"
+ "Lesson Plans/B3 Learning Support Math/B3:9-25/28LessonPlan.docx": {
+  "hash": "txt:bf359d57807b1328a909574e2a211c4b",
+  "key": "7c65f23a4bc8795b502fa9938263f36f"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-29_30LessonPlan.docx": {
-  "hash": "txt:cd8dc8337da2c07555652ada2991da0d",
-  "key": "0dc0ec589c045d86565658cb6761e62e"
+ "Lesson Plans/B3 Learning Support Math/B3:9-29/30LessonPlan.docx": {
+  "hash": "txt:0217c2da1c1c40820c382ddd93a154e2",
+  "key": "186572c963b77595de5d4aa9ef46bbf9"
  },
  "Lesson Plans/B4 ESS/ ESS9-22 & 9-27LessonPlan.docx": {
   "hash": "txt:750142c5de5ecbd74945a520ec1a9d8c",
-  "key": "1a0f9f5f305c5db84083cfc5ada78a89"
+  "key": "mod:2026-09-27T11:19:58.527Z"
  },
  "Lesson Plans/B4 ESS/Async Lesson Plans 10-22.docx": {
   "hash": "txt:1e1c285e5be95f212626c5c3ae8bdd22",
   "key": "745fb3f2633883b903a1315cbdc58b82"
+ },
+ "Lesson Plans/B4 ESS/ESS10-19&10-26 Prioritizing Tasks.docx": {
+  "hash": "txt:3b044db98f37d8dd6cc2c6f15b9cadb5",
+  "key": "mod:2026-11-01T14:03:05.675Z"
+ },
+ "Lesson Plans/B4 ESS/ESS10-20&10-27 Dealing with Disappointment.docx": {
+  "hash": "txt:7b187e656c50cbd908083d5e20b3b5de",
+  "key": "mod:2026-11-01T14:03:19.135Z"
+ },
+ "Lesson Plans/B4 ESS/ESS10-21&10-28 Being Perceived as Friendly.docx": {
+  "hash": "txt:537582234feba0a9dc78841b334b717b",
+  "key": "mod:2026-11-01T14:02:43.786Z"
  },
  "Lesson Plans/B4 ESS/ESS10-5LessonPlan.docx": {
   "hash": "txt:77e76edbc61689f4c9c625cf09edc476",
   "key": "34badf646a78b1b0f005d3b10898ac23"
  },
  "Lesson Plans/B4 ESS/ESS10-6&13LessonPlan.docx": {
-  "hash": "txt:9b74b95c961fd4f708c0572602aa20f0",
-  "key": "326f2e1ed62b42da77515efeccb681c3"
+  "hash": "txt:f0a5ed40b51b56850d898ad66edfa72b",
+  "key": "64b48a9eb8ed1d0fbae3597e6b5de12a"
  },
  "Lesson Plans/B4 ESS/ESS10-7&10-14LessonPlan.docx": {
-  "hash": "txt:b3d98818cbc9f8a89661a1150f430585",
-  "key": "7f01976aa98e64877ee9ef7860bc2900"
+  "hash": "txt:bdd42098d4112e11806151bfd9d3b4d9",
+  "key": "81124742659782667c491897da73c364"
+ },
+ "Lesson Plans/B4 ESS/ESS11-2&11-9Solving a Problem.docx": {
+  "hash": "txt:3e95910eb3843e2962ab9e827aae38e1",
+  "key": "mod:2026-11-01T15:22:50.041Z"
+ },
+ "Lesson Plans/B4 ESS/ESS11-4&11-11Actions Affect Others.docx": {
+  "hash": "txt:fccfbf2a91c3628dbe3506443ff9b057",
+  "key": "mod:2026-11-01T22:38:01.550Z"
+ },
+ "Lesson Plans/B4 ESS/ESS11/10 Actions have Consequences .docx": {
+  "hash": "txt:ac76cdf58cf26c0584bd19697a5be0d8",
+  "key": "mod:2026-11-01T22:03:33.812Z"
  },
  "Lesson Plans/B4 ESS/ESS9-14LessonPlan.docx": {
   "hash": "txt:97616c35c8345b321788875ee964c4bc",
@@ -836,19 +1380,19 @@
   "key": "c6f4a79e6c03e54b633c8509864ce8f1"
  },
  "Lesson Plans/B4 ESS/ESSAgendaLessonPlan.docx": {
-  "hash": "txt:32aa20da5642cba5a7e59fd4cffccc6d",
-  "key": "18fcc737da5a62d20aebf13b79a35ac5"
+  "hash": "txt:22e55f54267e3632007a1c5b3d6ce83f",
+  "key": "632bc554b5d781b3a65d0862f3441ed5"
  },
  "Lesson Plans/B4 ESS/ESSEmailLessonPlan.docx": {
-  "hash": "txt:8d688bced865696e3e3e53ebe85235ad",
-  "key": "61c3c63b81b1865f2e843f20283e1302"
+  "hash": "txt:e5cbf7ae66d75a8235894886d0e4b3d1",
+  "key": "6bfd32b798ce4584c12ef549fae64239"
  },
  "Lesson Plans/B4 ESS/ESSFridayRoutineLessonPlan.docx": {
-  "hash": "txt:53b09701d010b537b5c463aab11bdd49",
-  "key": "27c09b9f70ffbb8feccc284ff6ecc11a"
+  "hash": "txt:d7c3858b3c639e78791280acff9194f2",
+  "key": "d46c72171fa4962835e573a1e4c62fbc"
  },
  "Lesson Plans/B4 ESS/ESSThursdayLessonPlan.docx": {
-  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
-  "key": "c30e66ab6627be7c9b4645548b90e9c4"
+  "hash": "txt:753d073a5fe709055a9817d99f2f8265",
+  "key": "30e4ec7f2ab1c811387cde10cd026972"
  }
 }

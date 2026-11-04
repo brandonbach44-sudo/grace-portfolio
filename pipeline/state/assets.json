@@ -9,14 +9,13 @@
   "thumb": "thumbs/block-2-math/general/news2you-warm-up-link.jpg",
   "type": "pdf"
  },
- "Block 2 Math/General/WarmUps.pdf": {
-  "bytes": 2764400,
-  "cleaned": false,
-  "file": "files/block-2-math/general/warmups.pdf",
-  "hash": "c337e86221656f98186667d1256cb5f8",
-  "orig_ext": ".pdf",
-  "pages": 10,
-  "thumb": "thumbs/block-2-math/general/warmups.jpg",
+ "Block 2 Math/Sign of the Week.pptx": {
+  "bytes": 415078,
+  "file": "files/block-2-math/sign-of-the-week.pdf",
+  "hash": "7df2ac6b8830314655caaa76cd18bebc",
+  "orig_ext": ".pptx",
+  "pages": 13,
+  "thumb": "thumbs/block-2-math/sign-of-the-week.jpg",
   "type": "pdf"
  },
  "Block 2 Math/Week 1/Welcome Letter B2.pdf": {
@@ -40,7 +39,7 @@
   "type": "pdf"
  },
  "Block 2 Math/Week 10/Slides/B2 Week 10 Slides.docx": {
-  "bytes": 11616,
+  "bytes": 11447,
   "file": "files/block-2-math/week-10/slides/b2-week-10-slides.pdf",
   "hash": "txt:d5ba36c534a1570d489e9f5cb9e83f7b",
   "orig_ext": ".docx",
@@ -258,6 +257,24 @@
   "thumb": "thumbs/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/countingcard5.jpg",
   "type": "image"
  },
+ "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/StuffTheTurkey.jpeg": {
+  "bytes": 4477990,
+  "file": "files/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/stufftheturkey.jpg",
+  "hash": "8db251956cbea7e7f5257691f0b82706",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/stufftheturkey.jpg",
+  "type": "image"
+ },
+ "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/StuffTheTurkey1.jpeg": {
+  "bytes": 4166410,
+  "file": "files/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/stufftheturkey1.jpg",
+  "hash": "da361845313c377ac451656e2fbc03cf",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/stufftheturkey1.jpg",
+  "type": "image"
+ },
  "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/Turkey Template.png": {
   "bytes": 168193,
   "cleaned": false,
@@ -289,7 +306,7 @@
   "type": "pdf"
  },
  "Block 2 Math/Week 2/Slides/B2 Week 2 Canva Slides.docx": {
-  "bytes": 12415,
+  "bytes": 12235,
   "file": "files/block-2-math/week-2/slides/b2-week-2-canva-slides.pdf",
   "hash": "txt:6dbc989ce10dbcbf7f1c2bb246faf2b3",
   "orig_ext": ".docx",
@@ -308,7 +325,7 @@
   "type": "pdf"
  },
  "Block 2 Math/Week 4/Slides/Canva Slides B2 Week 4.docx": {
-  "bytes": 11918,
+  "bytes": 11769,
   "file": "files/block-2-math/week-4/slides/canva-slides-b2-week-4.pdf",
   "hash": "txt:e210a2f9ed9734edd09e43ecdbe482a0",
   "orig_ext": ".docx",
@@ -337,7 +354,7 @@
   "type": "pdf"
  },
  "Block 2 Math/Week 6/Slides/B2 Week 6 Slides.docx": {
-  "bytes": 11677,
+  "bytes": 11514,
   "file": "files/block-2-math/week-6/slides/b2-week-6-slides.pdf",
   "hash": "txt:e8a1f76dd6a8efb47f0d1953818b664f",
   "orig_ext": ".docx",
@@ -355,8 +372,17 @@
   "thumb": "thumbs/block-2-math/week-7/activities/10-13warmup.jpg",
   "type": "pdf"
  },
+ "Block 2 Math/Week 7/Activities/Wed 10/14: Math and Literacy Event.docx": {
+  "bytes": 1913639,
+  "file": "files/block-2-math/week-7/activities/wed-10/14-math-and-literacy-event.pdf",
+  "hash": "txt:6ff99b6e72fb0c27cf96371d16d23ed3",
+  "orig_ext": ".docx",
+  "pages": 20,
+  "thumb": "thumbs/block-2-math/week-7/activities/wed-10/14-math-and-literacy-event.jpg",
+  "type": "pdf"
+ },
  "Block 2 Math/Week 7/Slides/B2 Week 7 Slides.docx": {
-  "bytes": 11461,
+  "bytes": 11301,
   "file": "files/block-2-math/week-7/slides/b2-week-7-slides.pdf",
   "hash": "txt:e73242996a33d3279858d62ab565f393",
   "orig_ext": ".docx",
@@ -375,7 +401,7 @@
   "type": "pdf"
  },
  "Block 2 Math/Week 8/Slides/B2 Week 8 Slides.docx": {
-  "bytes": 11175,
+  "bytes": 11004,
   "file": "files/block-2-math/week-8/slides/b2-week-8-slides.pdf",
   "hash": "txt:2e2cee75376f8aefb6fa08e9fa52cf80",
   "orig_ext": ".docx",
@@ -394,7 +420,7 @@
   "type": "image"
  },
  "Block 2 Math/Week 9/Slides/Week 9 Slides.docx": {
-  "bytes": 11249,
+  "bytes": 11088,
   "file": "files/block-2-math/week-9/slides/week-9-slides.pdf",
   "hash": "txt:fa2525d9e972d86db74c93836cd814be",
   "orig_ext": ".docx",
@@ -402,24 +428,112 @@
   "thumb": "thumbs/block-2-math/week-9/slides/week-9-slides.jpg",
   "type": "pdf"
  },
- "Block 3 Math/Week 10/Activities/Quiz Review Distributive Property, Variables on Both Sides, and Multistep Equations.docx": {
-  "bytes": 35414,
-  "cleaned": false,
-  "file": "files/block-3-math/week-10/activities/quiz-review-distributive-property-variables-on-both-sides-and-multistep-equations.pdf",
-  "hash": "txt:d457290b0c2df8c42bb4fc2291d5f77e",
+ "Block 3 Math/Week 10/Activities/ProportionPracticeKey.pdf": {
+  "bytes": 115556,
+  "file": "files/block-3-math/week-10/activities/proportionpracticekey.pdf",
+  "hash": "1e2a5f86107e17b9a324c4eb9f701166",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-10/activities/proportionpracticekey.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 10/Activities/ProportionsPractice.pdf": {
+  "bytes": 33417,
+  "file": "files/block-3-math/week-10/activities/proportionspractice.pdf",
+  "hash": "5e2c8952be5a4c3a218e416b2a1410a7",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-10/activities/proportionspractice.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 10/Activities/Quiz Distributive Property, Variables on Both Sides, and Multistep Equations.docx": {
+  "bytes": 31076,
+  "file": "files/block-3-math/week-10/activities/quiz-distributive-property-variables-on-both-sides-and-multistep-equations.pdf",
+  "hash": "txt:9c0e682775bbdb3bc5cc40ceb2079558",
   "orig_ext": ".docx",
-  "pages": 6,
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-10/activities/quiz-distributive-property-variables-on-both-sides-and-multistep-equations.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 10/Activities/Quiz Review Distributive Property, Variables on Both Sides, and Multistep Equations.docx": {
+  "bytes": 34333,
+  "file": "files/block-3-math/week-10/activities/quiz-review-distributive-property-variables-on-both-sides-and-multistep-equations.pdf",
+  "hash": "txt:8a40bef2d82e5691f18dcca252bc8436",
+  "orig_ext": ".docx",
+  "pages": 5,
   "thumb": "thumbs/block-3-math/week-10/activities/quiz-review-distributive-property-variables-on-both-sides-and-multistep-equations.jpg",
   "type": "pdf"
  },
- "Block 3 Math/Week 10/Lesson Plans/B3_11-2_4LessonPlan.docx": {
-  "bytes": 87740,
-  "cleaned": false,
-  "file": "files/block-3-math/week-10/lesson-plans/b3-11-2-4lessonplan.pdf",
-  "hash": "txt:d2101fe85a0567ea119f66c8fd1a12b8",
+ "Block 3 Math/Week 10/Activities/VBS Warm-Up.docx": {
+  "bytes": 13156,
+  "file": "files/block-3-math/week-10/activities/vbs-warm-up.pdf",
+  "hash": "txt:62d6943f43a22213d203a6c6007dd43d",
   "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/block-3-math/week-10/lesson-plans/b3-11-2-4lessonplan.jpg",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-10/activities/vbs-warm-up.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 10/Notes/ProportionNotes.pdf": {
+  "bytes": 65846,
+  "file": "files/block-3-math/week-10/notes/proportionnotes.pdf",
+  "hash": "9956585311962fa91231250203578a84",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-10/notes/proportionnotes.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 10/Notes/ProportionsNotesKEY.pdf": {
+  "bytes": 228616,
+  "file": "files/block-3-math/week-10/notes/proportionsnoteskey.pdf",
+  "hash": "ec21c7285fe2f2ea91bd8ae35a4c210d",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-10/notes/proportionsnoteskey.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 10/Slides/B3 Week 10 Slides.docx": {
+  "bytes": 12995,
+  "file": "files/block-3-math/week-10/slides/b3-week-10-slides.pdf",
+  "hash": "txt:d3882df93967e9d4f47c5f0b24636259",
+  "orig_ext": ".docx",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-10/slides/b3-week-10-slides.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Activities /AbsValueEqPracticeKEY.pdf": {
+  "bytes": 78701,
+  "file": "files/block-3-math/week-11/activities/absvalueeqpracticekey.pdf",
+  "hash": "6a93815a32c36cce34bfaf516c85a928",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-11/activities/absvalueeqpracticekey.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Activities /AbsValueEquationPractice.pdf": {
+  "bytes": 30537,
+  "file": "files/block-3-math/week-11/activities/absvalueequationpractice.pdf",
+  "hash": "1c17aa3b7583ee96bc002df3c0c99b9a",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-11/activities/absvalueequationpractice.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Notes/AbValueEquationsNotes.pdf": {
+  "bytes": 72452,
+  "file": "files/block-3-math/week-11/notes/abvalueequationsnotes.pdf",
+  "hash": "97b36e2049a2598e3469cbcb481d8508",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-11/notes/abvalueequationsnotes.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Notes/AbsValueEquationsNotesKEY.pdf": {
+  "bytes": 221022,
+  "file": "files/block-3-math/week-11/notes/absvalueequationsnoteskey.pdf",
+  "hash": "ba24bfcf31788ebc7c36fc431a994d01",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-11/notes/absvalueequationsnoteskey.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 13/Activities/Math Jenga.docx": {
@@ -490,16 +604,6 @@
   "orig_ext": ".pdf",
   "pages": 1,
   "thumb": "thumbs/block-3-math/week-3/activities/abvaluemaze.jpg",
-  "type": "pdf"
- },
- "Block 3 Math/Week 3/Activities/AbValueMazeKEY.pdf": {
-  "bytes": 154518,
-  "cleaned": false,
-  "file": "files/block-3-math/week-3/activities/abvaluemazekey.pdf",
-  "hash": "f8210e9e892248eeaadcdb8a30b455cb",
-  "orig_ext": ".pdf",
-  "pages": 2,
-  "thumb": "thumbs/block-3-math/week-3/activities/abvaluemazekey.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 3/Activities/MathPractice_Worksheet.docx": {
@@ -573,7 +677,7 @@
   "type": "pdf"
  },
  "Block 3 Math/Week 3/Canva Slides/Canva Slides B3W3.docx": {
-  "bytes": 13263,
+  "bytes": 13098,
   "file": "files/block-3-math/week-3/canva-slides/canva-slides-b3w3.pdf",
   "hash": "txt:c7c78120ca403cc36df002afd7485345",
   "orig_ext": ".docx",
@@ -581,14 +685,22 @@
   "thumb": "thumbs/block-3-math/week-3/canva-slides/canva-slides-b3w3.jpg",
   "type": "pdf"
  },
- "Block 3 Math/Week 3/Lesson Plans/B3_9-18_9-22LessonPlans.docx": {
-  "bytes": 85551,
-  "cleaned": false,
-  "file": "files/block-3-math/week-3/lesson-plans/b3-9-18-9-22lessonplans.pdf",
+ "Block 3 Math/Week 3/Lesson Plans/B3:9-14/15LessonPlan.docx": {
+  "bytes": 153468,
+  "file": "files/block-3-math/week-3/lesson-plans/b3-9-14/15lessonplan.pdf",
+  "hash": "txt:146cc9be66f865deb987e8a1d653ffab",
+  "orig_ext": ".docx",
+  "pages": 8,
+  "thumb": "thumbs/block-3-math/week-3/lesson-plans/b3-9-14/15lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 3/Lesson Plans/B3:9-18/9-22LessonPlans.docx": {
+  "bytes": 85128,
+  "file": "files/block-3-math/week-3/lesson-plans/b3-9-18/9-22lessonplans.pdf",
   "hash": "txt:e0f3f9e000d8c33be33ff96deedbcea7",
   "orig_ext": ".docx",
   "pages": 5,
-  "thumb": "thumbs/block-3-math/week-3/lesson-plans/b3-9-18-9-22lessonplans.jpg",
+  "thumb": "thumbs/block-3-math/week-3/lesson-plans/b3-9-18/9-22lessonplans.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 3/Notes/EvalExNotes.pdf": {
@@ -621,25 +733,14 @@
   "thumb": "thumbs/block-3-math/week-3/notes/week3notes.jpg",
   "type": "pdf"
  },
- "Block 3 Math/Week 4/Activities/Copy of Simplifying Algebraic Expressions Escape Room _6 question_.xlsx": {
-  "bytes": 193543,
-  "cleaned": false,
+ "Block 3 Math/Week 4/Activities/Copy of Simplifying Algebraic Expressions Escape Room *6 question*.xlsx": {
+  "bytes": 196347,
   "file": "files/block-3-math/week-4/activities/copy-of-simplifying-algebraic-expressions-escape-room-6-question.pdf",
-  "hash": "de41177ef69e610a3f148dff100684c5",
+  "hash": "b49b5872451511d26f0addb191868bfa",
   "orig_ext": ".xlsx",
   "pages": 6,
   "thumb": "thumbs/block-3-math/week-4/activities/copy-of-simplifying-algebraic-expressions-escape-room-6-question.jpg",
   "type": "pdf"
- },
- "Block 3 Math/Week 4/Activities/EvalExWarmUp.png": {
-  "bytes": 20537,
-  "cleaned": false,
-  "file": "files/block-3-math/week-4/activities/evalexwarmup.png",
-  "hash": "d966a9a86b9c1b13b7ad1b5460124f57",
-  "orig_ext": ".png",
-  "pages": 1,
-  "thumb": "thumbs/block-3-math/week-4/activities/evalexwarmup.jpg",
-  "type": "image"
  },
  "Block 3 Math/Week 4/Activities/Jepordy Review.docx": {
   "bytes": 11134,
@@ -681,8 +782,26 @@
   "thumb": "thumbs/block-3-math/week-4/activities/test1review-docx.jpg",
   "type": "pdf"
  },
+ "Block 3 Math/Week 4/Lesson Plans/B3:9-23/24LessonPlan.docx": {
+  "bytes": 89681,
+  "file": "files/block-3-math/week-4/lesson-plans/b3-9-23/24lessonplan.pdf",
+  "hash": "txt:8606a0758bbfb53765902842f19457dc",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-4/lesson-plans/b3-9-23/24lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 4/Lesson Plans/B3:9-25/28LessonPlan.docx": {
+  "bytes": 91178,
+  "file": "files/block-3-math/week-4/lesson-plans/b3-9-25/28lessonplan.pdf",
+  "hash": "txt:e2ee2c6b723775186be0d15e0c29e42f",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-4/lesson-plans/b3-9-25/28lessonplan.jpg",
+  "type": "pdf"
+ },
  "Block 3 Math/Week 4/Slides/B3 Week 4 Slides.docx": {
-  "bytes": 13867,
+  "bytes": 13688,
   "file": "files/block-3-math/week-4/slides/b3-week-4-slides.pdf",
   "hash": "txt:d3d00f672315aea6749f54313da5e15e",
   "orig_ext": ".docx",
@@ -718,6 +837,24 @@
   "orig_ext": ".pdf",
   "pages": 1,
   "thumb": "thumbs/block-3-math/week-5/activities/2steppracticekey.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 5/Lesson Plans/B3:10-1/2LessonPlan.docx": {
+  "bytes": 90869,
+  "file": "files/block-3-math/week-5/lesson-plans/b3-10-1/2lessonplan.pdf",
+  "hash": "txt:7c1ccc9b97dfe27941315146bad40d3c",
+  "orig_ext": ".docx",
+  "pages": 6,
+  "thumb": "thumbs/block-3-math/week-5/lesson-plans/b3-10-1/2lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 5/Lesson Plans/B3:9-29/30LessonPlan.docx": {
+  "bytes": 87369,
+  "file": "files/block-3-math/week-5/lesson-plans/b3-9-29/30lessonplan.pdf",
+  "hash": "txt:cd8dc8337da2c07555652ada2991da0d",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-5/lesson-plans/b3-9-29/30lessonplan.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 5/Notes/2StepNoteKey.pdf": {
@@ -761,7 +898,7 @@
   "type": "pdf"
  },
  "Block 3 Math/Week 5/Slides/B3 Week 5 Slides.docx": {
-  "bytes": 14590,
+  "bytes": 14411,
   "file": "files/block-3-math/week-5/slides/b3-week-5-slides.pdf",
   "hash": "txt:3184b1e3ea22b7042400312b98afd071",
   "orig_ext": ".docx",
@@ -769,14 +906,13 @@
   "thumb": "thumbs/block-3-math/week-5/slides/b3-week-5-slides.jpg",
   "type": "pdf"
  },
- "Block 3 Math/Week 6/Activities/1 Step_Reciprocal Warm Up.docx": {
-  "bytes": 12635,
-  "cleaned": false,
-  "file": "files/block-3-math/week-6/activities/1-step-reciprocal-warm-up.pdf",
+ "Block 3 Math/Week 6/Activities/1 Step/Reciprocal Warm Up.docx": {
+  "bytes": 12476,
+  "file": "files/block-3-math/week-6/activities/1-step/reciprocal-warm-up.pdf",
   "hash": "txt:fefec27be9aaa1377befc9541469910f",
   "orig_ext": ".docx",
   "pages": 1,
-  "thumb": "thumbs/block-3-math/week-6/activities/1-step-reciprocal-warm-up.jpg",
+  "thumb": "thumbs/block-3-math/week-6/activities/1-step/reciprocal-warm-up.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 6/Activities/2 Step Equation Warm-Up.docx": {
@@ -807,6 +943,24 @@
   "orig_ext": ".docx",
   "pages": 1,
   "thumb": "thumbs/block-3-math/week-6/activities/week-6-2-step-equation-warm-up.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 6/Lesson Plan/B3:10-5/6LessonPlan.docx": {
+  "bytes": 86976,
+  "file": "files/block-3-math/week-6/lesson-plan/b3-10-5/6lessonplan.pdf",
+  "hash": "txt:b080ff482796c16524425a5a52ad2c49",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-6/lesson-plan/b3-10-5/6lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 6/Lesson Plan/B3:10-7/8LessonPlan.docx": {
+  "bytes": 90235,
+  "file": "files/block-3-math/week-6/lesson-plan/b3-10-7/8lessonplan.pdf",
+  "hash": "txt:91a375c70e52df1ab523d381c381bf64",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-6/lesson-plan/b3-10-7/8lessonplan.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 6/Notes/CombiningLikeTermsKey.pdf": {
@@ -840,7 +994,7 @@
   "type": "pdf"
  },
  "Block 3 Math/Week 6/Slides/B3 Week 6 Slides.docx": {
-  "bytes": 14416,
+  "bytes": 14241,
   "file": "files/block-3-math/week-6/slides/b3-week-6-slides.pdf",
   "hash": "txt:0d9f99accb37159c9a7baf42d6a86d22",
   "orig_ext": ".docx",
@@ -928,6 +1082,15 @@
   "thumb": "thumbs/block-3-math/week-7/actvities/combining-like-terms-maze.jpg",
   "type": "pdf"
  },
+ "Block 3 Math/Week 7/Lesson Plan/B3:10-16/19.docx": {
+  "bytes": 90352,
+  "file": "files/block-3-math/week-7/lesson-plan/b3-10-16/19.pdf",
+  "hash": "txt:bac2cec066298b8055c26a1ac52e6baf",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-7/lesson-plan/b3-10-16/19.jpg",
+  "type": "pdf"
+ },
  "Block 3 Math/Week 7/Notes/CombiningLikeTermsNotes.pdf": {
   "bytes": 96199,
   "cleaned": false,
@@ -949,7 +1112,7 @@
   "type": "pdf"
  },
  "Block 3 Math/Week 7/Slides/B3 Week 7 Slides.docx": {
-  "bytes": 14448,
+  "bytes": 14266,
   "file": "files/block-3-math/week-7/slides/b3-week-7-slides.pdf",
   "hash": "txt:c6f52c092948da526d28f4770f1de38d",
   "orig_ext": ".docx",
@@ -957,9 +1120,8 @@
   "thumb": "thumbs/block-3-math/week-7/slides/b3-week-7-slides.jpg",
   "type": "pdf"
  },
- "Block 3 Math/Week 8/Activities/Distributive Property(1).pdf": {
-  "bytes": 30702,
-  "cleaned": false,
+ "Block 3 Math/Week 8/Activities/Distributive Property (1).pdf": {
+  "bytes": 30676,
   "file": "files/block-3-math/week-8/activities/distributive-property-1.pdf",
   "hash": "07cc019702ac1b5a101de1f6b5a8aa59",
   "orig_ext": ".pdf",
@@ -1017,8 +1179,26 @@
   "thumb": "thumbs/block-3-math/week-8/activities/rollandsimplify.jpg",
   "type": "pdf"
  },
+ "Block 3 Math/Week 8/Lesson Plans/B3:10-20/21LessonPlan.docx": {
+  "bytes": 88760,
+  "file": "files/block-3-math/week-8/lesson-plans/b3-10-20/21lessonplan.pdf",
+  "hash": "txt:620552ed6415e129f5205525b0a379d3",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-8/lesson-plans/b3-10-20/21lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 8/Lesson Plans/B3:10-23&26LessonPlan.docx": {
+  "bytes": 86148,
+  "file": "files/block-3-math/week-8/lesson-plans/b3-10-23and26lessonplan.pdf",
+  "hash": "txt:e660f5da0d84f71e1f9273567d5f555a",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-8/lesson-plans/b3-10-23and26lessonplan.jpg",
+  "type": "pdf"
+ },
  "Block 3 Math/Week 8/Slides/B3 Week 8 Slides.docx": {
-  "bytes": 13323,
+  "bytes": 13153,
   "file": "files/block-3-math/week-8/slides/b3-week-8-slides.pdf",
   "hash": "txt:97bad5a306ad971e629235fcb131bbef",
   "orig_ext": ".docx",
@@ -1116,6 +1296,24 @@
   "thumb": "thumbs/block-3-math/week-9/activities/multistep.jpg",
   "type": "image"
  },
+ "Block 3 Math/Week 9/Lesson Plans/B3:10-27&28LessonPlan.docx": {
+  "bytes": 89421,
+  "file": "files/block-3-math/week-9/lesson-plans/b3-10-27and28lessonplan.pdf",
+  "hash": "txt:942fcf4efead73418af8b62f671f290c",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-9/lesson-plans/b3-10-27and28lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 9/Lesson Plans/B3:10-29&30LessonPlan.docx": {
+  "bytes": 104024,
+  "file": "files/block-3-math/week-9/lesson-plans/b3-10-29and30lessonplan.pdf",
+  "hash": "txt:c9463dfa535025714356b484295e29e6",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-3-math/week-9/lesson-plans/b3-10-29and30lessonplan.jpg",
+  "type": "pdf"
+ },
  "Block 3 Math/Week 9/Notes/MultiStepEqNotes.pdf": {
   "bytes": 70130,
   "cleaned": false,
@@ -1157,7 +1355,7 @@
   "type": "pdf"
  },
  "Block 3 Math/Week 9/Slides/B3 Week 9 Slides.docx": {
-  "bytes": 13878,
+  "bytes": 13705,
   "file": "files/block-3-math/week-9/slides/b3-week-9-slides.pdf",
   "hash": "txt:1f325194ebad8b62a402a77a51c16130",
   "orig_ext": ".docx",
@@ -1185,6 +1383,33 @@
   "thumb": "thumbs/block-3-math/unit-1-student-notes.jpg",
   "type": "pdf"
  },
+ "Block 3 Math/unit 2 answer key.pdf": {
+  "bytes": 2693732,
+  "file": "files/block-3-math/unit-2-answer-key.pdf",
+  "hash": "1d65afad36528dbb9ce0fd53878dd383",
+  "orig_ext": ".pdf",
+  "pages": 73,
+  "thumb": "thumbs/block-3-math/unit-2-answer-key.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/unit 2 student packet.pdf": {
+  "bytes": 13817092,
+  "file": "files/block-3-math/unit-2-student-packet.pdf",
+  "hash": "355cab4b6b8cb779d0ad58621ae92688",
+  "orig_ext": ".pdf",
+  "pages": 38,
+  "thumb": "thumbs/block-3-math/unit-2-student-packet.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 1+2+3/Activities/SLC Template.pdf": {
+  "bytes": 45013,
+  "file": "files/ess/weeks-1-2-3/activities/slc-template.pdf",
+  "hash": "bfbc5dab643f32cad1c1efe222d64187",
+  "orig_ext": ".pdf",
+  "pages": 3,
+  "thumb": "thumbs/ess/weeks-1-2-3/activities/slc-template.jpg",
+  "type": "pdf"
+ },
  "ESS/weeks 1+2+3/Activities/Staying Organized_ Agenda.pdf": {
   "bytes": 169447,
   "cleaned": false,
@@ -1193,6 +1418,24 @@
   "orig_ext": ".pdf",
   "pages": 6,
   "thumb": "thumbs/ess/weeks-1-2-3/activities/staying-organized-agenda.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 1+2+3/Lesson Plans/ESSAgendaLessonPlan.docx": {
+  "bytes": 111740,
+  "file": "files/ess/weeks-1-2-3/lesson-plans/essagendalessonplan.pdf",
+  "hash": "txt:32aa20da5642cba5a7e59fd4cffccc6d",
+  "orig_ext": ".docx",
+  "pages": 6,
+  "thumb": "thumbs/ess/weeks-1-2-3/lesson-plans/essagendalessonplan.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 1+2+3/Lesson Plans/ESSEmailLessonPlan.docx": {
+  "bytes": 107540,
+  "file": "files/ess/weeks-1-2-3/lesson-plans/essemaillessonplan.pdf",
+  "hash": "txt:8d688bced865696e3e3e53ebe85235ad",
+  "orig_ext": ".docx",
+  "pages": 6,
+  "thumb": "thumbs/ess/weeks-1-2-3/lesson-plans/essemaillessonplan.jpg",
   "type": "pdf"
  },
  "ESS/weeks 1+2+3/Lesson Plans/email organization.pdf": {
@@ -1205,14 +1448,22 @@
   "thumb": "thumbs/ess/weeks-1-2-3/lesson-plans/email-organization.jpg",
   "type": "pdf"
  },
- "ESS/weeks 1+2+3/SLC Template.pdf": {
-  "bytes": 45039,
-  "cleaned": false,
-  "file": "files/ess/weeks-1-2-3/slc-template.pdf",
-  "hash": "bfbc5dab643f32cad1c1efe222d64187",
-  "orig_ext": ".pdf",
-  "pages": 3,
-  "thumb": "thumbs/ess/weeks-1-2-3/slc-template.jpg",
+ "ESS/weeks 1+2+3/Slides/Staying Organized: Agenda.pptx": {
+  "bytes": 126213,
+  "file": "files/ess/weeks-1-2-3/slides/staying-organized-agenda.pdf",
+  "hash": "a3d661788deb5217001b01e198503d23",
+  "orig_ext": ".pptx",
+  "pages": 6,
+  "thumb": "thumbs/ess/weeks-1-2-3/slides/staying-organized-agenda.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 1+2+3/Slides/Staying Organized: Email.pptx": {
+  "bytes": 112209,
+  "file": "files/ess/weeks-1-2-3/slides/staying-organized-email.pdf",
+  "hash": "5c2e59c3661d999e07439ddb2ef4cab7",
+  "orig_ext": ".pptx",
+  "pages": 13,
+  "thumb": "thumbs/ess/weeks-1-2-3/slides/staying-organized-email.jpg",
   "type": "pdf"
  },
  "ESS/weeks 1+2+3/Welcome Letter ESS.pdf": {
@@ -1224,6 +1475,114 @@
   "pages": 1,
   "thumb": "thumbs/ess/weeks-1-2-3/welcome-letter-ess.jpg",
   "type": "pdf"
+ },
+ "ESS/weeks 10+11/Activities/Chapter 3 Problem Solving.pdf": {
+  "bytes": 7078419,
+  "file": "files/ess/weeks-10-11/activities/chapter-3-problem-solving.pdf",
+  "hash": "8f068a565c92d218425ca862de6cfa70",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/ess/weeks-10-11/activities/chapter-3-problem-solving.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 10+11/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
+  "bytes": 91012,
+  "file": "files/ess/weeks-10-11/lesson-plans/essfridayroutinelessonplan.pdf",
+  "hash": "txt:53b09701d010b537b5c463aab11bdd49",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/ess/weeks-10-11/lesson-plans/essfridayroutinelessonplan.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 10+11/Lesson Plans/ESSThursdayLessonPlan.docx": {
+  "bytes": 90110,
+  "file": "files/ess/weeks-10-11/lesson-plans/essthursdaylessonplan.pdf",
+  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/ess/weeks-10-11/lesson-plans/essthursdaylessonplan.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 10+11/Slides/B4 Week 10/11 Slides:.docx": {
+  "bytes": 13330,
+  "file": "files/ess/weeks-10-11/slides/b4-week-10/11-slides.pdf",
+  "hash": "txt:f7b431f70d3406a36929acdd9fec8a4e",
+  "orig_ext": ".docx",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-10-11/slides/b4-week-10/11-slides.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring.webp": {
+  "bytes": 134091,
+  "file": "files/ess/weeks-12-13/activities/insideoutcoloring.png",
+  "hash": "2b58cf70f423531ccd56af60027e46b8",
+  "orig_ext": ".webp",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring.jpg",
+  "type": "image"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring2.jpg": {
+  "bytes": 37882,
+  "file": "files/ess/weeks-12-13/activities/insideoutcoloring2.jpg",
+  "hash": "101ce67e20456d92e499305b909741ab",
+  "orig_ext": ".jpg",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring2.jpg",
+  "type": "image"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring3.jpeg": {
+  "bytes": 24601,
+  "file": "files/ess/weeks-12-13/activities/insideoutcoloring3.jpg",
+  "hash": "2d400be232d37dd422f0bef623a383ae",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring3.jpg",
+  "type": "image"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring4.jpeg": {
+  "bytes": 26647,
+  "file": "files/ess/weeks-12-13/activities/insideoutcoloring4.jpg",
+  "hash": "005d08fd45bc10413c99c8a57d0b4a70",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring4.jpg",
+  "type": "image"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring5.webp": {
+  "bytes": 184189,
+  "file": "files/ess/weeks-12-13/activities/insideoutcoloring5.png",
+  "hash": "03422073b506ff9ddc3c590c0a45962a",
+  "orig_ext": ".webp",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring5.jpg",
+  "type": "image"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring6.webp": {
+  "bytes": 228638,
+  "file": "files/ess/weeks-12-13/activities/insideoutcoloring6.png",
+  "hash": "2266bb2e1a4f7421c609df5a9066683e",
+  "orig_ext": ".webp",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring6.jpg",
+  "type": "image"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring7.jpeg": {
+  "bytes": 228273,
+  "file": "files/ess/weeks-12-13/activities/insideoutcoloring7.jpg",
+  "hash": "f07eaa0d5bc2b8a05e6922344108a86d",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring7.jpg",
+  "type": "image"
+ },
+ "ESS/weeks 12+13/Activities/InsideOutColoring7.jpg": {
+  "bytes": 283632,
+  "file": "files/ess/weeks-12-13/activities/insideoutcoloring7.jpg",
+  "hash": "5ba3719a9013c53a468bd2fe2ef01a50",
+  "orig_ext": ".jpg",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring7.jpg",
+  "type": "image"
  },
  "ESS/weeks 4+5/Activities/Emotional Awareness.pdf": {
   "bytes": 35470,
@@ -1255,14 +1614,13 @@
   "thumb": "thumbs/ess/weeks-4-5/activities/how-might-you-feel.jpg",
   "type": "pdf"
  },
- "ESS/weeks 4+5/Lesson Plans/Breaking Down Tasks 9_28.docx": {
-  "bytes": 46550,
-  "cleaned": false,
-  "file": "files/ess/weeks-4-5/lesson-plans/breaking-down-tasks-9-28.pdf",
+ "ESS/weeks 4+5/Lesson Plans/Breaking Down Tasks 9/28.docx": {
+  "bytes": 46055,
+  "file": "files/ess/weeks-4-5/lesson-plans/breaking-down-tasks-9/28.pdf",
   "hash": "txt:9ee8f394cadafdabd717d27a52ae69b9",
   "orig_ext": ".docx",
   "pages": 2,
-  "thumb": "thumbs/ess/weeks-4-5/lesson-plans/breaking-down-tasks-9-28.jpg",
+  "thumb": "thumbs/ess/weeks-4-5/lesson-plans/breaking-down-tasks-9/28.jpg",
   "type": "pdf"
  },
  "ESS/weeks 4+5/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
@@ -1275,33 +1633,31 @@
   "thumb": "thumbs/ess/weeks-4-5/lesson-plans/essfridayroutinelessonplan.jpg",
   "type": "pdf"
  },
- "ESS/weeks 4+5/Lesson Plans/Emotional Awareness 9_22.docx": {
-  "bytes": 53917,
-  "cleaned": false,
-  "file": "files/ess/weeks-4-5/lesson-plans/emotional-awareness-9-22.pdf",
+ "ESS/weeks 4+5/Lesson Plans/Emotional Awareness 9/22.docx": {
+  "bytes": 57928,
+  "file": "files/ess/weeks-4-5/lesson-plans/emotional-awareness-9/22.pdf",
   "hash": "txt:328f058535db47dccd7b144815201693",
   "orig_ext": ".docx",
   "pages": 3,
-  "thumb": "thumbs/ess/weeks-4-5/lesson-plans/emotional-awareness-9-22.jpg",
+  "thumb": "thumbs/ess/weeks-4-5/lesson-plans/emotional-awareness-9/22.jpg",
   "type": "pdf"
  },
- "ESS/weeks 4+5/Lesson Plans/Working in Groups 9_23.docx": {
-  "bytes": 41491,
-  "cleaned": false,
-  "file": "files/ess/weeks-4-5/lesson-plans/working-in-groups-9-23.pdf",
+ "ESS/weeks 4+5/Lesson Plans/Working in Groups 9/23.docx": {
+  "bytes": 41218,
+  "file": "files/ess/weeks-4-5/lesson-plans/working-in-groups-9/23.pdf",
   "hash": "txt:d8d57a117374759f2452c5d637d48496",
   "orig_ext": ".docx",
   "pages": 3,
-  "thumb": "thumbs/ess/weeks-4-5/lesson-plans/working-in-groups-9-23.jpg",
+  "thumb": "thumbs/ess/weeks-4-5/lesson-plans/working-in-groups-9/23.jpg",
   "type": "pdf"
  },
- "ESS/weeks 4+5/Slides/Canva slides ESS week 4_5.docx": {
-  "bytes": 16726,
-  "file": "files/ess/weeks-4-5/slides/canva-slides-ess-week-4-5.pdf",
+ "ESS/weeks 4+5/Slides/Canva slides ESS week 4/5.docx": {
+  "bytes": 16534,
+  "file": "files/ess/weeks-4-5/slides/canva-slides-ess-week-4/5.pdf",
   "hash": "txt:e34b86a1ed840adcb3be297aa60846bc",
   "orig_ext": ".docx",
   "pages": 1,
-  "thumb": "thumbs/ess/weeks-4-5/slides/canva-slides-ess-week-4-5.jpg",
+  "thumb": "thumbs/ess/weeks-4-5/slides/canva-slides-ess-week-4/5.jpg",
   "type": "pdf"
  },
  "ESS/weeks 6+7/Activities/2 - Executive Functioning_ Task Initiation and Perseverance for Teens.pdf": {
@@ -1344,6 +1700,15 @@
   "thumb": "thumbs/ess/weeks-6-7/activities/triggers-and-coping-skills-worksheets-67842.jpg",
   "type": "image"
  },
+ "ESS/weeks 6+7/Lesson Plans/ESS10-6&13LessonPlan.docx": {
+  "bytes": 66561,
+  "file": "files/ess/weeks-6-7/lesson-plans/ess10-6and13lessonplan.pdf",
+  "hash": "txt:9b74b95c961fd4f708c0572602aa20f0",
+  "orig_ext": ".docx",
+  "pages": 3,
+  "thumb": "thumbs/ess/weeks-6-7/lesson-plans/ess10-6and13lessonplan.jpg",
+  "type": "pdf"
+ },
  "ESS/weeks 6+7/Lesson Plans/ESS10-7&10-14LessonPlan.docx": {
   "bytes": 76922,
   "cleaned": false,
@@ -1355,7 +1720,7 @@
   "type": "pdf"
  },
  "ESS/weeks 6+7/Slides/ESS Week 6+7 Slides.docx": {
-  "bytes": 15495,
+  "bytes": 15322,
   "file": "files/ess/weeks-6-7/slides/ess-week-6-7-slides.pdf",
   "hash": "txt:4a2397d88f3b0dc7b91f1dfc7716fc43",
   "orig_ext": ".docx",
@@ -1383,26 +1748,6 @@
   "thumb": "thumbs/ess/weeks-8-9/activities/dealingwithdisappointment.jpg",
   "type": "pdf"
  },
- "ESS/weeks 8+9/Activities/DisappointmentsHelpUsGrow.pdf": {
-  "bytes": 6291897,
-  "cleaned": false,
-  "file": "files/ess/weeks-8-9/activities/disappointmentshelpusgrow.pdf",
-  "hash": "ccfebbc01821248592a165114cf1a5bd",
-  "orig_ext": ".pdf",
-  "pages": 1,
-  "thumb": "thumbs/ess/weeks-8-9/activities/disappointmentshelpusgrow.jpg",
-  "type": "pdf"
- },
- "ESS/weeks 8+9/Activities/HealthySelfExpression.pdf": {
-  "bytes": 4814423,
-  "cleaned": false,
-  "file": "files/ess/weeks-8-9/activities/healthyselfexpression.pdf",
-  "hash": "b081df8a2edc893a38d07f7bc141f956",
-  "orig_ext": ".pdf",
-  "pages": 1,
-  "thumb": "thumbs/ess/weeks-8-9/activities/healthyselfexpression.jpg",
-  "type": "pdf"
- },
  "ESS/weeks 8+9/Activities/Prioritizing Work .avif": {
   "bytes": 86407,
   "cleaned": false,
@@ -1423,38 +1768,8 @@
   "thumb": "thumbs/ess/weeks-8-9/activities/think-it-say-it-cards.jpg",
   "type": "pdf"
  },
- "ESS/weeks 8+9/Lesson Plans/10_19-10_26 Prioritizing Tasks.docx": {
-  "bytes": 31609,
-  "cleaned": false,
-  "file": "files/ess/weeks-8-9/lesson-plans/10-19-10-26-prioritizing-tasks.pdf",
-  "hash": "txt:3b044db98f37d8dd6cc2c6f15b9cadb5",
-  "orig_ext": ".docx",
-  "pages": 2,
-  "thumb": "thumbs/ess/weeks-8-9/lesson-plans/10-19-10-26-prioritizing-tasks.jpg",
-  "type": "pdf"
- },
- "ESS/weeks 8+9/Lesson Plans/10_20-10_27 Dealing with Disappointment.docx": {
-  "bytes": 28197,
-  "cleaned": false,
-  "file": "files/ess/weeks-8-9/lesson-plans/10-20-10-27-dealing-with-disappointment.pdf",
-  "hash": "txt:7b187e656c50cbd908083d5e20b3b5de",
-  "orig_ext": ".docx",
-  "pages": 2,
-  "thumb": "thumbs/ess/weeks-8-9/lesson-plans/10-20-10-27-dealing-with-disappointment.jpg",
-  "type": "pdf"
- },
- "ESS/weeks 8+9/Lesson Plans/10_21-10_28 Being Perceived as Friendly.docx": {
-  "bytes": 32880,
-  "cleaned": false,
-  "file": "files/ess/weeks-8-9/lesson-plans/10-21-10-28-being-perceived-as-friendly.pdf",
-  "hash": "txt:537582234feba0a9dc78841b334b717b",
-  "orig_ext": ".docx",
-  "pages": 2,
-  "thumb": "thumbs/ess/weeks-8-9/lesson-plans/10-21-10-28-being-perceived-as-friendly.jpg",
-  "type": "pdf"
- },
  "ESS/weeks 8+9/Slides/ESS Week 8+9.docx": {
-  "bytes": 13475,
+  "bytes": 13292,
   "file": "files/ess/weeks-8-9/slides/ess-week-8-9.pdf",
   "hash": "txt:72429b36351f354b4871dccf10cacdeb",
   "orig_ext": ".docx",
@@ -1462,9 +1777,8 @@
   "thumb": "thumbs/ess/weeks-8-9/slides/ess-week-8-9.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-13LessonPlan.docx": {
-  "bytes": 76329,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-13LessonPlan.docx": {
+  "bytes": 86614,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-13lessonplan.pdf",
   "hash": "txt:d2daa4c39050dd93218baf7d3da8fc2f",
   "orig_ext": ".docx",
@@ -1472,9 +1786,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-13lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-15LessonPlan.docx": {
-  "bytes": 79936,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-15LessonPlan.docx": {
+  "bytes": 90349,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-15lessonplan.pdf",
   "hash": "txt:707bcee64e034ac077fdf9027c789069",
   "orig_ext": ".docx",
@@ -1482,9 +1795,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-15lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-19LessonPlan.docx": {
-  "bytes": 80294,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-19LessonPlan.docx": {
+  "bytes": 90715,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-19lessonplan.pdf",
   "hash": "txt:6711ee573d12ddb86bf54eb2aee29960",
   "orig_ext": ".docx",
@@ -1492,9 +1804,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-19lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-20LessonPlan.docx": {
-  "bytes": 80505,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-20LessonPlan.docx": {
+  "bytes": 90825,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-20lessonplan.pdf",
   "hash": "txt:97ed6748dc9979360346ae766c479d5e",
   "orig_ext": ".docx",
@@ -1502,9 +1813,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-20lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-21LessonPlan.docx": {
-  "bytes": 79358,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-21LessonPlan.docx": {
+  "bytes": 89662,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-21lessonplan.pdf",
   "hash": "txt:de15e85738774939b17c12d48538d1d1",
   "orig_ext": ".docx",
@@ -1512,9 +1822,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-21lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-26LessonPlan.docx": {
-  "bytes": 93919,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-26LessonPlan.docx": {
+  "bytes": 103155,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-26lessonplan.pdf",
   "hash": "txt:d653405423fe81ac63c20cd49698078e",
   "orig_ext": ".docx",
@@ -1522,9 +1831,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-26lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-27LessonPlan.docx": {
-  "bytes": 89201,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-27LessonPlan.docx": {
+  "bytes": 99043,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-27lessonplan.pdf",
   "hash": "txt:1b033183c90391f6569b77ddd1a29970",
   "orig_ext": ".docx",
@@ -1532,9 +1840,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-27lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-28LessonPlan.docx": {
-  "bytes": 91862,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-28LessonPlan.docx": {
+  "bytes": 101261,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-28lessonplan.pdf",
   "hash": "txt:72aa0053bccad87427e977397b0b3a14",
   "orig_ext": ".docx",
@@ -1542,9 +1849,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-28lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-29LessonPlan.docx": {
-  "bytes": 95458,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-29LessonPlan.docx": {
+  "bytes": 105232,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-29lessonplan.pdf",
   "hash": "txt:9b9cdaeb7e53838b7ebcc5660971c2e5",
   "orig_ext": ".docx",
@@ -1552,9 +1858,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-29lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-5LessonPlan.docx": {
-  "bytes": 92423,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-5LessonPlan.docx": {
+  "bytes": 102722,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-5lessonplan.pdf",
   "hash": "txt:cba3f37e5f4120781aee878af7b4efd5",
   "orig_ext": ".docx",
@@ -1562,9 +1867,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-5lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-6LessonPlan.docx": {
-  "bytes": 181732,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-6LessonPlan.docx": {
+  "bytes": 191404,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-6lessonplan.pdf",
   "hash": "txt:777420ab0e58ecfe7caae0653d79ab8e",
   "orig_ext": ".docx",
@@ -1572,9 +1876,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-6lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-7LessonPlan.docx": {
-  "bytes": 79453,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-7LessonPlan.docx": {
+  "bytes": 89763,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-7lessonplan.pdf",
   "hash": "txt:961108f85381e180336823e65ed84571",
   "orig_ext": ".docx",
@@ -1582,9 +1885,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-7lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_10-8LessonPlan.docx": {
-  "bytes": 79340,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:10-8LessonPlan.docx": {
+  "bytes": 89694,
   "file": "files/lesson-plans/b2-life-skills-math/b2-10-8lessonplan.pdf",
   "hash": "txt:b5d0c7acdcc8ec4f052cc2dba314ce3f",
   "orig_ext": ".docx",
@@ -1592,9 +1894,26 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-8lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-14LessonPlan.docx": {
-  "bytes": 82608,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:11-2LessonPlan.docx": {
+  "bytes": 94308,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-2lessonplan.pdf",
+  "hash": "txt:fbb09e6ef2426783cbf808a115f2a503",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-2lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2:11-5LessonPlan.docx": {
+  "bytes": 99365,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-5lessonplan.pdf",
+  "hash": "txt:7454cf3af87fa9862ade3cf2f1d8ca7f",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-5lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2:9-14LessonPlan.docx": {
+  "bytes": 92395,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-14lessonplan.pdf",
   "hash": "txt:c308575e3a2dea6059e76d1e0cd1f8e5",
   "orig_ext": ".docx",
@@ -1602,9 +1921,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-14lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-15LessonPlan.docx": {
-  "bytes": 84038,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-15LessonPlan.docx": {
+  "bytes": 94078,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-15lessonplan.pdf",
   "hash": "txt:c8832c577c9a09b67a6ad3e7b19953c4",
   "orig_ext": ".docx",
@@ -1612,9 +1930,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-15lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-16LessonPlan.docx": {
-  "bytes": 85412,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-16LessonPlan.docx": {
+  "bytes": 95556,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-16lessonplan.pdf",
   "hash": "txt:dbdb08be1b8983c47a0fd19005c2d3d2",
   "orig_ext": ".docx",
@@ -1622,9 +1939,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-16lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-17LessonPlan.docx": {
-  "bytes": 99029,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-17LessonPlan.docx": {
+  "bytes": 108674,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-17lessonplan.pdf",
   "hash": "txt:4cb8c8d677d3f49564bdfdcc312342ca",
   "orig_ext": ".docx",
@@ -1632,9 +1948,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-17lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-18LessonPlan.docx": {
-  "bytes": 115503,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-18LessonPlan.docx": {
+  "bytes": 114829,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-18lessonplan.pdf",
   "hash": "txt:4c52020dddbfaea6fb8a75182afaa26a",
   "orig_ext": ".docx",
@@ -1642,9 +1957,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-18lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-22LessonPlan.docx": {
-  "bytes": 80124,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-22LessonPlan.docx": {
+  "bytes": 90215,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-22lessonplan.pdf",
   "hash": "txt:495f2116cea7d368b5a6c9106c465fad",
   "orig_ext": ".docx",
@@ -1652,9 +1966,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-22lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-23LessonPlan.docx": {
-  "bytes": 82839,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-23LessonPlan.docx": {
+  "bytes": 93196,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-23lessonplan.pdf",
   "hash": "txt:ed8ff509093eacc20c7bd457a37cd825",
   "orig_ext": ".docx",
@@ -1662,9 +1975,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-23lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-24LessonPlan.docx": {
-  "bytes": 82853,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-24LessonPlan.docx": {
+  "bytes": 93114,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-24lessonplan.pdf",
   "hash": "txt:fec9ef087f86a05fba36644087b27662",
   "orig_ext": ".docx",
@@ -1672,9 +1984,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-24lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-28LessonPlan.docx": {
-  "bytes": 82154,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-28LessonPlan.docx": {
+  "bytes": 92682,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-28lessonplan.pdf",
   "hash": "txt:116bb46e3c08d4121e32984f772ed586",
   "orig_ext": ".docx",
@@ -1682,9 +1993,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-28lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-29LessonPlan.docx": {
-  "bytes": 81676,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-29LessonPlan.docx": {
+  "bytes": 92185,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-29lessonplan.pdf",
   "hash": "txt:7bcad793a65f1896a9c8952628ef6364",
   "orig_ext": ".docx",
@@ -1692,9 +2002,8 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-9-29lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B2 Life Skills Math/B2_9-9LessonPlan.docx": {
-  "bytes": 147250,
-  "cleaned": false,
+ "Lesson Plans/B2 Life Skills Math/B2:9-9LessonPlan.docx": {
+  "bytes": 156563,
   "file": "files/lesson-plans/b2-life-skills-math/b2-9-9lessonplan.pdf",
   "hash": "txt:661d8fd981669589d0f37e8a1112f7ae",
   "orig_ext": ".docx",
@@ -1712,164 +2021,166 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/high-school-life-skills-mathematics-lesson-plan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-14_15LessonPlan.docx": {
-  "bytes": 81505,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-14-15lessonplan.pdf",
+ "Lesson Plans/B3 Learning Support Math/B3:10-1/2LessonPlan.docx": {
+  "bytes": 78841,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-1/2lessonplan.pdf",
+  "hash": "txt:425ea643e7354f438b6cdc097070bd35",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-1/2lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:10-14/15LessonPlan.docx": {
+  "bytes": 92016,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-14/15lessonplan.pdf",
   "hash": "txt:4ee48187cb28d7221d5a13dd77a942fe",
   "orig_ext": ".docx",
   "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-14-15lessonplan.jpg",
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-14/15lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-16_19LessonPlan.docx": {
-  "bytes": 79979,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-16-19lessonplan.pdf",
-  "hash": "txt:bac2cec066298b8055c26a1ac52e6baf",
+ "Lesson Plans/B3 Learning Support Math/B3:10-16/19LessonPlan.docx": {
+  "bytes": 78470,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-16/19lessonplan.pdf",
+  "hash": "txt:bb20f480b45a802cfee3b9451e6c5056",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-16/19lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:10-20/21LessonPlan.docx": {
+  "bytes": 77560,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-20/21lessonplan.pdf",
+  "hash": "txt:e205e551e51092fdc630b0c5382bc2fd",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-20/21lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:10-23/26LessonPlan.docx": {
+  "bytes": 74581,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-23/26lessonplan.pdf",
+  "hash": "txt:3d34cce31b03b32cf4445b9800f90507",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-23/26lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:10-27/28LessonPlan.docx": {
+  "bytes": 78124,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-27/28lessonplan.pdf",
+  "hash": "txt:a50c34ef6b9e7021b4333fda42f4ed03",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-27/28lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:10-29/30LessonPlan.docx": {
+  "bytes": 98632,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-29/30lessonplan.pdf",
+  "hash": "txt:a04351c4db8d3c4257d48f9065a5f2ae",
   "orig_ext": ".docx",
   "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-16-19lessonplan.jpg",
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-29/30lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-1_2LessonPlan.docx": {
-  "bytes": 80422,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-1-2lessonplan.pdf",
-  "hash": "txt:7c1ccc9b97dfe27941315146bad40d3c",
+ "Lesson Plans/B3 Learning Support Math/B3:10-5/6LessonPlan.docx": {
+  "bytes": 75606,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-5/6lessonplan.pdf",
+  "hash": "txt:f8af4f640881c3354e4dcb3b967bd223",
   "orig_ext": ".docx",
-  "pages": 6,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-1-2lessonplan.jpg",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-5/6lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-20_21LessonPlan.docx": {
-  "bytes": 78387,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-20-21lessonplan.pdf",
-  "hash": "txt:620552ed6415e129f5205525b0a379d3",
+ "Lesson Plans/B3 Learning Support Math/B3:10-7/8LessonPlan.docx": {
+  "bytes": 78729,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-7/8lessonplan.pdf",
+  "hash": "txt:8b9dfcaeb9643f7f1101db4a35754c32",
   "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-20-21lessonplan.jpg",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-7/8lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_10-23_26LessonPlan.docx": {
-  "bytes": 75771,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-23-26lessonplan.pdf",
-  "hash": "txt:e660f5da0d84f71e1f9273567d5f555a",
-  "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-23-26lessonplan.jpg",
-  "type": "pdf"
- },
- "Lesson Plans/B3 Learning Support Math/B3_10-27_28LessonPlan.docx": {
-  "bytes": 78989,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-27-28lessonplan.pdf",
-  "hash": "txt:942fcf4efead73418af8b62f671f290c",
-  "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-27-28lessonplan.jpg",
-  "type": "pdf"
- },
- "Lesson Plans/B3 Learning Support Math/B3_10-29_30LessonPlan.docx": {
-  "bytes": 94276,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-29-30lessonplan.pdf",
-  "hash": "txt:c9463dfa535025714356b484295e29e6",
-  "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-29-30lessonplan.jpg",
-  "type": "pdf"
- },
- "Lesson Plans/B3 Learning Support Math/B3_10-5_6LessonPlan.docx": {
-  "bytes": 76585,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-5-6lessonplan.pdf",
-  "hash": "txt:b080ff482796c16524425a5a52ad2c49",
-  "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-5-6lessonplan.jpg",
-  "type": "pdf"
- },
- "Lesson Plans/B3 Learning Support Math/B3_10-7_8LessonPlan.docx": {
-  "bytes": 79791,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-7-8lessonplan.pdf",
-  "hash": "txt:91a375c70e52df1ab523d381c381bf64",
-  "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-7-8lessonplan.jpg",
-  "type": "pdf"
- },
- "Lesson Plans/B3 Learning Support Math/B3_10-9_13LessonPlan.docx": {
-  "bytes": 80353,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-10-9-13lessonplan.pdf",
+ "Lesson Plans/B3 Learning Support Math/B3:10-9/13LessonPlan.docx": {
+  "bytes": 90680,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-10-9/13lessonplan.pdf",
   "hash": "txt:cc4d0c62e3eb8ebbee39efccc1460c52",
   "orig_ext": ".docx",
   "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-9-13lessonplan.jpg",
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-9/13lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-14_15LessonPlan.docx": {
-  "bytes": 144114,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-9-14-15lessonplan.pdf",
-  "hash": "txt:146cc9be66f865deb987e8a1d653ffab",
+ "Lesson Plans/B3 Learning Support Math/B3:11-2/4LessonPlan.docx": {
+  "bytes": 97277,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-11-2/4lessonplan.pdf",
+  "hash": "txt:d2101fe85a0567ea119f66c8fd1a12b8",
   "orig_ext": ".docx",
-  "pages": 8,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-14-15lessonplan.jpg",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-11-2/4lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-16_17LessonPlan.docx": {
-  "bytes": 73489,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-9-16-17lessonplan.pdf",
+ "Lesson Plans/B3 Learning Support Math/B3:11-5/6LessonPlan.docx": {
+  "bytes": 95599,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-11-5/6lessonplan.pdf",
+  "hash": "txt:f632b7740b4b4049bc3d1cc75cee9876",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-11-5/6lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:9-14/15LessonPlan.docx": {
+  "bytes": 149162,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-9-14/15lessonplan.pdf",
+  "hash": "txt:af4a49c7e965592f336f5332b14e84ec",
+  "orig_ext": ".docx",
+  "pages": 9,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-14/15lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3:9-16/17LessonPlan.docx": {
+  "bytes": 83706,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-9-16/17lessonplan.pdf",
   "hash": "txt:304637fcb58627da30b0d7e50f510651",
   "orig_ext": ".docx",
   "pages": 6,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-16-17lessonplan.jpg",
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-16/17lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-18_22LessonPlans.pdf": {
-  "bytes": 132489,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-9-18-22lessonplans.pdf",
+ "Lesson Plans/B3 Learning Support Math/B3:9-18/22LessonPlans.pdf": {
+  "bytes": 132463,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-9-18/22lessonplans.pdf",
   "hash": "23ee9aeab101373e2ee756b02160dcee",
   "orig_ext": ".pdf",
   "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-18-22lessonplans.jpg",
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-18/22lessonplans.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-23_24LessonPlan.docx": {
-  "bytes": 79155,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-9-23-24lessonplan.pdf",
-  "hash": "txt:8606a0758bbfb53765902842f19457dc",
+ "Lesson Plans/B3 Learning Support Math/B3:9-23/24LessonPlan.docx": {
+  "bytes": 78511,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-9-23/24lessonplan.pdf",
+  "hash": "txt:b1008fc4c58342f8d6699cefeddcee99",
   "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-23-24lessonplan.jpg",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-23/24lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-25_28LessonPlan.docx": {
-  "bytes": 80521,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-9-25-28lessonplan.pdf",
-  "hash": "txt:e2ee2c6b723775186be0d15e0c29e42f",
+ "Lesson Plans/B3 Learning Support Math/B3:9-25/28LessonPlan.docx": {
+  "bytes": 80087,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-9-25/28lessonplan.pdf",
+  "hash": "txt:bf359d57807b1328a909574e2a211c4b",
   "orig_ext": ".docx",
   "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-25-28lessonplan.jpg",
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-25/28lessonplan.jpg",
   "type": "pdf"
  },
- "Lesson Plans/B3 Learning Support Math/B3_9-29_30LessonPlan.docx": {
-  "bytes": 77095,
-  "cleaned": false,
-  "file": "files/lesson-plans/b3-learning-support-math/b3-9-29-30lessonplan.pdf",
-  "hash": "txt:cd8dc8337da2c07555652ada2991da0d",
+ "Lesson Plans/B3 Learning Support Math/B3:9-29/30LessonPlan.docx": {
+  "bytes": 76129,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-9-29/30lessonplan.pdf",
+  "hash": "txt:0217c2da1c1c40820c382ddd93a154e2",
   "orig_ext": ".docx",
-  "pages": 5,
-  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-29-30lessonplan.jpg",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-9-29/30lessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ ESS9-22 & 9-27LessonPlan.docx": {
@@ -1892,6 +2203,33 @@
   "thumb": "thumbs/lesson-plans/b4-ess/async-lesson-plans-10-22.jpg",
   "type": "pdf"
  },
+ "Lesson Plans/B4 ESS/ESS10-19&10-26 Prioritizing Tasks.docx": {
+  "bytes": 31449,
+  "file": "files/lesson-plans/b4-ess/ess10-19and10-26-prioritizing-tasks.pdf",
+  "hash": "txt:3b044db98f37d8dd6cc2c6f15b9cadb5",
+  "orig_ext": ".docx",
+  "pages": 2,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess10-19and10-26-prioritizing-tasks.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B4 ESS/ESS10-20&10-27 Dealing with Disappointment.docx": {
+  "bytes": 28033,
+  "file": "files/lesson-plans/b4-ess/ess10-20and10-27-dealing-with-disappointment.pdf",
+  "hash": "txt:7b187e656c50cbd908083d5e20b3b5de",
+  "orig_ext": ".docx",
+  "pages": 2,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess10-20and10-27-dealing-with-disappointment.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B4 ESS/ESS10-21&10-28 Being Perceived as Friendly.docx": {
+  "bytes": 32725,
+  "file": "files/lesson-plans/b4-ess/ess10-21and10-28-being-perceived-as-friendly.pdf",
+  "hash": "txt:537582234feba0a9dc78841b334b717b",
+  "orig_ext": ".docx",
+  "pages": 2,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess10-21and10-28-being-perceived-as-friendly.jpg",
+  "type": "pdf"
+ },
  "Lesson Plans/B4 ESS/ESS10-5LessonPlan.docx": {
   "bytes": 79800,
   "cleaned": false,
@@ -1903,23 +2241,48 @@
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ESS10-6&13LessonPlan.docx": {
-  "bytes": 58613,
-  "cleaned": false,
+  "bytes": 53245,
   "file": "files/lesson-plans/b4-ess/ess10-6and13lessonplan.pdf",
-  "hash": "txt:9b74b95c961fd4f708c0572602aa20f0",
+  "hash": "txt:f0a5ed40b51b56850d898ad66edfa72b",
   "orig_ext": ".docx",
   "pages": 3,
   "thumb": "thumbs/lesson-plans/b4-ess/ess10-6and13lessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ESS10-7&10-14LessonPlan.docx": {
-  "bytes": 75913,
-  "cleaned": false,
+  "bytes": 75719,
   "file": "files/lesson-plans/b4-ess/ess10-7and10-14lessonplan.pdf",
-  "hash": "txt:b3d98818cbc9f8a89661a1150f430585",
+  "hash": "txt:bdd42098d4112e11806151bfd9d3b4d9",
   "orig_ext": ".docx",
   "pages": 4,
   "thumb": "thumbs/lesson-plans/b4-ess/ess10-7and10-14lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B4 ESS/ESS11-2&11-9Solving a Problem.docx": {
+  "bytes": 35568,
+  "file": "files/lesson-plans/b4-ess/ess11-2and11-9solving-a-problem.pdf",
+  "hash": "txt:3e95910eb3843e2962ab9e827aae38e1",
+  "orig_ext": ".docx",
+  "pages": 1,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess11-2and11-9solving-a-problem.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B4 ESS/ESS11-4&11-11Actions Affect Others.docx": {
+  "bytes": 34675,
+  "file": "files/lesson-plans/b4-ess/ess11-4and11-11actions-affect-others.pdf",
+  "hash": "txt:fccfbf2a91c3628dbe3506443ff9b057",
+  "orig_ext": ".docx",
+  "pages": 2,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess11-4and11-11actions-affect-others.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B4 ESS/ESS11/10 Actions have Consequences .docx": {
+  "bytes": 45013,
+  "file": "files/lesson-plans/b4-ess/ess11/10-actions-have-consequences.pdf",
+  "hash": "txt:ac76cdf58cf26c0584bd19697a5be0d8",
+  "orig_ext": ".docx",
+  "pages": 2,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess11/10-actions-have-consequences.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ESS9-14LessonPlan.docx": {
@@ -1993,42 +2356,38 @@
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ESSAgendaLessonPlan.docx": {
-  "bytes": 101336,
-  "cleaned": false,
+  "bytes": 109000,
   "file": "files/lesson-plans/b4-ess/essagendalessonplan.pdf",
-  "hash": "txt:32aa20da5642cba5a7e59fd4cffccc6d",
+  "hash": "txt:22e55f54267e3632007a1c5b3d6ce83f",
   "orig_ext": ".docx",
   "pages": 6,
   "thumb": "thumbs/lesson-plans/b4-ess/essagendalessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ESSEmailLessonPlan.docx": {
-  "bytes": 97554,
-  "cleaned": false,
+  "bytes": 101240,
   "file": "files/lesson-plans/b4-ess/essemaillessonplan.pdf",
-  "hash": "txt:8d688bced865696e3e3e53ebe85235ad",
+  "hash": "txt:e5cbf7ae66d75a8235894886d0e4b3d1",
   "orig_ext": ".docx",
   "pages": 6,
   "thumb": "thumbs/lesson-plans/b4-ess/essemaillessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ESSFridayRoutineLessonPlan.docx": {
-  "bytes": 80669,
-  "cleaned": false,
+  "bytes": 78234,
   "file": "files/lesson-plans/b4-ess/essfridayroutinelessonplan.pdf",
-  "hash": "txt:53b09701d010b537b5c463aab11bdd49",
+  "hash": "txt:d7c3858b3c639e78791280acff9194f2",
   "orig_ext": ".docx",
-  "pages": 5,
+  "pages": 4,
   "thumb": "thumbs/lesson-plans/b4-ess/essfridayroutinelessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ESSThursdayLessonPlan.docx": {
-  "bytes": 79912,
-  "cleaned": false,
+  "bytes": 78413,
   "file": "files/lesson-plans/b4-ess/essthursdaylessonplan.pdf",
-  "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
+  "hash": "txt:753d073a5fe709055a9817d99f2f8265",
   "orig_ext": ".docx",
-  "pages": 5,
+  "pages": 4,
   "thumb": "thumbs/lesson-plans/b4-ess/essthursdaylessonplan.jpg",
   "type": "pdf"
  }
