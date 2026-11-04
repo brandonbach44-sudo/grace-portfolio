@@ -197,6 +197,9 @@ def main():
     entries = src.list(S['include'], excludes)
     if a.drive: log('top-level folders in Drive:', getattr(src, 'found_tops', '?'))
     log(len(entries), 'files found')
+    if files and len(entries) < 0.6 * len(files) and not os.environ.get('ALLOW_BIG_DROP'):
+        sys.exit(f'Stopping: only {len(entries)} files found but the site has {len(files)}. Nothing was changed. '
+                 'Check the folder names in settings.yml or the shared folder.')
     if not entries: sys.exit('No files found: is the folder shared with the service account, and are the folder names in settings.yml right?')
     E = {e['path']: e for e in entries}
     fetched = set()

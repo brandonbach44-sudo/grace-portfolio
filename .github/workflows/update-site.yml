@@ -1,10 +1,10 @@
 name: Update site from Google Drive
 
 on:
-  schedule:
-    - cron: '17 * * * *'      # every hour
+  # schedule:                  # hourly runs: switched on once the Drive folder is confirmed
+  #   - cron: '17 * * * *'
   workflow_dispatch:           # "Run workflow" button
-  push:
+  push:                        # a normal commit just republishes what's in the repo
     branches: [main]
 
 permissions:
@@ -36,6 +36,7 @@ jobs:
           cache-dependency-path: pipeline/requirements.txt
 
       - name: Install tools
+        if: github.event_name != 'push'
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq --no-install-recommends libreoffice-writer libreoffice-impress libreoffice-calc \
@@ -44,12 +45,14 @@ jobs:
           python -m playwright install --with-deps chromium > /dev/null
 
       - name: Pull Grace's Drive folder and rebuild the site
+        if: github.event_name != 'push'
         env:
           GDRIVE_SA_KEY: ${{ secrets.GDRIVE_SA_KEY }}
         run: python pipeline/update.py --drive "$DRIVE_FOLDER_ID"
 
       - name: Save changes
         id: save
+        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
