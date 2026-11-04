@@ -1,8 +1,8 @@
 name: Update site from Google Drive
 
 on:
-  # schedule:                  # hourly runs: switched on once the Drive folder is confirmed
-  #   - cron: '17 * * * *'
+  schedule:
+    - cron: '17 * * * *'      # every hour
   workflow_dispatch:           # "Run workflow" button
     inputs:
       preview:
