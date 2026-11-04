@@ -1,0 +1,45 @@
+# Settings for the automatic site update.
+# Edit this file on github.com (pencil icon) and commit; the next update uses it.
+
+# Top-level folders in Grace's "Student Teaching" Drive folder that go on the site, in menu order.
+# A new top-level folder stays OFF the site until it is added here.
+include:
+  - Block 2 Math
+  - Block 3 Math
+  - ESS
+  - Lesson Plans
+
+# Short description under each section name.
+blurbs:
+  Block 2 Math: Life Skills Math · grades 9–12
+  Block 3 Math: Learning Support Math (Algebra 1A) · grade 9
+  ESS: Essential Skills & Strategies · grades 9–12
+  Lesson Plans: Every lesson plan, by class
+
+# Folder or file names to skip anywhere (case doesn't matter).
+# Any folder or file whose name ends in "(private)" is also skipped.
+exclude:
+  - General Information
+  - Student Teaching Journal
+  - Photos
+
+# Specific files kept off the site (path inside "Student Teaching").
+hold:
+  - Block 2 Math/Week 7/Activities/Wed 10_14_ Math and Literacy Event.docx
+  - Block 2 Math/Week 11/Activities /Copy of November Math and Literacy Event.docx
+  - ESS/weeks 1+2+3/Activities/Staying Organized_ Email.pdf
+  - Block 2 Math/Week 1/Life Skills Math - Week 1 - Wednesday.pdf
+  - Block 2 Math/Week 1/Life Skills Math - Week 1 - Tuesday.pdf
+  - Block 3 Math/Week 2/Back to School Night 2025.pptx
+
+# Canva decks kept off the site (the Canva design ID: the part after /design/ in a Canva link).
+hold_decks:
+  DAHUE9jXgN8: Block 2 Week 2 (student names)
+  DAHUzM6Wsvs: Block 2 Week 4 (student names)
+  DAHWTFV5t48: Block 2 Week 6 (student names)
+  DAHXPKib5ns: Block 2 Week 7 (student names)
+  DAHX-pl0hWs: Block 2 Week 8 (student names)
+  DAHYdf986CM: Block 2 Week 9 (student names)
+  DAHZHy3a21g: Block 2 Week 10 (student names)
+  DAHXAGLsTak: Block 3 Weeks 6 and 7 (student names)
+  DAHYRrVqPrM: Block 3 Week 9, second deck (student names)
