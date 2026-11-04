@@ -4,6 +4,11 @@ on:
   # schedule:                  # hourly runs: switched on once the Drive folder is confirmed
   #   - cron: '17 * * * *'
   workflow_dispatch:           # "Run workflow" button
+    inputs:
+      preview:
+        description: 'Only show the Drive folder layout (changes nothing)'
+        type: boolean
+        default: false
   push:                        # a normal commit just republishes what's in the repo
     branches: [main]
 
@@ -45,15 +50,21 @@ jobs:
           pip install -q -r pipeline/requirements.txt
           python -m playwright install --with-deps chromium > /dev/null
 
+      - name: Show Drive folder layout
+        if: inputs.preview
+        env:
+          GDRIVE_SA_KEY: ${{ secrets.GDRIVE_SA_KEY }}
+        run: python pipeline/preview.py "$DRIVE_FOLDER_ID"
+
       - name: Pull Grace's Drive folder and rebuild the site
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' && !inputs.preview
         env:
           GDRIVE_SA_KEY: ${{ secrets.GDRIVE_SA_KEY }}
         run: python pipeline/update.py --drive "$DRIVE_FOLDER_ID"
 
       - name: Save changes
         id: save
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' && !inputs.preview
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -62,7 +73,7 @@ jobs:
             git commit -q -m "Update site from Google Drive" && git push -q && echo "changed=true" >> "$GITHUB_OUTPUT"; fi
 
       - name: Package site
-        if: steps.save.outputs.changed == 'true' || github.event_name != 'schedule'
+        if: (steps.save.outputs.changed == 'true' || github.event_name != 'schedule') && !inputs.preview
         run: |
           mkdir _deploy
           cp -r site _deploy/site
@@ -70,10 +81,10 @@ jobs:
           touch _deploy/.nojekyll
 
       - uses: actions/upload-pages-artifact@v3
-        if: steps.save.outputs.changed == 'true' || github.event_name != 'schedule'
+        if: (steps.save.outputs.changed == 'true' || github.event_name != 'schedule') && !inputs.preview
         with:
           path: _deploy
 
       - id: deploy
-        if: steps.save.outputs.changed == 'true' || github.event_name != 'schedule'
+        if: (steps.save.outputs.changed == 'true' || github.event_name != 'schedule') && !inputs.preview
         uses: actions/deploy-pages@v4
