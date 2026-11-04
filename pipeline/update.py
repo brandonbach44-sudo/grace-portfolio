@@ -105,7 +105,7 @@ def canva_check_and_capture(todo, canva):
                 page.goto(f"https://www.canva.com/design/{v['design']}/{v['token']}/view?embed", wait_until='domcontentloaded', timeout=60000)
                 page.wait_for_timeout(7000); txt = page.evaluate('document.body.innerText')
                 if re.search(r"can.t show this page", txt, re.I): state = 'blocked'
-                elif re.search(r'\b1\s*/\s*\d+', txt):
+                elif re.search(r'\b1\s*/\s*\d+', txt) or 'Enter full screen' in txt:
                     state = 'ok'; page.mouse.move(640, 5)
                     page.add_style_tag(content='button,[role=toolbar],[class*=controls],[class*=Controls]{opacity:0!important}'); page.wait_for_timeout(2000)
                     png = os.path.join(WORK, 'cap.png'); page.screenshot(path=png)
