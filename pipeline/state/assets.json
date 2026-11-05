@@ -446,6 +446,15 @@
   "thumb": "thumbs/block-2-math/week-9/slides/week-9-slides.jpg",
   "type": "pdf"
  },
+ "Block 3 Math/Week 10/Activities/PropPractice.pdf": {
+  "bytes": 34357,
+  "file": "files/block-3-math/week-10/activities/proppractice.pdf",
+  "hash": "cb110a998052ba0112b2209b0a74559b",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-10/activities/proppractice.jpg",
+  "type": "pdf"
+ },
  "Block 3 Math/Week 10/Activities/ProportionPracticeKey.pdf": {
   "bytes": 115556,
   "file": "files/block-3-math/week-10/activities/proportionpracticekey.pdf",
@@ -453,6 +462,15 @@
   "orig_ext": ".pdf",
   "pages": 1,
   "thumb": "thumbs/block-3-math/week-10/activities/proportionpracticekey.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 10/Activities/Proportions.pdf": {
+  "bytes": 38244,
+  "file": "files/block-3-math/week-10/activities/proportions.pdf",
+  "hash": "3a076fecbc8f64c881bc6259c19f3645",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-10/activities/proportions.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 10/Activities/ProportionsPractice.pdf": {
@@ -544,6 +562,15 @@
   "pages": 1,
   "thumb": "thumbs/block-3-math/week-11/activities/absvalueequationpractice.jpg",
   "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Activities /SlopeMan.avif": {
+  "bytes": 362171,
+  "file": "files/block-3-math/week-11/activities/slopeman.png",
+  "hash": "1d537ddcbcf6a973aae6bd27cbb30296",
+  "orig_ext": ".avif",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-11/activities/slopeman.jpg",
+  "type": "image"
  },
  "Block 3 Math/Week 11/Notes/AbValueEquationsNotes.pdf": {
   "bytes": 72452,
