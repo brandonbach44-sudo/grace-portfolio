@@ -563,6 +563,15 @@
   "thumb": "thumbs/block-3-math/week-11/activities/absvalueequationpractice.jpg",
   "type": "pdf"
  },
+ "Block 3 Math/Week 11/Activities /Quiz Proportions and Absolute Value.docx": {
+  "bytes": 32099,
+  "file": "files/block-3-math/week-11/activities/quiz-proportions-and-absolute-value.pdf",
+  "hash": "txt:68f13e6699389b7a8f865b9390a8e7b1",
+  "orig_ext": ".docx",
+  "pages": 3,
+  "thumb": "thumbs/block-3-math/week-11/activities/quiz-proportions-and-absolute-value.jpg",
+  "type": "pdf"
+ },
  "Block 3 Math/Week 11/Activities /Quiz Review Proportions and Absolute Value.docx": {
   "bytes": 31878,
   "file": "files/block-3-math/week-11/activities/quiz-review-proportions-and-absolute-value.pdf",
@@ -570,6 +579,15 @@
   "orig_ext": ".docx",
   "pages": 3,
   "thumb": "thumbs/block-3-math/week-11/activities/quiz-review-proportions-and-absolute-value.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 11/Activities /Slope Practice.pdf": {
+  "bytes": 389561,
+  "file": "files/block-3-math/week-11/activities/slope-practice.pdf",
+  "hash": "05e2958b2f55eef9b744cf5b374ad095",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-11/activities/slope-practice.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 11/Activities /SlopeMan.avif": {
@@ -2065,6 +2083,33 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-10-8lessonplan.jpg",
   "type": "pdf"
  },
+ "Lesson Plans/B2 Life Skills Math/B2_11-10LessonPlan.docx": {
+  "bytes": 95157,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-10lessonplan.pdf",
+  "hash": "txt:eba0916acf6738f1dcf977f6b248b844",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-10lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2_11-11LessonPlan.docx": {
+  "bytes": 99337,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-11lessonplan.pdf",
+  "hash": "txt:bea814920c30be1b84acfa291951f6b5",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-11lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2_11-12LessonPlan.docx": {
+  "bytes": 99917,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-12lessonplan.pdf",
+  "hash": "txt:ea587527b6944618dc3d4ae4ee3959fb",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-12lessonplan.jpg",
+  "type": "pdf"
+ },
  "Lesson Plans/B2 Life Skills Math/B2_11-2LessonPlan.docx": {
   "bytes": 94308,
   "file": "files/lesson-plans/b2-life-skills-math/b2-11-2lessonplan.pdf",
@@ -2090,6 +2135,15 @@
   "orig_ext": ".docx",
   "pages": 5,
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-5lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2_11-9LessonPlan.docx": {
+  "bytes": 97228,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-9lessonplan.pdf",
+  "hash": "txt:fee51b2e54434bf5e0750b7bf1651f09",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-9lessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B2 Life Skills Math/B2_9-14LessonPlan.docx": {
@@ -2289,6 +2343,24 @@
   "orig_ext": ".docx",
   "pages": 5,
   "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-10-9-13lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3_11-11_12LessonPlan.docx": {
+  "bytes": 94463,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-11-11-12lessonplan.pdf",
+  "hash": "txt:0473af1b709f16bd1d99eaee9d4766a3",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-11-11-12lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3_11-13_16LessonPlan.docx": {
+  "bytes": 92032,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-11-13-16lessonplan.pdf",
+  "hash": "txt:430bbbbbe664563fe2d795c3bc2fdccf",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-11-13-16lessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B3 Learning Support Math/B3_11-5_6LessonPlan.docx": {
