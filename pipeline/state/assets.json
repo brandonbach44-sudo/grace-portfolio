@@ -662,13 +662,21 @@
   "thumb": "thumbs/block-3-math/week-11/notes/slopeformulanoteskey.jpg",
   "type": "pdf"
  },
- "Block 3 Math/Week 13/Activities/Math Jenga.docx": {
-  "bytes": 54438,
-  "cleaned": false,
-  "file": "files/block-3-math/week-13/activities/math-jenga.pdf",
-  "hash": "txt:1ede851f2886763ff64742e43b0d10e1",
+ "Block 3 Math/Week 11/Slides/B3 Week 11 Slides.docx": {
+  "bytes": 23096,
+  "file": "files/block-3-math/week-11/slides/b3-week-11-slides.pdf",
+  "hash": "txt:401a97e48366fee4be5063c3b69132de",
   "orig_ext": ".docx",
-  "pages": 3,
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-11/slides/b3-week-11-slides.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 13/Activities/Math Jenga.docx": {
+  "bytes": 53682,
+  "file": "files/block-3-math/week-13/activities/math-jenga.pdf",
+  "hash": "txt:edd01ba94ff2b4a591562fb6b55eb6be",
+  "orig_ext": ".docx",
+  "pages": 2,
   "thumb": "thumbs/block-3-math/week-13/activities/math-jenga.jpg",
   "type": "pdf"
  },
