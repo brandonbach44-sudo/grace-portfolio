@@ -1,5 +1,5 @@
-pipeline/
-.github/
-.work/
-option-*.html
-index.html
+/pipeline/
+/.github/
+/.work/
+/option-*.html
+/index.html
