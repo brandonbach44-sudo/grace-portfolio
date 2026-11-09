@@ -1,7 +1,6 @@
 {
   "framework": null,
-  "installCommand": "",
-  "buildCommand": "",
-  "outputDirectory": "site",
-  "cleanUrls": false
+  "installCommand": "echo skip",
+  "buildCommand": "echo 'static site, nothing to build'",
+  "outputDirectory": "site"
 }
