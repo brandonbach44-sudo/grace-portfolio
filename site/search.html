@@ -1,7 +1,10 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>Search · Grace Dittman Portfolio</title><link rel="stylesheet" href="style.css"></head>
-<body><div class="wrap"><header><a class="brand" href="index.html">Grace Dittman<small>Student Teaching Portfolio</small></a><nav class="top"><a href="block-2-math/index.html" class="">Block 2 Math</a><a href="block-3-math/index.html" class="">Block 3 Math</a><a href="ess/index.html" class="">ESS</a><a href="lesson-plans/index.html" class="">Lesson Plans</a><a href="resume.html" class="">Résumé</a><a href="search.html" class="on">Search</a></nav></header>
+<title>Search · Grace Dittman Portfolio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"></head>
+<body class=""><div class="wrap"><header><a class="brand" href="index.html">Grace Dittman</a><div class="rule"></div><nav class="top" aria-label="Sections"><a href="block-2-math/index.html">Block 2 Math</a><a href="block-3-math/index.html">Block 3 Math</a><a href="ess/index.html">ESS</a><a href="lesson-plans/index.html">Lesson Plans</a><a href="resume.html">Résumé</a><a href="photos/index.html">Photos</a><a href="search.html" class="on" aria-current="page">Search</a></nav></header>
 <main><div class="crumbs"><a href="index.html">Home</a><span>›</span>Search</div><h1>Search</h1><p class="sub">Find any lesson plan, worksheet or file by name, topic or folder.</p>
     <input type="search" id="q" placeholder="Try: two-step equations, bingo, money, Week 7" autofocus>
     <p class="count" id="n"></p><ul class="list" id="res"></ul>
@@ -9,4 +12,4 @@
     function esc(s){return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
     function go(){const t=q.value.toLowerCase().trim().split(/\s+/).filter(Boolean);const m=D.filter(d=>{const h=(d.t+' '+d.n+' '+d.f+' '+d.k).toLowerCase();return t.every(w=>h.includes(w))});
     n.textContent=t.length?m.length+' results':D.length+' files';res.innerHTML=m.slice(0,300).map(d=>'<li><a href="'+d.u+'"><span>'+esc(d.t)+'<br><span class="count">'+esc(d.f)+' · '+esc(d.n)+'</span></span><span class="count">'+d.k+'</span></a></li>').join('')}
-    q.addEventListener('input',go);go();</script></main></div></body></html>
+    q.addEventListener('input',go);go();</script></main><footer>Grace Dittman · Student Teaching Portfolio</footer></div></body></html>

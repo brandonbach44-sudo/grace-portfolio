@@ -8,6 +8,8 @@ include:
   - Block 3 Math
   - ESS
   - Lesson Plans
+  - Resume
+  - Photos
 
 # Short description under each section name.
 blurbs:
@@ -15,13 +17,14 @@ blurbs:
   Block 3 Math: Learning Support Math (Algebra 1A) · grade 9
   ESS: Essential Skills & Strategies · grades 9–12
   Lesson Plans: Every lesson plan, by class
+  Résumé: Education, certification and experience
+  Photos: The classroom and student work
 
 # Folder or file names to skip anywhere (case doesn't matter).
 # Any folder or file whose name ends in "(private)" is also skipped.
 exclude:
   - General Information
   - Student Teaching Journal
-  - Photos
 
 # Specific files kept off the site (path inside "Student Teaching").
 hold:

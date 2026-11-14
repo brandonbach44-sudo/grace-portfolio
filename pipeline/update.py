@@ -184,11 +184,17 @@ def looks_like_slides(path, ex):
 # ---------------- main ----------------
 def main():
     ap = argparse.ArgumentParser(); g = ap.add_mutually_exclusive_group(required=True)
-    g.add_argument('--drive'); g.add_argument('--local'); ap.add_argument('--no-canva', action='store_true')
+    g.add_argument('--drive'); g.add_argument('--local'); g.add_argument('--pages-only', action='store_true'); ap.add_argument('--no-canva', action='store_true')
     a = ap.parse_args()
     S = yaml.safe_load(open(os.path.join(HERE, 'settings.yml')))
     excludes = {x.strip().lower() for x in S.get('exclude') or []}
-    src = LocalSource(a.local) if a.local else DriveSource(a.drive, json.loads(os.environ['GDRIVE_SA_KEY']))
+    if a.pages_only:   # rebuild pages from what was last downloaded (no Drive access needed)
+        class StateSource:
+            def list(self, include, excludes):
+                return [{'path': p, 'key': v['key'], 'id': None} for p, v in load('files.json', {}).items() if p.split('/')[0] in include]
+            def fetch(self, entry, dest): raise RuntimeError('pages-only run cannot download ' + entry['path'])
+        src = StateSource(); a.no_canva = True
+    else: src = LocalSource(a.local) if a.local else DriveSource(a.drive, json.loads(os.environ['GDRIVE_SA_KEY']))
     CUR = json.load(open(os.path.join(HERE, 'curation.json')))
     files = load('files.json', {}); extracted = load('extracted.json', {}); assets = load('assets.json', {}); canva = load('canva.json', {})
     seed = load('assets_seed.json', {}) if not assets else {}   # one-time: reuse the hand-built conversions

@@ -49,84 +49,111 @@ def rel_to(frm, to):  # frm, to are site-relative paths
     return os.path.relpath(to, os.path.dirname(frm) or '.')
 
 CSS = """
-:root{--bg:#fff;--fg:#1b1b1b;--muted:#666;--line:#ddd;--fill:#f4f4f4;--link:#1a4fb8;color-scheme:light}
+:root{--bg:#ffd3ca;--fg:#6e0009;--paper:#ffffff;--soft:#ffe6e0;color-scheme:light}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 "Antic Didone",Georgia,"Times New Roman",serif;
  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
-a{color:var(--link);text-decoration:none} a:hover{text-decoration:underline}
-:focus-visible{outline:2px solid var(--link);outline-offset:2px}
-.wrap{max-width:1100px;margin:0 auto}
-header{border-bottom:1px solid var(--line);padding-block:14px;display:flex;flex-wrap:wrap;gap:8px 24px;align-items:baseline;justify-content:space-between}
-.brand{font-weight:700;font-size:18px;color:var(--fg)}
-.brand small{font-weight:400;color:var(--muted);font-size:14px;margin-left:6px}
-nav.top{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:14px}
-nav.top a{color:var(--fg)} nav.top a.on{font-weight:700;border-bottom:2px solid var(--fg)}
-main{padding-block:20px 64px}
-.crumbs{font-size:14px;color:var(--muted);margin-bottom:10px}
-.crumbs a{color:var(--muted)} .crumbs span{margin:0 6px}
-h1{font-size:clamp(1.6rem,3.5vw,2.2rem);line-height:1.15;margin:0 0 6px;text-wrap:balance}
-h2{font-size:1.25rem;margin:32px 0 10px;padding-top:12px;border-top:1px solid var(--line)}
+a{color:var(--fg);text-decoration:none} a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid var(--fg);outline-offset:3px}
+.wrap{max-width:1080px;margin:0 auto}
+header{text-align:center;padding-top:36px}
+.brand{display:inline-block;font-size:34px;line-height:1.1;color:var(--fg)}
+.brand:hover{text-decoration:none}
+.kicker{display:block;font-size:13px;letter-spacing:.3em;text-transform:uppercase;margin-bottom:12px}
+.home header{padding-top:72px}
+.home .brand{font-size:clamp(52px,9vw,92px);line-height:1}
+.tagline{margin:18px 0 0;font-size:20px;font-style:italic}
+.rule{margin-top:28px;border-top:1px solid var(--fg);border-bottom:1px solid var(--fg);height:4px}
+.home .rule{margin-top:40px}
+nav.top{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 34px;padding:16px 0;font-size:18px;border-bottom:1px solid var(--fg)}
+nav.top a.on{border-bottom:1px solid var(--fg)}
+nav.top a:hover{text-decoration:none;border-bottom:1px solid var(--fg)}
+main{padding-block:36px 72px}
+.crumbs{font-size:15px;text-align:center;margin-bottom:6px;letter-spacing:.04em}
+.crumbs span{margin:0 8px}
+h1{font-weight:400;font-size:clamp(2.2rem,6vw,4.4rem);line-height:1.05;margin:0 0 8px;text-align:center;text-wrap:balance}
+h2{font-weight:400;font-size:1.65rem;margin:52px 0 18px;text-align:center}
 h2 a{color:var(--fg)}
-h3{font-size:1rem;margin:20px 0 6px}
-.sub{color:var(--muted);margin:0 0 16px}
-.list{list-style:none;margin:0;padding:0;border-top:1px solid var(--line)}
-.list li{border-bottom:1px solid var(--line)}
-.list a{display:flex;justify-content:space-between;gap:12px;padding:12px 4px;color:var(--fg)}
-.list a:hover{background:var(--fill);text-decoration:none}
-.list .ic{margin-right:8px}
+h3{font-weight:400;font-size:1.2rem;margin:20px 0 6px}
+.sub{margin:0 0 20px;text-align:center;font-style:italic;font-size:19px}
+.list{list-style:none;margin:0;padding:0;background:var(--paper);border:1px solid var(--fg)}
+.list li+li{border-top:1px solid var(--bg)}
+.list a{display:flex;justify-content:space-between;gap:16px;padding:16px 22px;color:var(--fg);font-size:19px}
+.list a:hover{background:var(--soft);text-decoration:none}
 .list a>span{min-width:0;overflow-wrap:anywhere}
 .list a>span .count{white-space:normal}
-.count{color:var(--muted);font-size:14px;white-space:nowrap}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:22px 18px}
-.item{display:flex;flex-direction:column;gap:6px;color:var(--fg);min-width:0}
+.count{font-size:15px;font-style:italic;white-space:nowrap}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:30px 24px}
+.item{display:flex;flex-direction:column;gap:10px;color:var(--fg);min-width:0;text-align:center}
 .item:hover{text-decoration:none} .item:hover .t{text-decoration:underline}
-.thumb{aspect-ratio:4/5;max-width:100%;background:var(--fill);border:1px solid var(--line);display:flex;align-items:center;justify-content:center;overflow:hidden}
-.thumb img{width:100%;height:100%;object-fit:contain;background:#fff}
+.thumb{aspect-ratio:4/5;max-width:100%;background:var(--paper);border:1px solid var(--fg);padding:12px;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:contain;background:var(--paper)}
 .thumb.slide img{height:auto}
-.thumb .noimg{font-size:13px;color:var(--muted);padding:8px;text-align:center}
-.t{font-size:14px;font-weight:600;line-height:1.3;overflow-wrap:anywhere}
-.fn{font-size:12px;color:var(--muted);overflow-wrap:anywhere}
-.tag{display:inline-block;font-size:11px;padding:1px 6px;border:1px solid var(--line);color:var(--muted);margin-right:4px}
-.tag.warn{border-color:#c9a227;color:#7a5d00}
-.meta{display:flex;flex-wrap:wrap;gap:6px 18px;color:var(--muted);font-size:14px;margin:4px 0 14px}
-.btns{display:flex;flex-wrap:wrap;gap:10px;margin:10px 0 18px}
-.btn{display:inline-block;padding:8px 14px;border:1px solid var(--fg);color:var(--fg);font-size:14px}
-.btn:hover{background:var(--fg);color:#fff;text-decoration:none}
-.viewer{width:100%;height:80vh;min-height:420px;border:1px solid var(--line);background:var(--fill)}
-.imgview{max-width:100%;border:1px solid var(--line)}
-.lp section{border-top:1px solid var(--line);padding-top:10px;margin-top:14px;display:grid;grid-template-columns:220px 1fr;gap:16px}
-.lp section>*{min-width:0} .lp h3{margin:0}
-.lp ul{margin:0;padding-left:18px} .lp li{margin-bottom:4px}
-.pre{white-space:pre-wrap}
-.deck{border-top:1px solid var(--line);padding-block:14px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;align-items:center}
-.embed-slot{grid-column:1/-1;max-width:100%;padding:14px!important;background:var(--fill);border:1px dashed #bbb;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:14px;text-align:center;padding:12px}
-.embed{grid-column:1/-1;position:relative;width:100%;aspect-ratio:16/9;max-width:100%;background:#000;border:1px solid var(--line)}
+.thumb .noimg{font-size:15px;font-style:italic;padding:8px;text-align:center}
+.t{font-size:18px;line-height:1.3;overflow-wrap:anywhere}
+.fn{font-size:13px;opacity:.75;overflow-wrap:anywhere}
+.tag{display:inline-block;align-self:center;font-size:12px;letter-spacing:.08em;padding:1px 8px;border:1px solid var(--fg)}
+.meta{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 18px;font-size:16px;font-style:italic;margin:4px 0 16px}
+.btns{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:14px 0 22px}
+.btn{display:inline-block;padding:10px 20px;border:1px solid var(--fg);background:var(--paper);color:var(--fg);font-size:16px;letter-spacing:.04em;min-height:44px}
+.btn:hover{background:var(--fg);color:var(--paper);text-decoration:none}
+.viewer{width:100%;height:85vh;min-height:440px;border:1px solid var(--fg);background:var(--paper)}
+.imgview{display:block;max-width:100%;margin:0 auto;border:1px solid var(--fg);background:var(--paper);padding:12px}
+.lp{background:var(--paper);border:1px solid var(--fg);padding:8px 28px 22px}
+.lp section{border-top:1px solid var(--bg);padding-top:14px;margin-top:14px;display:grid;grid-template-columns:220px 1fr;gap:18px}
+.lp section:first-child{border-top:0}
+.lp section>*{min-width:0} .lp h3{margin:0;font-size:1.1rem;font-style:italic}
+.lp ul{margin:0;padding-left:20px} .lp li{margin-bottom:4px}
+.pre{white-space:pre-wrap;overflow-wrap:anywhere}
+.deck{background:var(--paper);border:1px solid var(--fg);padding:16px 20px;margin-bottom:18px;display:grid;grid-template-columns:minmax(0,1fr) auto;gap:14px;align-items:center}
+.embed-slot{grid-column:1/-1;max-width:100%;padding:14px!important;background:var(--soft);border:1px dashed var(--fg);display:flex;align-items:center;justify-content:center;font-size:15px;text-align:center}
+.embed{grid-column:1/-1;position:relative;width:100%;aspect-ratio:16/9;max-width:100%;background:var(--bg);border:1px solid var(--fg)}
 .embed iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
-.pn{display:flex;justify-content:space-between;gap:12px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:10px 0;margin:14px 0;font-size:14px}
+.pn{display:flex;justify-content:space-between;gap:12px;padding:12px 0;margin:16px 0;font-size:17px;font-style:italic;border-top:1px solid var(--fg);border-bottom:1px solid var(--fg)}
 .pn a{max-width:48%;overflow-wrap:anywhere}
 .pn a:last-child{text-align:right}
-.note{background:var(--fill);border-left:3px solid #999;padding:10px 14px;font-size:14px;margin:12px 0}
-.also{font-size:14px;color:var(--muted)}
-details summary{cursor:pointer;color:var(--link);margin:12px 0}
-input[type=search]{width:100%;max-width:520px;font:inherit;padding:10px 12px;border:1px solid #bbb}
-.home-sections .list a{padding:16px 4px}
-.home-sections b{font-size:1.1rem}
-.small{font-size:14px}
-@media (max-width:700px){.lp section{grid-template-columns:1fr;gap:4px}.viewer{height:70vh}}
+.note{background:var(--paper);border:1px solid var(--fg);padding:16px 20px;font-size:17px;margin:16px 0;text-align:center;font-style:italic}
+.also{font-size:15px;text-align:center;font-style:italic}
+details summary{cursor:pointer;margin:14px 0;text-align:center}
+input[type=search]{display:block;width:100%;max-width:560px;margin:0 auto 10px;font:inherit;color:var(--fg);background:var(--paper);padding:12px 16px;border:1px solid var(--fg)}
+input[type=search]::placeholder{color:var(--fg);opacity:.6}
+#n{text-align:center}
+.blocks{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px;margin-top:28px}
+.block{display:flex;flex-direction:column;gap:12px;background:var(--paper);border:1px solid var(--fg);padding:38px 34px;color:var(--fg)}
+.block:hover{text-decoration:none;outline:1px solid var(--fg)}
+.block .k{font-size:13px;letter-spacing:.24em;text-transform:uppercase}
+.block .n{font-size:34px;line-height:1.1}
+.block .d{font-size:18px;font-style:italic}
+.block .c{margin-top:auto;padding-top:14px;border-top:1px solid var(--fg);font-size:16px}
+footer{border-top:1px solid var(--fg);padding:20px 0 40px;text-align:center;font-size:15px}
+.small{font-size:15px}
+@media (max-width:900px){.blocks{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:620px){.blocks{grid-template-columns:1fr}.lp section{grid-template-columns:1fr;gap:4px}.viewer{height:70vh}nav.top{gap:6px 20px;font-size:17px}.block{padding:28px 24px}}
 """
 
-def layout(path, title, body, active=None, crumbs=None):
+RESUME_NAMES = ('Résumé', 'Resume', 'Résume', 'Resumé')
+PICTURES = 'Photos'
+
+def main_sections(): return [s for s in SECTIONS if s not in RESUME_NAMES and s != PICTURES]
+
+def layout(path, title, body, active=None, crumbs=None, home=False):
     def L(to): return e(rel_to(path, to))
-    nav = ''.join(f'<a href="{L(slug(s)+"/index.html")}" class="{"on" if active==s else ""}">{e(s)}</a>' for s in SECTIONS)
-    nav += f'<a href="{L("resume.html")}" class="{"on" if active=="Résumé" else ""}">Résumé</a><a href="{L("search.html")}" class="{"on" if active=="Search" else ""}">Search</a>'
+    items = [(s, slug(s) + '/index.html') for s in main_sections()] + [('Résumé', 'resume.html'), (PICTURES, slug(PICTURES) + '/index.html'), ('Search', 'search.html')]
+    nav = ''.join(f'<a href="{L(h)}"{" class=\"on\" aria-current=\"page\"" if active == t else ""}>{e(t)}</a>' for t, h in items)
     cr = ''
     if crumbs:
         cr = '<div class="crumbs">' + '<span>›</span>'.join(f'<a href="{L(h)}">{e(t)}</a>' if h else e(t) for t, h in crumbs) + '</div>'
+    head = (f'<span class="kicker">Student Teaching Portfolio</span><a class="brand" href="{L("index.html")}">Grace Dittman</a>'
+            f'<p class="tagline">Special Education · Grades 9–12</p>') if home else f'<a class="brand" href="{L("index.html")}">Grace Dittman</a>'
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>{e(title)} · Grace Dittman Portfolio</title><link rel="stylesheet" href="{L('style.css')}"></head>
-<body><div class="wrap"><header><a class="brand" href="{L('index.html')}">Grace Dittman<small>Student Teaching Portfolio</small></a><nav class="top">{nav}</nav></header>
-<main>{cr}{body}</main></div></body></html>"""
+<title>{e(title)} · Grace Dittman Portfolio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Antic+Didone&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{L('style.css')}"></head>
+<body class="{'home' if home else ''}"><div class="wrap"><header>{head}<div class="rule"></div><nav class="top" aria-label="Sections">{nav}</nav></header>
+<main>{cr}{body}</main><footer>Grace Dittman · Student Teaching Portfolio</footer></div></body></html>"""
 
 def pn_html(frm, prev, nxt, what):
     if not prev and not nxt: return ''
@@ -169,7 +196,8 @@ def _pages():
         folders['/'.join(parts[:-1])]['files'].append(r)
         for i in range(1, len(parts) - 1):
             folders['/'.join(parts[:i])]['subs'].add('/'.join(parts[:i + 1]))
-    for s in SECTIONS: folders.setdefault(s, {'files': [], 'subs': set()})
+    for s in SECTIONS:
+        if s not in RESUME_NAMES: folders.setdefault(s, {'files': [], 'subs': set()})
     def count_under(f): return sum(1 for r in on if r['path'].startswith(f + '/'))
 
     def tile(frm, r):
@@ -192,6 +220,7 @@ def _pages():
         path = slug_dir(f) + '/index.html'; sec = f.split('/')[0]
         body = f'<h1>{e(f.split("/")[-1])}</h1>'
         if '/' not in f: body += f'<p class="sub">{e(BLURB.get(f, ""))}</p>'
+        if f == PICTURES and not info['files'] and not info['subs']: body += '<div class="note">Photos are coming soon.</div>'
         subs = sorted(info['subs'], key=natkey)
         if sec == 'Student Teaching Journal' and not info['files']:
             body += '<div class="note">The journal is held back for now because it describes a specific student. It will be added after review.</div>'
@@ -315,12 +344,29 @@ def _pages():
         write(page, layout(page, title, body, active=canon.split('/')[0], crumbs=crumbs_for(folder, title)))
 
     # ---------- home, résumé, search ----------
-    rows = ''.join(f'<li><a href="{slug(s)}/index.html"><span>📁 <b>{e(s)}</b><br><span class="count">{e(BLURB[s])}</span></span><span class="count">{count_under(s)} file{"s" if count_under(s)!=1 else ""}</span></a></li>' for s in SECTIONS)
-    rows += '<li><a href="resume.html"><span>📄 <b>Résumé</b><br><span class="count">Coming soon</span></span><span class="count"></span></a></li>'
-    home = f"""<h1>Student Teaching Portfolio</h1>
-    <div class="home-sections"><ul class="list">{rows}</ul></div>"""
-    write('index.html', layout('index.html', 'Home', home))
-    write('resume.html', layout('resume.html', 'Résumé', '<h1>Résumé</h1><div class="note">Grace\'s résumé will go here.</div>', active='Résumé', crumbs=[('Home', 'index.html'), ('Résumé', None)]))
+    def block(href, kind, name, desc, count):
+        return f'<a class="block" href="{e(href)}"><span class="k">{e(kind)}</span><span class="n">{e(name)}</span><span class="d">{e(desc)}</span><span class="c">{e(count)}</span></a>'
+    def nfiles(n, word='file'): return f'{n} {word}{"s" if n != 1 else ""}'
+    blocks = ''
+    for s in main_sections():
+        n = count_under(s); kind = 'Collection' if s == 'Lesson Plans' else 'Class'
+        blocks += block(slug(s) + '/index.html', kind, s, BLURB.get(s, ''), nfiles(n, 'lesson plan' if s == 'Lesson Plans' else 'file'))
+    res_files = sorted([r for r in on if r['section'] in RESUME_NAMES and not r['duplicate']], key=lambda r: natkey(r['name']))
+    blocks += block('resume.html', 'About', 'Résumé', BLURB.get('Résumé', 'Education, certification and experience'), 'View or download' if res_files else 'Coming soon')
+    npic = count_under(PICTURES)
+    blocks += block(slug(PICTURES) + '/index.html', 'Gallery', PICTURES, BLURB.get(PICTURES, 'The classroom and student work'), nfiles(npic, 'photo') if npic else 'Coming soon')
+    write('index.html', layout('index.html', 'Home', f'<div class="blocks">{blocks}</div>', home=True))
+    if res_files:
+        r = res_files[0]; a = ASSETS.get(r['canonical'], {}); f_ = a.get('file')
+        body = '<h1>Résumé</h1>'
+        if f_:
+            body += f'<div class="btns"><a class="btn" href="{e(f_)}" download>Download</a><a class="btn" href="{e(f_)}">Open full screen</a></div>'
+            body += (f'<img class="imgview" src="{e(f_)}" alt="Résumé">' if a.get('type') == 'image' else f'<iframe class="viewer" src="{e(f_)}#view=FitH" title="Résumé"></iframe>')
+        if len(res_files) > 1:
+            body += '<h2>Also</h2><div class="grid">' + ''.join(tile('resume.html', x) for x in res_files[1:]) + '</div>'
+    else:
+        body = '<h1>Résumé</h1><div class="note">Grace\'s résumé is coming soon.</div>'
+    write('resume.html', layout('resume.html', 'Résumé', body, active='Résumé', crumbs=[('Home', 'index.html'), ('Résumé', None)]))
     idx = [{'t': display_title(r), 'n': r['name'], 'f': '/'.join(r['canonical'].split('/')[:-1]), 'u': FILE_PAGE[r['canonical']],
             'k': 'Lesson plan' if r['kind'] == 'lesson' else 'Slides' if r['kind'] == 'slides' else 'File'} for r in on if not r['duplicate']]
     search = f"""<h1>Search</h1><p class="sub">Find any lesson plan, worksheet or file by name, topic or folder.</p>
