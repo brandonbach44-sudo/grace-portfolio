@@ -284,24 +284,6 @@
   "thumb": "thumbs/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/countingcard5.jpg",
   "type": "image"
  },
- "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/StuffTheTurkey.jpeg": {
-  "bytes": 4477990,
-  "file": "files/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/stufftheturkey.jpg",
-  "hash": "8db251956cbea7e7f5257691f0b82706",
-  "orig_ext": ".jpeg",
-  "pages": 1,
-  "thumb": "thumbs/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/stufftheturkey.jpg",
-  "type": "image"
- },
- "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/StuffTheTurkey1.jpeg": {
-  "bytes": 4166410,
-  "file": "files/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/stufftheturkey1.jpg",
-  "hash": "da361845313c377ac451656e2fbc03cf",
-  "orig_ext": ".jpeg",
-  "pages": 1,
-  "thumb": "thumbs/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/stufftheturkey1.jpg",
-  "type": "image"
- },
  "Block 2 Math/Week 12/Activities/November Literacy Groups/Stuff the Turkey/Turkey Template.png": {
   "bytes": 168193,
   "cleaned": false,
@@ -2848,5 +2830,68 @@
   "pages": 4,
   "thumb": "thumbs/lesson-plans/b4-ess/essthursdaylessonplan.jpg",
   "type": "pdf"
+ },
+ "Photos/CombiningLikeTermsShapes.jpeg": {
+  "bytes": 3783139,
+  "file": "files/photos/combiningliketermsshapes.jpg",
+  "hash": "468bf73006d6e87c59922964eb29514d",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/photos/combiningliketermsshapes.jpg",
+  "type": "image"
+ },
+ "Photos/CombiningLikeTermsUNO.jpeg": {
+  "bytes": 4327553,
+  "file": "files/photos/combiningliketermsuno.jpg",
+  "hash": "b9817a935b78c7fd8e25c566f9f76b3d",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/photos/combiningliketermsuno.jpg",
+  "type": "image"
+ },
+ "Photos/PumpkinDrawing.jpeg": {
+  "bytes": 5763228,
+  "file": "files/photos/pumpkindrawing.jpg",
+  "hash": "1cdbedbedf440796392b30a5083fd9c9",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/photos/pumpkindrawing.jpg",
+  "type": "image"
+ },
+ "Photos/RamsPack.jpg": {
+  "bytes": 515519,
+  "file": "files/photos/ramspack.jpg",
+  "hash": "bebc277fafb4777a5924a4403b9a662e",
+  "orig_ext": ".jpg",
+  "pages": 1,
+  "thumb": "thumbs/photos/ramspack.jpg",
+  "type": "image"
+ },
+ "Photos/StuffTheTurkey.jpeg": {
+  "bytes": 4477990,
+  "file": "files/photos/stufftheturkey.jpg",
+  "hash": "8db251956cbea7e7f5257691f0b82706",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/photos/stufftheturkey.jpg",
+  "type": "image"
+ },
+ "Photos/StuffTheTurkey1.jpeg": {
+  "bytes": 4166410,
+  "file": "files/photos/stufftheturkey1.jpg",
+  "hash": "da361845313c377ac451656e2fbc03cf",
+  "orig_ext": ".jpeg",
+  "pages": 1,
+  "thumb": "thumbs/photos/stufftheturkey1.jpg",
+  "type": "image"
+ },
+ "Resume/DittmanResume.png": {
+  "bytes": 404538,
+  "file": "files/resume/dittmanresume.png",
+  "hash": "71ead517221e292a2b63259d514551cc",
+  "orig_ext": ".png",
+  "pages": 1,
+  "thumb": "thumbs/resume/dittmanresume.jpg",
+  "type": "image"
  }
 }
