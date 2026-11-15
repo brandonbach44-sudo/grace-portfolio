@@ -294,6 +294,15 @@
   "thumb": "thumbs/block-2-math/week-12/activities/november-literacy-groups/stuff-the-turkey/turkey-template.jpg",
   "type": "image"
  },
+ "Block 2 Math/Week 13/Activities/Pass the Pumpkin.pdf": {
+  "bytes": 56581,
+  "file": "files/block-2-math/week-13/activities/pass-the-pumpkin.pdf",
+  "hash": "e1765a70b0b70ae4b2282c30afb9cacc",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/block-2-math/week-13/activities/pass-the-pumpkin.jpg",
+  "type": "pdf"
+ },
  "Block 2 Math/Week 15/Holiday Cards/Green Red Traditional Festive Chrismas Greeting Holiday Card.pdf": {
   "bytes": 2435739,
   "cleaned": false,
@@ -680,6 +689,51 @@
   "thumb": "thumbs/block-3-math/week-11/slides/b3-week-11-slides.jpg",
   "type": "pdf"
  },
+ "Block 3 Math/Week 12/Activities/GRAPHINGLINEAREQUATIONSinSlopeInterceptFormRIDDLE-1.pdf": {
+  "bytes": 1304100,
+  "file": "files/block-3-math/week-12/activities/graphinglinearequationsinslopeinterceptformriddle-1.pdf",
+  "hash": "281830f64927a8a29a1e385f54d01551",
+  "orig_ext": ".pdf",
+  "pages": 4,
+  "thumb": "thumbs/block-3-math/week-12/activities/graphinglinearequationsinslopeinterceptformriddle-1.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 12/Activities/Slope Flash Cards/SlopeFlashcards (1).jpg": {
+  "bytes": 193070,
+  "file": "files/block-3-math/week-12/activities/slope-flash-cards/slopeflashcards-1.jpg",
+  "hash": "8319ceba995d6b545801aa0689f84fac",
+  "orig_ext": ".jpg",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-12/activities/slope-flash-cards/slopeflashcards-1.jpg",
+  "type": "image"
+ },
+ "Block 3 Math/Week 12/Activities/Slope Flash Cards/SlopeFlashcards (2).jpg": {
+  "bytes": 189956,
+  "file": "files/block-3-math/week-12/activities/slope-flash-cards/slopeflashcards-2.jpg",
+  "hash": "7bcad5172e5557249023aa6bafa977ae",
+  "orig_ext": ".jpg",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-12/activities/slope-flash-cards/slopeflashcards-2.jpg",
+  "type": "image"
+ },
+ "Block 3 Math/Week 12/Activities/Slope Flash Cards/SlopeFlashcards.jpg": {
+  "bytes": 192537,
+  "file": "files/block-3-math/week-12/activities/slope-flash-cards/slopeflashcards.jpg",
+  "hash": "1c7d022cb33d5a6c15ad1dc9929ae197",
+  "orig_ext": ".jpg",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-12/activities/slope-flash-cards/slopeflashcards.jpg",
+  "type": "image"
+ },
+ "Block 3 Math/Week 12/Activities/Slope Flash Cards/graph paper.jpg": {
+  "bytes": 52755,
+  "file": "files/block-3-math/week-12/activities/slope-flash-cards/graph-paper.jpg",
+  "hash": "ba94533e23301754b6896d1c21597d66",
+  "orig_ext": ".jpg",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-12/activities/slope-flash-cards/graph-paper.jpg",
+  "type": "image"
+ },
  "Block 3 Math/Week 12/Activities/SlopeFormulaIntroductionPracticeandGame-1.pptx": {
   "bytes": 537773,
   "file": "files/block-3-math/week-12/activities/slopeformulaintroductionpracticeandgame-1.pdf",
@@ -687,6 +741,33 @@
   "orig_ext": ".pptx",
   "pages": 14,
   "thumb": "thumbs/block-3-math/week-12/activities/slopeformulaintroductionpracticeandgame-1.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 12/Activities/SlopeRiddle.pdf": {
+  "bytes": 648517,
+  "file": "files/block-3-math/week-12/activities/sloperiddle.pdf",
+  "hash": "a4808dc12689c81b350f2a2669a676b1",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/block-3-math/week-12/activities/sloperiddle.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 12/Notes/SlopeInterceptKey.pdf": {
+  "bytes": 208635,
+  "file": "files/block-3-math/week-12/notes/slopeinterceptkey.pdf",
+  "hash": "c63cccf96c6df98e560e3deeaf326f53",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-12/notes/slopeinterceptkey.jpg",
+  "type": "pdf"
+ },
+ "Block 3 Math/Week 12/Notes/SlopeInterceptNotes.pdf": {
+  "bytes": 839942,
+  "file": "files/block-3-math/week-12/notes/slopeinterceptnotes.pdf",
+  "hash": "dca5d972807ed389bfae6767255ae036",
+  "orig_ext": ".pdf",
+  "pages": 2,
+  "thumb": "thumbs/block-3-math/week-12/notes/slopeinterceptnotes.jpg",
   "type": "pdf"
  },
  "Block 3 Math/Week 13/Activities/Math Jenga.docx": {
@@ -2298,6 +2379,15 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-12lessonplan.jpg",
   "type": "pdf"
  },
+ "Lesson Plans/B2 Life Skills Math/B2_11-16LessonPlan.docx": {
+  "bytes": 99028,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-16lessonplan.pdf",
+  "hash": "txt:c6d67579ef285a35b8e42fe6389c067d",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-16lessonplan.jpg",
+  "type": "pdf"
+ },
  "Lesson Plans/B2 Life Skills Math/B2_11-18LessonPlan.docx": {
   "bytes": 103566,
   "file": "files/lesson-plans/b2-life-skills-math/b2-11-18lessonplan.pdf",
@@ -2305,6 +2395,15 @@
   "orig_ext": ".docx",
   "pages": 5,
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-18lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2_11-19LessonPlan.docx": {
+  "bytes": 97459,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-19lessonplan.pdf",
+  "hash": "txt:db88eeea3c93fa2ad4b9a23a176c0521",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-19lessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B2 Life Skills Math/B2_11-2LessonPlan.docx": {
@@ -2558,6 +2657,24 @@
   "orig_ext": ".docx",
   "pages": 4,
   "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-11-13-16lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3_11-17_18LessonPlan.docx": {
+  "bytes": 97712,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-11-17-18lessonplan.pdf",
+  "hash": "txt:6db07d73d3c30774dcbad55a5a86b71c",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-11-17-18lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B3 Learning Support Math/B3_11-19_20LessonPlan.docx": {
+  "bytes": 99443,
+  "file": "files/lesson-plans/b3-learning-support-math/b3-11-19-20lessonplan.pdf",
+  "hash": "txt:238a82e611084ee90ee38c93e34cf956",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/lesson-plans/b3-learning-support-math/b3-11-19-20lessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B3 Learning Support Math/B3_11-5_6LessonPlan.docx": {
@@ -2885,13 +3002,13 @@
   "thumb": "thumbs/photos/stufftheturkey1.jpg",
   "type": "image"
  },
- "Resume/DittmanResume.png": {
-  "bytes": 404538,
-  "file": "files/resume/dittmanresume.png",
-  "hash": "71ead517221e292a2b63259d514551cc",
-  "orig_ext": ".png",
+ "Resume/DittmanResume2026.pdf": {
+  "bytes": 45316,
+  "file": "files/resume/dittmanresume2026.pdf",
+  "hash": "8f03002e3ff71a7d91ba9d4267016940",
+  "orig_ext": ".pdf",
   "pages": 1,
-  "thumb": "thumbs/resume/dittmanresume.jpg",
-  "type": "image"
+  "thumb": "thumbs/resume/dittmanresume2026.jpg",
+  "type": "pdf"
  }
 }
