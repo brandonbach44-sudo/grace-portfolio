@@ -139,7 +139,7 @@ def main_sections(): return [s for s in SECTIONS if s not in RESUME_NAMES and s 
 
 def layout(path, title, body, active=None, crumbs=None, home=False):
     def L(to): return e(rel_to(path, to))
-    items = [(s, slug(s) + '/index.html') for s in main_sections()] + [('Résumé', 'resume.html'), (PICTURES, slug(PICTURES) + '/index.html'), ('Search', 'search.html')]
+    items = [(s, slug(s) + '/index.html') for s in main_sections()] + [('Resume', 'resume.html'), (PICTURES, slug(PICTURES) + '/index.html'), ('Search', 'search.html')]
     nav = ''.join(f'<a href="{L(h)}"{" class=\"on\" aria-current=\"page\"" if active == t else ""}>{e(t)}</a>' for t, h in items)
     cr = ''
     if crumbs:
@@ -343,7 +343,7 @@ def _pages():
             body = body.replace('</p>', '</p>' + pn, 1) + pn
         write(page, layout(page, title, body, active=canon.split('/')[0], crumbs=crumbs_for(folder, title)))
 
-    # ---------- home, résumé, search ----------
+    # ---------- home, resume, search ----------
     def block(href, kind, name, desc, count):
         return f'<a class="block" href="{e(href)}"><span class="k">{e(kind)}</span><span class="n">{e(name)}</span><span class="d">{e(desc)}</span><span class="c">{e(count)}</span></a>'
     def nfiles(n, word='file'): return f'{n} {word}{"s" if n != 1 else ""}'
@@ -352,21 +352,21 @@ def _pages():
         n = count_under(s); kind = 'Collection' if s == 'Lesson Plans' else 'Class'
         blocks += block(slug(s) + '/index.html', kind, s, BLURB.get(s, ''), nfiles(n, 'lesson plan' if s == 'Lesson Plans' else 'file'))
     res_files = sorted([r for r in on if r['section'] in RESUME_NAMES and not r['duplicate']], key=lambda r: natkey(r['name']))
-    blocks += block('resume.html', 'About', 'Résumé', BLURB.get('Résumé', 'Education, certification and experience'), 'View or download' if res_files else 'Coming soon')
+    blocks += block('resume.html', 'About', 'Resume', BLURB.get('Resume', 'Education, certification and experience'), 'View or download' if res_files else 'Coming soon')
     npic = count_under(PICTURES)
     blocks += block(slug(PICTURES) + '/index.html', 'Gallery', PICTURES, BLURB.get(PICTURES, 'The classroom and student work'), nfiles(npic, 'photo') if npic else 'Coming soon')
     write('index.html', layout('index.html', 'Home', f'<div class="blocks">{blocks}</div>', home=True))
     if res_files:
         r = res_files[0]; a = ASSETS.get(r['canonical'], {}); f_ = a.get('file')
-        body = '<h1>Résumé</h1>'
+        body = '<h1>Resume</h1>'
         if f_:
             body += f'<div class="btns"><a class="btn" href="{e(f_)}" download>Download</a><a class="btn" href="{e(f_)}">Open full screen</a></div>'
-            body += (f'<img class="imgview" src="{e(f_)}" alt="Résumé">' if a.get('type') == 'image' else f'<iframe class="viewer" src="{e(f_)}#view=FitH" title="Résumé"></iframe>')
+            body += (f'<img class="imgview" src="{e(f_)}" alt="Resume">' if a.get('type') == 'image' else f'<iframe class="viewer" src="{e(f_)}#view=FitH" title="Resume"></iframe>')
         if len(res_files) > 1:
             body += '<h2>Also</h2><div class="grid">' + ''.join(tile('resume.html', x) for x in res_files[1:]) + '</div>'
     else:
-        body = '<h1>Résumé</h1><div class="note">Grace\'s résumé is coming soon.</div>'
-    write('resume.html', layout('resume.html', 'Résumé', body, active='Résumé', crumbs=[('Home', 'index.html'), ('Résumé', None)]))
+        body = '<h1>Resume</h1><div class="note">Grace\'s resume is coming soon.</div>'
+    write('resume.html', layout('resume.html', 'Resume', body, active='Resume', crumbs=[('Home', 'index.html'), ('Resume', None)]))
     idx = [{'t': display_title(r), 'n': r['name'], 'f': '/'.join(r['canonical'].split('/')[:-1]), 'u': FILE_PAGE[r['canonical']],
             'k': 'Lesson plan' if r['kind'] == 'lesson' else 'Slides' if r['kind'] == 'slides' else 'File'} for r in on if not r['duplicate']]
     search = f"""<h1>Search</h1><p class="sub">Find any lesson plan, worksheet or file by name, topic or folder.</p>
