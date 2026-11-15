@@ -371,6 +371,24 @@
   "thumb": "thumbs/block-2-math/week-5/lesson-plans/10-1-bankabilitydaylessonplan.jpg",
   "type": "pdf"
  },
+ "Block 2 Math/Week 5/Lesson Plans/B2_9-29LessonPlan.docx": {
+  "bytes": 80242,
+  "file": "files/block-2-math/week-5/lesson-plans/b2-9-29lessonplan.pdf",
+  "hash": "txt:ecf89deb289fa608e0e076c1bdf8a686",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-2-math/week-5/lesson-plans/b2-9-29lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Block 2 Math/Week 6/Lesson Plans/B2_10-8LessonPlan.docx": {
+  "bytes": 78738,
+  "file": "files/block-2-math/week-6/lesson-plans/b2-10-8lessonplan.pdf",
+  "hash": "txt:ccb56b26ed435f92d4309083e02b0500",
+  "orig_ext": ".docx",
+  "pages": 5,
+  "thumb": "thumbs/block-2-math/week-6/lesson-plans/b2-10-8lessonplan.jpg",
+  "type": "pdf"
+ },
  "Block 2 Math/Week 6/Slides/B2 Week 6 Slides.docx": {
   "bytes": 11514,
   "file": "files/block-2-math/week-6/slides/b2-week-6-slides.pdf",
@@ -388,6 +406,15 @@
   "orig_ext": ".pdf",
   "pages": 1,
   "thumb": "thumbs/block-2-math/week-7/activities/10-13warmup.jpg",
+  "type": "pdf"
+ },
+ "Block 2 Math/Week 7/Lesson Plan/B2_10-15LessonPlan.docx": {
+  "bytes": 79006,
+  "file": "files/block-2-math/week-7/lesson-plan/b2-10-15lessonplan.pdf",
+  "hash": "txt:5ecabbc027f11b16b722cebf6348a79e",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/block-2-math/week-7/lesson-plan/b2-10-15lessonplan.jpg",
   "type": "pdf"
  },
  "Block 2 Math/Week 7/Slides/B2 Week 7 Slides.docx": {
@@ -1367,6 +1394,15 @@
   "thumb": "thumbs/block-3-math/week-6/lesson-plan/b3-10-7-8lessonplan.jpg",
   "type": "pdf"
  },
+ "Block 3 Math/Week 6/Lesson Plan/B3_10-9_13LessonPlan.docx": {
+  "bytes": 79216,
+  "file": "files/block-3-math/week-6/lesson-plan/b3-10-9-13lessonplan.pdf",
+  "hash": "txt:4fa3938c4f20287c3e969753dd5ba234",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/block-3-math/week-6/lesson-plan/b3-10-9-13lessonplan.jpg",
+  "type": "pdf"
+ },
  "Block 3 Math/Week 6/Notes/CombiningLikeTermsKey.pdf": {
   "bytes": 162213,
   "cleaned": false,
@@ -1916,6 +1952,15 @@
   "thumb": "thumbs/ess/weeks-10-11/slides/b4-week-10-11-slides.jpg",
   "type": "pdf"
  },
+ "ESS/weeks 12+13/Activities/21 Questions Cards.docx": {
+  "bytes": 14117,
+  "file": "files/ess/weeks-12-13/activities/21-questions-cards.pdf",
+  "hash": "txt:e51c6934b274be5d0703c69cb2f974ff",
+  "orig_ext": ".docx",
+  "pages": 3,
+  "thumb": "thumbs/ess/weeks-12-13/activities/21-questions-cards.jpg",
+  "type": "pdf"
+ },
  "ESS/weeks 12+13/Activities/InsideOutColoring.webp": {
   "bytes": 134091,
   "file": "files/ess/weeks-12-13/activities/insideoutcoloring.png",
@@ -1988,10 +2033,37 @@
   "thumb": "thumbs/ess/weeks-12-13/activities/insideoutcoloring7.jpg",
   "type": "image"
  },
+ "ESS/weeks 12+13/Lesson Plans/ESS11-17LessonPlan.docx": {
+  "bytes": 58037,
+  "file": "files/ess/weeks-12-13/lesson-plans/ess11-17lessonplan.pdf",
+  "hash": "txt:b644190a6ffc4a86d87ef3a76d56f056",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/ess/weeks-12-13/lesson-plans/ess11-17lessonplan.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 12+13/Slides/ESSTh_FriSlides11_19-11_20.pdf": {
+  "bytes": 75795,
+  "file": "files/ess/weeks-12-13/slides/essth-frislides11-19-11-20.pdf",
+  "hash": "fe20a58fcd1d9bd01c4f2afe9ab1f610",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/slides/essth-frislides11-19-11-20.jpg",
+  "type": "pdf"
+ },
+ "ESS/weeks 12+13/Slides/ESSWeek13Slides.pdf": {
+  "bytes": 75786,
+  "file": "files/ess/weeks-12-13/slides/essweek13slides.pdf",
+  "hash": "816b32e51f70a13002aa72e4e00b8a26",
+  "orig_ext": ".pdf",
+  "pages": 1,
+  "thumb": "thumbs/ess/weeks-12-13/slides/essweek13slides.jpg",
+  "type": "pdf"
+ },
  "ESS/weeks 12+13/Slides/Week 12 Slides.docx": {
-  "bytes": 14018,
+  "bytes": 14459,
   "file": "files/ess/weeks-12-13/slides/week-12-slides.pdf",
-  "hash": "txt:dc28f384f6a48d9d9bc9db13504bcae4",
+  "hash": "txt:73cedbc89a253ac608898c8a8406460c",
   "orig_ext": ".docx",
   "pages": 1,
   "thumb": "thumbs/ess/weeks-12-13/slides/week-12-slides.jpg",
@@ -2123,12 +2195,11 @@
   "type": "pdf"
  },
  "ESS/weeks 6+7/Lesson Plans/ESS10-7&10-14LessonPlan.docx": {
-  "bytes": 76922,
-  "cleaned": false,
+  "bytes": 74991,
   "file": "files/ess/weeks-6-7/lesson-plans/ess10-7and10-14lessonplan.pdf",
-  "hash": "txt:d71682ec1c280f6984ff201cbb20a664",
+  "hash": "txt:87fcc151bffa739b4dd393c7f9973a30",
   "orig_ext": ".docx",
-  "pages": 5,
+  "pages": 4,
   "thumb": "thumbs/ess/weeks-6-7/lesson-plans/ess10-7and10-14lessonplan.jpg",
   "type": "pdf"
  },
@@ -2795,6 +2866,33 @@
   "orig_ext": ".docx",
   "pages": 4,
   "thumb": "thumbs/lesson-plans/b4-ess/ess10-7and10-14lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B4 ESS/ESS11-16LessonPlan.docx": {
+  "bytes": 34064,
+  "file": "files/lesson-plans/b4-ess/ess11-16lessonplan.pdf",
+  "hash": "txt:470df6b45ef7ed432435c7bd9087e873",
+  "orig_ext": ".docx",
+  "pages": 2,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess11-16lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B4 ESS/ESS11-17LessonPlan.docx": {
+  "bytes": 58038,
+  "file": "files/lesson-plans/b4-ess/ess11-17lessonplan.pdf",
+  "hash": "txt:2a30c65cb7c48166bcbbde690561b741",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess11-17lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B4 ESS/ESS11-18LessonPlan.docx": {
+  "bytes": 30537,
+  "file": "files/lesson-plans/b4-ess/ess11-18lessonplan.pdf",
+  "hash": "txt:f072fdcaf31b0df560cdbf5815b304a2",
+  "orig_ext": ".docx",
+  "pages": 2,
+  "thumb": "thumbs/lesson-plans/b4-ess/ess11-18lessonplan.jpg",
   "type": "pdf"
  },
  "Lesson Plans/B4 ESS/ESS11-2&11-9Solving a Problem.docx": {

@@ -272,8 +272,8 @@
   "key": "2cf378f6441518d86ccc61a92b7c8f02"
  },
  "Block 2 Math/Week 5/Lesson Plans/B2_9-29LessonPlan.docx": {
-  "hash": "txt:7bcad793a65f1896a9c8952628ef6364",
-  "key": "22a9b8a9d6f937c87c814d31c9ff15d8"
+  "hash": "txt:ecf89deb289fa608e0e076c1bdf8a686",
+  "key": "f181fecd3e4a765879af30eb7c7f7052"
  },
  "Block 2 Math/Week 6/Lesson Plans/B2_10-5LessonPlan.docx": {
   "hash": "txt:cba3f37e5f4120781aee878af7b4efd5",
@@ -288,8 +288,8 @@
   "key": "73d79556464ff613643991b4f3e404a2"
  },
  "Block 2 Math/Week 6/Lesson Plans/B2_10-8LessonPlan.docx": {
-  "hash": "txt:b5d0c7acdcc8ec4f052cc2dba314ce3f",
-  "key": "1dc61fe47e802ecd096b551305efc999"
+  "hash": "txt:ccb56b26ed435f92d4309083e02b0500",
+  "key": "0893c6e6580d88dee1e46c32cfd92e0b"
  },
  "Block 2 Math/Week 6/Lesson Plans/BankabilityDayLessonPlan.pdf": {
   "hash": "bafd8747845474bc909f27e4c444ecb8",
@@ -312,8 +312,8 @@
   "key": "246664b2365f7160946ca225c72ad2a9"
  },
  "Block 2 Math/Week 7/Lesson Plan/B2_10-15LessonPlan.docx": {
-  "hash": "txt:707bcee64e034ac077fdf9027c789069",
-  "key": "573720c6986ce7f79757583e1d2912bd"
+  "hash": "txt:5ecabbc027f11b16b722cebf6348a79e",
+  "key": "ce9833229562fc36b03114340f1f1796"
  },
  "Block 2 Math/Week 7/Lesson Plan/BankabilityDayLessonPlan.pdf": {
   "hash": "bafd8747845474bc909f27e4c444ecb8",
@@ -872,8 +872,8 @@
   "key": "438c086fe56a05f676dcdf7242dcf649"
  },
  "Block 3 Math/Week 6/Lesson Plan/B3_10-9_13LessonPlan.docx": {
-  "hash": "txt:cc4d0c62e3eb8ebbee39efccc1460c52",
-  "key": "63fd4b88aac70450607976c419d00c42"
+  "hash": "txt:4fa3938c4f20287c3e969753dd5ba234",
+  "key": "bbc6cf784bbd2725ce25a95cf6d3846a"
  },
  "Block 3 Math/Week 6/Notes/CombiningLikeTermsKey.pdf": {
   "hash": "4abb8c64db2b5c53b2e297818551a507",
@@ -1191,6 +1191,10 @@
   "hash": "txt:dc6e1550c88d02fb4eb8a57ef217e981",
   "key": "mod:2026-11-04T12:00:52.822Z"
  },
+ "ESS/weeks 12+13/Activities/21 Questions Cards.docx": {
+  "hash": "txt:e51c6934b274be5d0703c69cb2f974ff",
+  "key": "mod:2026-11-15T16:48:19.231Z"
+ },
  "ESS/weeks 12+13/Activities/InsideOutColoring.webp": {
   "hash": "2b58cf70f423531ccd56af60027e46b8",
   "key": "2b58cf70f423531ccd56af60027e46b8"
@@ -1223,6 +1227,18 @@
   "hash": "5ba3719a9013c53a468bd2fe2ef01a50",
   "key": "5ba3719a9013c53a468bd2fe2ef01a50"
  },
+ "ESS/weeks 12+13/Lesson Plans/ESS11-16LessonPlan.docx": {
+  "hash": "txt:470df6b45ef7ed432435c7bd9087e873",
+  "key": "mod:2026-11-15T19:04:26.401Z"
+ },
+ "ESS/weeks 12+13/Lesson Plans/ESS11-17LessonPlan.docx": {
+  "hash": "txt:b644190a6ffc4a86d87ef3a76d56f056",
+  "key": "mod:2026-11-15T20:10:38.228Z"
+ },
+ "ESS/weeks 12+13/Lesson Plans/ESS11-18LessonPlan.docx": {
+  "hash": "txt:f072fdcaf31b0df560cdbf5815b304a2",
+  "key": "mod:2026-11-15T18:31:39.524Z"
+ },
  "ESS/weeks 12+13/Lesson Plans/ESS11-19_20LessonPlan.docx": {
   "hash": "txt:f6f6e195fbe005346e95c2a493618af8",
   "key": "074df527ae933d2c51860a0b2a0dac56"
@@ -1235,9 +1251,17 @@
   "hash": "txt:85c8ce67f9ecee4aef606613a046f9b6",
   "key": "c30e66ab6627be7c9b4645548b90e9c4"
  },
+ "ESS/weeks 12+13/Slides/ESSTh_FriSlides11_19-11_20.pdf": {
+  "hash": "fe20a58fcd1d9bd01c4f2afe9ab1f610",
+  "key": "fe20a58fcd1d9bd01c4f2afe9ab1f610"
+ },
+ "ESS/weeks 12+13/Slides/ESSWeek13Slides.pdf": {
+  "hash": "816b32e51f70a13002aa72e4e00b8a26",
+  "key": "816b32e51f70a13002aa72e4e00b8a26"
+ },
  "ESS/weeks 12+13/Slides/Week 12 Slides.docx": {
-  "hash": "txt:dc28f384f6a48d9d9bc9db13504bcae4",
-  "key": "mod:2026-11-11T23:49:26.422Z"
+  "hash": "txt:73cedbc89a253ac608898c8a8406460c",
+  "key": "mod:2026-11-15T18:44:15.723Z"
  },
  "ESS/weeks 14+15/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
   "hash": "txt:53b09701d010b537b5c463aab11bdd49",
@@ -1320,8 +1344,8 @@
   "key": "326f2e1ed62b42da77515efeccb681c3"
  },
  "ESS/weeks 6+7/Lesson Plans/ESS10-7&10-14LessonPlan.docx": {
-  "hash": "txt:d71682ec1c280f6984ff201cbb20a664",
-  "key": "d90a48e684531e5779c88d528840a1d1"
+  "hash": "txt:87fcc151bffa739b4dd393c7f9973a30",
+  "key": "283536899396582c52e7a25d3580d185"
  },
  "ESS/weeks 6+7/Lesson Plans/ESSFridayRoutineLessonPlan.docx": {
   "hash": "txt:53b09701d010b537b5c463aab11bdd49",
@@ -1662,6 +1686,18 @@
  "Lesson Plans/B4 ESS/ESS10-7&10-14LessonPlan.docx": {
   "hash": "txt:bdd42098d4112e11806151bfd9d3b4d9",
   "key": "81124742659782667c491897da73c364"
+ },
+ "Lesson Plans/B4 ESS/ESS11-16LessonPlan.docx": {
+  "hash": "txt:470df6b45ef7ed432435c7bd9087e873",
+  "key": "mod:2026-11-15T19:05:12.442Z"
+ },
+ "Lesson Plans/B4 ESS/ESS11-17LessonPlan.docx": {
+  "hash": "txt:2a30c65cb7c48166bcbbde690561b741",
+  "key": "mod:2026-11-15T20:10:27.160Z"
+ },
+ "Lesson Plans/B4 ESS/ESS11-18LessonPlan.docx": {
+  "hash": "txt:f072fdcaf31b0df560cdbf5815b304a2",
+  "key": "mod:2026-11-15T18:32:08.380Z"
  },
  "Lesson Plans/B4 ESS/ESS11-2&11-9Solving a Problem.docx": {
   "hash": "txt:3e95910eb3843e2962ab9e827aae38e1",
