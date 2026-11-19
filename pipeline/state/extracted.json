@@ -227,9 +227,11 @@
  "2e0a7db9acc7de5fcc04661cc31372ae": {
   "canva": []
  },
+ "2f49a0a3522093238f51812f75d91430": {},
  "2fa1b01b9a84492c799a1f25457e4c0d": {
   "canva": []
  },
+ "3357c1c2640abde1df3b140e790a06e0": {},
  "354f053fa84c1e70f7843c33fc4035db": {},
  "355cab4b6b8cb779d0ad58621ae92688": {
   "canva": []
@@ -373,6 +375,7 @@
  "9ce4185351c97d92c3f12ae0620ff412": {
   "canva": []
  },
+ "9d8dfd5fbc7b8a56e69b42088c5b4939": {},
  "9d929866169b8e51fef1cdfc5f2434d9": {},
  "9df106c529465cba69fb231521cb41b4": {},
  "9e5ea8f4346a99c9888efd657a22c4c5": {},
@@ -388,6 +391,7 @@
  "acc567f086efc2d329b03f0868a3160a": {
   "canva": []
  },
+ "ad7fb10bb7251bc69db9d4c2d8095dd2": {},
  "af98f5753e6cb69729a405a37b6cdf97": {},
  "b081df8a2edc893a38d07f7bc141f956": {
   "canva": []
@@ -395,6 +399,7 @@
  "b1ca235c727e02d5cf74a42f97c541ae": {
   "canva": []
  },
+ "b224c4b7854041208fb1a3f81389003d": {},
  "b2668d8344b46763e273dc1fc8a4dc9b": {
   "canva": []
  },
@@ -404,6 +409,9 @@
   "canva": []
  },
  "b5742e1aa902c479b66a602995300e0c": {},
+ "b59bf559fc1d0222952451c43d4fae17": {
+  "canva": []
+ },
  "b5db97c885b91d967d62b1d1e6f9b344": {
   "canva": []
  },
@@ -647,6 +655,7 @@
   "canva": []
  },
  "d48444826faf8868b764c87caa8d2b16": {},
+ "d55caa6c39d134cdbdcc4952a48aa911": {},
  "d7721c7f83930edf2fec7ef6e9aff6a9": {},
  "d966a9a86b9c1b13b7ad1b5460124f57": {},
  "da2583336221759a8ac3d5a969faba84": {
@@ -707,6 +716,7 @@
  "fc6e0bcc3629c348a55d11b422ea47ef": {
   "canva": []
  },
+ "fdb147a52f81157b549ec37c93f6a900": {},
  "fe20a58fcd1d9bd01c4f2afe9ab1f610": {
   "canva": []
  },
@@ -936,6 +946,75 @@
     "https://canva.link/7leyonoxt3sxamh"
    ]
   ]
+ },
+ "txt:0cd9ecc7bc415bcd304a1d8e248ee2a9": {
+  "canva": [],
+  "lesson": {
+   "meta": {
+    "grade": "9-12",
+    "subject": "Life Skills Math"
+   },
+   "sections": {
+    "assessment": [
+     "Formative: The News2you Friendsgiving budgeting challenge work, as outlined in that lesson plan.",
+     "Formative: Observation of whether students read or follow the directions in Pass the Pumpkin, using any communication that works for them."
+    ],
+    "closure": [
+     "At the end of class, students share, in any way that works for them, one thing they learned about the budget challenge or one direction from Pass the Pumpkin.",
+     "Connection to Next Lesson: Students return to our usual routine and keep practicing budgeting and following directions."
+    ],
+    "differentiation": [
+     "Content: The News2you lesson provides its own supports for the budgeting challenge.",
+     "AAC: Students who use an AAC device can read the sentence with it, or ask an adult to help them read.",
+     "Process: The game is active and fun, and every student can take part in some way.",
+     "IEP/504: Accommodations in each student’s IEP/504 plan will be followed."
+    ],
+    "environment": [
+     "Half day Monday: classes are 45 minutes long.",
+     "Both block 2 math classes are combined, so there are no Group 1 and Group 2 today.",
+     "Students work through the budgeting challenge and then play Pass the Pumpkin.",
+     "Students may use an AAC device or ask an adult for help reading."
+    ],
+    "essential_questions": [
+     "How can I plan with a budget?",
+     "What can I do when my plan changes and I need more?",
+     "How can I read and follow directions in a game?"
+    ],
+    "materials": [
+     "News2you Friendsgiving budgeting challenge materials (see the separate News2you lesson plan), pumpkin, Pass the Pumpkin sheet with directions, students’ AAC devices"
+    ],
+    "objectives": [
+     "Students will be able to:",
+     "Work with a budget to plan food for a Friendsgiving, and adjust the plan when three extra guests come.",
+     "Read a sentence from a sheet, using their AAC device or an adult if needed, and follow directions in Pass the Pumpkin."
+    ],
+    "prior_knowledge": [
+     "The Friendsgiving budgeting challenge gives students a real situation to practice planning with a budget and adjusting when something changes. Pass the Pumpkin is a fun holiday game that gives students a chance to read, listen, and follow directions together."
+    ],
+    "sequence": [
+     "Combined Class — 45 minutes (half day)",
+     "Both block 2 math classes are together.",
+     "Friendsgiving Budgeting Challenge",
+     "Students are given a budget, and the Friendsgiving is all planned.",
+     "Three extra guests come, and students need to buy more food.",
+     "This lesson is from News2you, and the details are in a separate lesson plan.",
+     "Pass the Pumpkin",
+     "One student starts with a pumpkin and has a sheet with directions on it, such as “Pass the pumpkin to someone wearing red.”",
+     "The student reads the direction and gives the pumpkin to a student wearing red.",
+     "The next student reads a sentence and passes the pumpkin.",
+     "If a student uses an AAC device, they can use it to read, or ask an adult to help them read."
+    ],
+    "standards": [
+     "Functional money skills: Plan a budget and adjust it when something changes (extra guests need more food).",
+     "Communication: Read and follow directions, and communicate using an AAC device or with adult help.",
+     "IEP goals: Students follow their individual IEP goals."
+    ],
+    "vocabulary": [
+     "Budget; plan; guest; food; cost; pass; read"
+    ]
+   },
+   "text": "Gwynedd Mercy University-School of Business & Education\n(Must be used for each lesson observed by University Supervisor)\nLesson Plan Framework\n\nSubject Area:   Life Skills Math\t\tGrade Level: 9-12\n\nStudent Name: Grace Dittman\n\n\nDomain I:  Planning and Preparation\nPA Standard(s):\nFunctional money skills: Plan a budget and adjust it when something changes (extra guests need more food).\nCommunication: Read and follow directions, and communicate using an AAC device or with adult help.\nIEP goals: Students follow their individual IEP goals.\n\nEssential Question(s):\nStudents will consider and reflect on throughout the lesson:\nHow can I plan with a budget?\nWhat can I do when my plan changes and I need more?\nHow can I read and follow directions in a game?\nObjectives/Performance Expectations\nWhat will students know and be able to do as a result of this lesson?\nStudents will be able to:\nWork with a budget to plan food for a Friendsgiving, and adjust the plan when three extra guests come.\nRead a sentence from a sheet, using their AAC device or an adult if needed, and follow directions in Pass the Pumpkin.\n\nAssessment Evidence/Level of Learning\nStudents will show what they know by evidence of/list names of formative or summative checks, quizzes, tests which indicate evidence of learning:\nFormative: The News2you Friendsgiving budgeting challenge work, as outlined in that lesson plan.\nFormative: Observation of whether students read or follow the directions in Pass the Pumpkin, using any communication that works for them.\nDifferentiated Instruction:  Modifications in instruction and assessment for students with learning differences, specifically those with 504’s and IEP’s. Extensions/Enrichment in instruction and assessment for students who are above grade level and/or gifted. \nContent: The News2you lesson provides its own supports for the budgeting challenge.\nAAC: Students who use an AAC device can read the sentence with it, or ask an adult to help them read.\nProcess: The game is active and fun, and every student can take part in some way.\nIEP/504: Accommodations in each student’s IEP/504 plan will be followed.\nDomain II: Classroom Environment: \nDescribe Classroom/Behavior Management Plan & Routines\nHalf day Monday: classes are 45 minutes long.\nBoth block 2 math classes are combined, so there are no Group 1 and Group 2 today.\nStudents work through the budgeting challenge and then play Pass the Pumpkin.\nStudents may use an AAC device or ask an adult for help reading.\n\nDomain III:  Instruction\nActivate Prior Knowledge/Motivation:\nPreparing students for the lesson: How will you activate prior knowledge, build background, or review previous lessons as well as motivate students for the lesson?  \n \nThe Friendsgiving budgeting challenge gives students a real situation to practice planning with a budget and adjusting when something changes. Pass the Pumpkin is a fun holiday game that gives students a chance to read, listen, and follow directions together.\n\n\nMaterials Needed:\t\n\nNews2you Friendsgiving budgeting challenge materials (see the separate News2you lesson plan), pumpkin, Pass the Pumpkin sheet with directions, students’ AAC devices\n\n\nVocabulary (New or Review):\n\nBudget; plan; guest; food; cost; pass; read\n\n\nSequence of the Lesson:  \nWhat learning activities/strategies will you use to engage the students in the learning? What will students do to use and apply new concepts or skills (independent practice if relevant)?  How will you monitor and guide their performance? Include relevant vocabulary. Use bullets to sequence your lesson. \n\n\nCombined Class — 45 minutes (half day)\nBoth block 2 math classes are together.\nFriendsgiving Budgeting Challenge\nStudents are given a budget, and the Friendsgiving is all planned.\nThree extra guests come, and students need to buy more food.\nThis lesson is from News2you, and the details are in a separate lesson plan.\nPass the Pumpkin\nOne student starts with a pumpkin and has a sheet with directions on it, such as “Pass the pumpkin to someone wearing red.”\nThe student reads the direction and gives the pumpkin to a student wearing red.\nThe next student reads a sentence and passes the pumpkin.\nIf a student uses an AAC device, they can use it to read, or ask an adult to help them read.\n\n\nClosure:  What will you do to bring closure to the lesson? How will you summarize this lesson and preview the lesson that will follow?\n\nAt the end of class, students share, in any way that works for them, one thing they learned about the budget challenge or one direction from Pass the Pumpkin.\nConnection to Next Lesson: Students return to our usual routine and keep practicing budgeting and following directions.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReflection Guidelines\n\nThe student will write lesson plans with an eye to the Danielson Framework and the Four Domains of Professional Practice. Use this as a resource when writing lesson plans.\n\nDomain I Planning and Preparation\nHow do you know you were knowledgeable of your content?\nWhat is the evidence that your objective was clear in the lesson plan?\nHow does the lesson address individual student learning needs?\nWhat variety of strategies and methodologies did you consider when planning?\nWhat is the evidence that lesson components were logically sequenced?\nHow did your lesson plan include checks for student understanding?\nWhat PA Standards did this lesson address?\n\nDomain II Classroom Environment  \nHow did students know the behavioral and academic expectations for the lesson?\nWhat effective routines and procedures did you implement for lesson efficiency?\nHow did you insure the classroom was physically accessible for all learners?\nWhat evidence indicates that respect was shown between and among students and teacher?\nWhat evidence indicates that students placed a high value on quality participation, process, and product?\nHow do you assess if the lesson was attainable for all students but also had appropriate rigor?\n\nDomain III Instructional Delivery  \n\nHow did you align your lesson to PA Standards?\nHow did you insure a clearly stated objective, understood by learners? \nHow did you provide clear explanations as to how to proceed through the lesson?\nWhat questioning and discussion techniques insured all-learner participation?\nWhat strategies did you employ to engage all students? \nDescribe how you made the content meaningful due to sequencing and pacing.\nDiscuss how you checked for understanding, provided feedback, retaught.\nWhat is the evidence that you were you flexible and responsive to the needs of the learners?\nDescribe how you made meaning of the lesson with some form of closure activity.\n\nOverall Assessment       \n\nBriefly state any changes you will make the next time you teach this lesson or activity, to improve any of the Domains of Professional Practice."
+  }
  },
  "txt:0d9f99accb37159c9a7baf42d6a86d22": {
   "canva": [
@@ -1692,6 +1771,72 @@
     ]
    },
    "text": "Gwynedd Mercy University-School of Business & Education\n(Must be used for each lesson observed by University Supervisor)\nLesson Plan Framework\n\nSubject Area:   Learning Support Math\t\tGrade Level: 9th\n\nStudent Name: Grace Dittman\n\n\nDomain I:  Planning and Preparation\nPA Standard(s):\nCC.2.2.8.B.2: Understand the connections between proportional relationships, lines, and linear equations, including slope and y-intercept.\n\nEssential Question(s):\nStudents will consider and reflect on throughout the lesson:\nHow can I use the slope formula to find the slope between two points?\nHow can I write an equation in slope-intercept form from a slope and a y-intercept?\nHow can I graph a line from its equation?\nObjectives/Performance Expectations\nWhat will students know and be able to do as a result of this lesson?\nStudents will be able to:\nPractice slope skills on IXL.\nUse the slope formula with two coordinates to find the slope.\nComplete a slope riddle by finding the slope in each problem.\nWrite an equation in slope-intercept form from a slope and a y-intercept, and graph it on graph paper.\nReview slope-intercept form by playing Gimkit.\n\nAssessment Evidence/Level of Learning\nStudents will show what they know by evidence of/list names of formative or summative checks, quizzes, tests which indicate evidence of learning:\nPractice data: IXL practice during the first 15 minutes.\nFormative: Slope riddle worksheet: the answer at the bottom shows whether students found the slopes correctly.\nFormative: Whiteboard equations and graphs during the flash card groups.\nFormative: Gimkit results on slope-intercept form.\nDifferentiated Instruction:  Modifications in instruction and assessment for students with learning differences, specifically those with 504’s and IEP’s. Extensions/Enrichment in instruction and assessment for students who are above grade level and/or gifted. \nSupports: The visual schedule is on the board, so students know the plan for the day.\nProcess: IXL practice gives each student questions at their own level.\nContent: I show examples of the riddle on the board before students work independently.\nSmall groups: After lunch, students split into two groups, one with me and one with my cooperating teacher.\nTime: Students may finish the riddle after lunch if they need more time.\nIEP/504: Accommodations in each student’s IEP/504 plan will be followed.\nDomain II: Classroom Environment: \nDescribe Classroom/Behavior Management Plan & Routines\nThe visual schedule is on the board when students enter.\nStudents start with 15 minutes of IXL practice.\nStudents work independently on the slope riddle after IXL.\nAfter lunch, students are in two small groups, one with me and one with my cooperating teacher.\nThe class ends with a slope-intercept Gimkit.\n\nDomain III:  Instruction\nActivate Prior Knowledge/Motivation:\nPreparing students for the lesson: How will you activate prior knowledge, build background, or review previous lessons as well as motivate students for the lesson?  \n \nStudents have learned the slope formula and slope-intercept form. IXL gives each student practice at their own level, and the riddle gives independent practice with a built-in check at the end. After lunch, writing equations and graphing them connects slope and y-intercept to a line, and Gimkit finishes the day with review.\n\n\nMaterials Needed:\t\n\nVisual schedule (board), student devices for IXL, slope riddle worksheet, whiteboards, markers, erasers, calculators, slope-intercept flash cards (slope and y-intercept), graph paper, pencils, Gimkit (slope-intercept), student devices\n\n\nVocabulary (New or Review):\n\nSlope; slope formula; coordinates; y-intercept; slope-intercept form; graph; equation\n\n\nSequence of the Lesson:  \nWhat learning activities/strategies will you use to engage the students in the learning? What will students do to use and apply new concepts or skills (independent practice if relevant)?  How will you monitor and guide their performance? Include relevant vocabulary. Use bullets to sequence your lesson. \n\n\nArrival and IXL Practice — 15 minutes\nThe visual schedule is on the board.\nStudents do 15 minutes of IXL practice.\nSlope Riddle\nWe move into the slope riddle. I show examples of the riddle on the board.\nStudents continue independently.\nAt the end, students should get the answer to the riddle at the bottom of their worksheet.\nStudents can finish after lunch if needed.\nLunch\nAfter Lunch: Slope-Intercept Flash Cards — 30–35 minutes\nStudents split into two groups, one with me and one with my cooperating teacher.\nStudents grab a whiteboard, marker, eraser, and calculator.\nWe have flash cards with a slope and a y-intercept on them.\nStudents write the slope-intercept equation based on the flash card, and then graph the equation on graph paper.\nSlope-Intercept Gimkit\nWe use the rest of class to play a slope-intercept Gimkit.\n\n\nClosure:  What will you do to bring closure to the lesson? How will you summarize this lesson and preview the lesson that will follow?\n\nAt the end of class, the Gimkit shows which students know slope-intercept form and which need more practice. I look at the IXL data, riddle answers, equations, and graphs to see who needs more help.\nConnection to Next Lesson: Students keep practicing slope and slope-intercept form.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReflection Guidelines\n\nThe student will write lesson plans with an eye to the Danielson Framework and the Four Domains of Professional Practice. Use this as a resource when writing lesson plans.\n\nDomain I Planning and Preparation\nHow do you know you were knowledgeable of your content?\nWhat is the evidence that your objective was clear in the lesson plan?\nHow does the lesson address individual student learning needs?\nWhat variety of strategies and methodologies did you consider when planning?\nWhat is the evidence that lesson components were logically sequenced?\nHow did your lesson plan include checks for student understanding?\nWhat PA Standards did this lesson address?\n\nDomain II Classroom Environment  \nHow did students know the behavioral and academic expectations for the lesson?\nWhat effective routines and procedures did you implement for lesson efficiency?\nHow did you insure the classroom was physically accessible for all learners?\nWhat evidence indicates that respect was shown between and among students and teacher?\nWhat evidence indicates that students placed a high value on quality participation, process, and product?\nHow do you assess if the lesson was attainable for all students but also had appropriate rigor?\n\nDomain III Instructional Delivery  \n\nHow did you align your lesson to PA Standards?\nHow did you insure a clearly stated objective, understood by learners? \nHow did you provide clear explanations as to how to proceed through the lesson?\nWhat questioning and discussion techniques insured all-learner participation?\nWhat strategies did you employ to engage all students? \nDescribe how you made the content meaningful due to sequencing and pacing.\nDiscuss how you checked for understanding, provided feedback, retaught.\nWhat is the evidence that you were you flexible and responsive to the needs of the learners?\nDescribe how you made meaning of the lesson with some form of closure activity.\n\nOverall Assessment       \n\nBriefly state any changes you will make the next time you teach this lesson or activity, to improve any of the Domains of Professional Practice."
+  }
+ },
+ "txt:23a1e6ff40521fcea9714ef4b3c3ed4c": {
+  "canva": [],
+  "lesson": {
+   "meta": {
+    "grade": "9-12",
+    "subject": "Life Skills Math"
+   },
+   "sections": {
+    "assessment": [
+     "Formative: Student participation in the ELA lesson, as planned by the ELA teacher.",
+     "Formative: Student scavenger hunt sheet: whether students find turkeys 1 to 6 using the clues.",
+     "Formative: Observation of how students read and use the clues."
+    ],
+    "closure": [
+     "At the end of class, students share, in any way that works for them, one clue they used to find a turkey.",
+     "Connection to Next Lesson: Students return to our usual routine after the holiday."
+    ],
+    "differentiation": [
+     "Supports: Each student has a sheet with 6 numbered turkeys, so they know what to look for.",
+     "Process: Clues help students find each turkey, and adults help as needed.",
+     "Content: The scavenger hunt combines math and reading in one activity.",
+     "IEP/504: Accommodations in each student’s IEP/504 plan will be followed."
+    ],
+    "environment": [
+     "Tuesday is a half day, so we have the students for 45 minutes.",
+     "The ELA teacher leads her planned ELA lesson first.",
+     "Students then move around the English and math rooms to find the turkeys.",
+     "Adults are nearby to help students read the clues."
+    ],
+    "essential_questions": [
+     "How can clues help me find what I am looking for?",
+     "How can I use numbers and reading together to complete a task?"
+    ],
+    "materials": [
+     "ELA lesson materials (planned by the ELA teacher), scavenger hunt sheets with 6 turkeys labeled 1 to 6, 6 turkeys labeled 1 to 6 hung around the English and math rooms, clues, pencils"
+    ],
+    "objectives": [
+     "Students will be able to:",
+     "Participate in the ELA lesson planned by the ELA teacher.",
+     "Read and use clues to find turkeys 1 to 6 around the English and math rooms, and match them to their sheet."
+    ],
+    "prior_knowledge": [
+     "Students have been reading and using numbers in many of our lessons. The scavenger hunt is a fun way to use both in one activity, and it fits the Thanksgiving week."
+    ],
+    "sequence": [
+     "Half Day — 45 minutes",
+     "We have the students for 45 minutes on Tuesday.",
+     "ELA Lesson",
+     "The ELA teacher leads her planned ELA lesson.",
+     "Turkey Scavenger Hunt",
+     "Each student gets a sheet with 6 turkeys labeled 1 to 6.",
+     "The same turkeys, labeled 1 to 6, are set up around the English and math rooms.",
+     "Students read and use clues to help them find turkeys 1 to 6.",
+     "This activity uses a little bit of math and reading together."
+    ],
+    "standards": [
+     "Math and reading skills: Read and use clues, and use numbers 1 to 6, to complete a task.",
+     "IEP goals: Students follow their individual IEP goals."
+    ],
+    "vocabulary": [
+     "Turkey; clue; number; find; read; scavenger hunt"
+    ]
+   },
+   "text": "Gwynedd Mercy University-School of Business & Education\n(Must be used for each lesson observed by University Supervisor)\nLesson Plan Framework\n\nSubject Area:   Life Skills Math\t\tGrade Level: 9-12\n\nStudent Name: Grace Dittman\n\n\nDomain I:  Planning and Preparation\nPA Standard(s):\nMath and reading skills: Read and use clues, and use numbers 1 to 6, to complete a task.\nIEP goals: Students follow their individual IEP goals.\n\nEssential Question(s):\nStudents will consider and reflect on throughout the lesson:\nHow can clues help me find what I am looking for?\nHow can I use numbers and reading together to complete a task?\nObjectives/Performance Expectations\nWhat will students know and be able to do as a result of this lesson?\nStudents will be able to:\nParticipate in the ELA lesson planned by the ELA teacher.\nRead and use clues to find turkeys 1 to 6 around the English and math rooms, and match them to their sheet.\n\nAssessment Evidence/Level of Learning\nStudents will show what they know by evidence of/list names of formative or summative checks, quizzes, tests which indicate evidence of learning:\nFormative: Student participation in the ELA lesson, as planned by the ELA teacher.\nFormative: Student scavenger hunt sheet: whether students find turkeys 1 to 6 using the clues.\nFormative: Observation of how students read and use the clues.\nDifferentiated Instruction:  Modifications in instruction and assessment for students with learning differences, specifically those with 504’s and IEP’s. Extensions/Enrichment in instruction and assessment for students who are above grade level and/or gifted. \nSupports: Each student has a sheet with 6 numbered turkeys, so they know what to look for.\nProcess: Clues help students find each turkey, and adults help as needed.\nContent: The scavenger hunt combines math and reading in one activity.\nIEP/504: Accommodations in each student’s IEP/504 plan will be followed.\nDomain II: Classroom Environment: \nDescribe Classroom/Behavior Management Plan & Routines\nTuesday is a half day, so we have the students for 45 minutes.\nThe ELA teacher leads her planned ELA lesson first.\nStudents then move around the English and math rooms to find the turkeys.\nAdults are nearby to help students read the clues.\n\nDomain III:  Instruction\nActivate Prior Knowledge/Motivation:\nPreparing students for the lesson: How will you activate prior knowledge, build background, or review previous lessons as well as motivate students for the lesson?  \n \nStudents have been reading and using numbers in many of our lessons. The scavenger hunt is a fun way to use both in one activity, and it fits the Thanksgiving week.\n\n\nMaterials Needed:\t\n\nELA lesson materials (planned by the ELA teacher), scavenger hunt sheets with 6 turkeys labeled 1 to 6, 6 turkeys labeled 1 to 6 hung around the English and math rooms, clues, pencils\n\n\nVocabulary (New or Review):\n\nTurkey; clue; number; find; read; scavenger hunt\n\n\nSequence of the Lesson:  \nWhat learning activities/strategies will you use to engage the students in the learning? What will students do to use and apply new concepts or skills (independent practice if relevant)?  How will you monitor and guide their performance? Include relevant vocabulary. Use bullets to sequence your lesson. \n\n\nHalf Day — 45 minutes\nWe have the students for 45 minutes on Tuesday.\nELA Lesson\nThe ELA teacher leads her planned ELA lesson.\nTurkey Scavenger Hunt\nEach student gets a sheet with 6 turkeys labeled 1 to 6.\nThe same turkeys, labeled 1 to 6, are set up around the English and math rooms.\nStudents read and use clues to help them find turkeys 1 to 6.\nThis activity uses a little bit of math and reading together.\n\n\nClosure:  What will you do to bring closure to the lesson? How will you summarize this lesson and preview the lesson that will follow?\n\nAt the end of class, students share, in any way that works for them, one clue they used to find a turkey.\nConnection to Next Lesson: Students return to our usual routine after the holiday.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReflection Guidelines\n\nThe student will write lesson plans with an eye to the Danielson Framework and the Four Domains of Professional Practice. Use this as a resource when writing lesson plans.\n\nDomain I Planning and Preparation\nHow do you know you were knowledgeable of your content?\nWhat is the evidence that your objective was clear in the lesson plan?\nHow does the lesson address individual student learning needs?\nWhat variety of strategies and methodologies did you consider when planning?\nWhat is the evidence that lesson components were logically sequenced?\nHow did your lesson plan include checks for student understanding?\nWhat PA Standards did this lesson address?\n\nDomain II Classroom Environment  \nHow did students know the behavioral and academic expectations for the lesson?\nWhat effective routines and procedures did you implement for lesson efficiency?\nHow did you insure the classroom was physically accessible for all learners?\nWhat evidence indicates that respect was shown between and among students and teacher?\nWhat evidence indicates that students placed a high value on quality participation, process, and product?\nHow do you assess if the lesson was attainable for all students but also had appropriate rigor?\n\nDomain III Instructional Delivery  \n\nHow did you align your lesson to PA Standards?\nHow did you insure a clearly stated objective, understood by learners? \nHow did you provide clear explanations as to how to proceed through the lesson?\nWhat questioning and discussion techniques insured all-learner participation?\nWhat strategies did you employ to engage all students? \nDescribe how you made the content meaningful due to sequencing and pacing.\nDiscuss how you checked for understanding, provided feedback, retaught.\nWhat is the evidence that you were you flexible and responsive to the needs of the learners?\nDescribe how you made meaning of the lesson with some form of closure activity.\n\nOverall Assessment       \n\nBriefly state any changes you will make the next time you teach this lesson or activity, to improve any of the Domains of Professional Practice."
   }
  },
  "txt:2a30c65cb7c48166bcbbde690561b741": {

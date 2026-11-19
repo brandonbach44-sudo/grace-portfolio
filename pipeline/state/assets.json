@@ -312,6 +312,15 @@
   "thumb": "thumbs/block-2-math/week-13/activities/pass-the-pumpkin.jpg",
   "type": "pdf"
  },
+ "Block 2 Math/Week 13/Activities/Turkey Scavenger Hunt.pdf": {
+  "bytes": 4169866,
+  "file": "files/block-2-math/week-13/activities/turkey-scavenger-hunt.pdf",
+  "hash": "b59bf559fc1d0222952451c43d4fae17",
+  "orig_ext": ".pdf",
+  "pages": 3,
+  "thumb": "thumbs/block-2-math/week-13/activities/turkey-scavenger-hunt.jpg",
+  "type": "pdf"
+ },
  "Block 2 Math/Week 15/Holiday Cards/Green Red Traditional Festive Chrismas Greeting Holiday Card.pdf": {
   "bytes": 2435739,
   "cleaned": false,
@@ -2495,6 +2504,24 @@
   "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-19lessonplan.jpg",
   "type": "pdf"
  },
+ "Lesson Plans/B2 Life Skills Math/B2_11-23LessonPlan.docx": {
+  "bytes": 92512,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-23lessonplan.pdf",
+  "hash": "txt:0cd9ecc7bc415bcd304a1d8e248ee2a9",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-23lessonplan.jpg",
+  "type": "pdf"
+ },
+ "Lesson Plans/B2 Life Skills Math/B2_11-24LessonPlan.docx": {
+  "bytes": 90378,
+  "file": "files/lesson-plans/b2-life-skills-math/b2-11-24lessonplan.pdf",
+  "hash": "txt:23a1e6ff40521fcea9714ef4b3c3ed4c",
+  "orig_ext": ".docx",
+  "pages": 4,
+  "thumb": "thumbs/lesson-plans/b2-life-skills-math/b2-11-24lessonplan.jpg",
+  "type": "pdf"
+ },
  "Lesson Plans/B2 Life Skills Math/B2_11-2LessonPlan.docx": {
   "bytes": 94308,
   "file": "files/lesson-plans/b2-life-skills-math/b2-11-2lessonplan.pdf",
@@ -3082,6 +3109,22 @@
   "thumb": "thumbs/photos/combiningliketermsuno.jpg",
   "type": "image"
  },
+ "Photos/FallBingo (1).HEIC": {
+  "error": "Command '['convert', '/home/runner/work/grace-portfolio/grace-portfolio/.work/src/Photos/FallBingo (1).HEIC[0]', '-auto-orient', '-strip', '/home/runner/work/grace-portfolio/grace-portfolio/site/files",
+  "hash": "fdb147a52f81157b549ec37c93f6a900"
+ },
+ "Photos/FallBingo.HEIC": {
+  "error": "Command '['convert', '/home/runner/work/grace-portfolio/grace-portfolio/.work/src/Photos/FallBingo.HEIC[0]', '-auto-orient', '-strip', '/home/runner/work/grace-portfolio/grace-portfolio/site/files/pho",
+  "hash": "9d8dfd5fbc7b8a56e69b42088c5b4939"
+ },
+ "Photos/FallPatternandCounting.HEIC": {
+  "error": "Command '['convert', '/home/runner/work/grace-portfolio/grace-portfolio/.work/src/Photos/FallPatternandCounting.HEIC[0]', '-auto-orient', '-strip', '/home/runner/work/grace-portfolio/grace-portfolio/s",
+  "hash": "3357c1c2640abde1df3b140e790a06e0"
+ },
+ "Photos/Math Station.HEIC": {
+  "error": "Command '['convert', '/home/runner/work/grace-portfolio/grace-portfolio/.work/src/Photos/Math Station.HEIC[0]', '-auto-orient', '-strip', '/home/runner/work/grace-portfolio/grace-portfolio/site/files/",
+  "hash": "b224c4b7854041208fb1a3f81389003d"
+ },
  "Photos/PumpkinDrawing.jpeg": {
   "bytes": 5763228,
   "file": "files/photos/pumpkindrawing.jpg",
@@ -3100,6 +3143,10 @@
   "thumb": "thumbs/photos/ramspack.jpg",
   "type": "image"
  },
+ "Photos/Stuff the Turkey.HEIC": {
+  "error": "Command '['convert', '/home/runner/work/grace-portfolio/grace-portfolio/.work/src/Photos/Stuff the Turkey.HEIC[0]', '-auto-orient', '-strip', '/home/runner/work/grace-portfolio/grace-portfolio/site/fi",
+  "hash": "2f49a0a3522093238f51812f75d91430"
+ },
  "Photos/StuffTheTurkey.jpeg": {
   "bytes": 4477990,
   "file": "files/photos/stufftheturkey.jpg",
@@ -3117,6 +3164,14 @@
   "pages": 1,
   "thumb": "thumbs/photos/stufftheturkey1.jpg",
   "type": "image"
+ },
+ "Photos/StuffTheTurkeyDirections.HEIC": {
+  "error": "Command '['convert', '/home/runner/work/grace-portfolio/grace-portfolio/.work/src/Photos/StuffTheTurkeyDirections.HEIC[0]', '-auto-orient', '-strip', '/home/runner/work/grace-portfolio/grace-portfolio",
+  "hash": "ad7fb10bb7251bc69db9d4c2d8095dd2"
+ },
+ "Photos/StuffTheTurkeyStudentWork.HEIC": {
+  "error": "Command '['convert', '/home/runner/work/grace-portfolio/grace-portfolio/.work/src/Photos/StuffTheTurkeyStudentWork.HEIC[0]', '-auto-orient', '-strip', '/home/runner/work/grace-portfolio/grace-portfoli",
+  "hash": "d55caa6c39d134cdbdcc4952a48aa911"
  },
  "Resume/DittmanResume2026.pdf": {
   "bytes": 45316,
